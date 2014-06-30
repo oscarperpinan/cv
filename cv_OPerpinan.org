@@ -208,12 +208,13 @@ Electrificación rural fotovoltaica.
 
 ** Artículos
 *** Revistas Internacionales
-Disponibles en [[http://oscarperpinan.github.io]]
+Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
 - F. Antonanzas-Torres, A. Sanz-Garcia, F. J. Martínez-de-Pisón,
   *O. Perpiñán*, J. Polo, Towards downscaling of aerosol gridded
-  dataset for improving solar resource assessment. Application to
-  Spain, Renewable Energy, 2014. Accepted.
+  dataset for improving solar resource assessment, an application to
+  Spain, Renewable Energy, Volume 71, November 2014, Pages 534-544,
+  ISSN 0960-1481, 10.1016/j.renene.2014.06.010.
 
 - F. Antonanzas Torres, F. J. Martínez de Pisón , J. Antonanzas ,
   *O. Perpiñán*, Downscaling of global solar irradiation in R, 2013.
