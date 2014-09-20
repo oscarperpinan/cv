@@ -182,7 +182,7 @@ Electrificación rural fotovoltaica.
     Fotovoltaica'' del Máster de Energías Renovables y Mercado
     Energético de la EOI.
   - Publicado online con licencia Creative Commons.
-  - http://procomun.wordpress.com/documentos/libroesf/
+  - [[http://oscarperpinan.github.com/esf]]
 
 - Diseño de Sistemas Fotovoltaicos
   
@@ -213,7 +213,8 @@ Disponibles en [[http://oscarperpinan.github.io]]
 - F. Antonanzas-Torres, A. Sanz-Garcia, F. J. Martínez-de-Pisón,
   *O. Perpiñán*, J. Polo, Towards downscaling of aerosol gridded
   dataset for improving solar resource assessment. Application to
-  Spain, Renewable Energy, 2014. Accepted.
+  Spain, Renewable Energy, Volume 71, November 2014, Pages 534-544,
+  10.1016/j.renene.2014.06.010.
 
 - F. Antonanzas Torres, F. J. Martínez de Pisón , J. Antonanzas ,
   *O. Perpiñán*, Downscaling of global solar irradiation in R, 2013.
