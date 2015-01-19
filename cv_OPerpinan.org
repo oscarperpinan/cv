@@ -315,68 +315,40 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
 * Cursos y Seminarios Impartidos
 
-- Taller "Visualización de Series Temporales" en las VI Jornadas de Usuarios de R.
+- Curso "Introducción a R" (8 horas) para profesores de la UPM (Diciembre 2014)
 
-- Taller "Visualización de Datos Raster" en las VI Jornadas de Usuarios de R.
+- Curso "Introducción a R" (10 horas) para investigadores del CEIGRAM-UPM (Noviembre 2014)
 
-- Ponencia "Data Visualization with R" dentro del Máster "Data Driven
-  Methods in Environmental Management and Conservation" del Instituto
+- Taller "Visualización de Series Temporales" en las VI Jornadas de Usuarios de R (Octubre 2014)
+
+- Taller "Visualización de Datos Raster" en las VI Jornadas de Usuarios de R (Octubre 2014)
+
+- Ponencia "Data Visualization with R" dentro del Máster "Data Driven Methods in Environmental Management and Conservation" del Instituto
   de Empresa (Febrero, 2013).
 
-- Curso "Introducción a R" (8 horas) para profesores de la UNED (Marzo
-  2013).
+- Curso "Introducción a R" (8 horas) para profesores de la UNED (Marzo 2013).
 
-- Curso "R avanzado" (8 horas) para profesores de la UNED (Marzo
-  2013).
+- Curso "R avanzado" (8 horas) para profesores de la UNED (Marzo 2013).
 
-- Participacion en las ediciones 2012/2013, 2011/2012, 2010/2011 y 2010/2009 del Master
-   propio de Energías Renovables y Medio Ambiente de la UPM,
-   organizado por la EUITI-UPM, impartiendo el tema ``Diseño de
-   plantas FV con seguimiento solar'' con una duración de 4,5
-   horas.
+- Participacion en las ediciones 2014/2015, 2013/2014, 2012/2013, 2011/2012, 2010/2011 y 2010/2009 del Master propio de Energías Renovables y Medio Ambiente de la UPM, organizado por la EUITI-UPM, impartiendo el tema ``Diseño de plantas FV con seguimiento solar'' con una duración de 4,5 horas.
 
-- Curso ``Instalaciones de energía solar'', impartido del 15/09/10
-   al 16/10/11 con una duración de 109 horas, organizado por la
-   ETSI-Montes-UPM, impartiendo el modulo ``Sistemas fotovoltaicos
-   conectados a red'', con una duración de 5 horas.
+- Curso ``Instalaciones de energía solar'', impartido del 15/09/10 al 16/10/11 con una duración de 109 horas, organizado por la ETSI-Montes-UPM, impartiendo el modulo ``Sistemas fotovoltaicos conectados a red'', con una duración de 5 horas.
 
-- Formación a distancia sobre Diseño y Optimización de Sistemas
-   Fotovoltaicos al responsable de Sistemas Solares de la empresa
-   MENA. Este proceso de formación, con una duración de 6 meses,
-   se ha basado en las potencialidades del paquete software solaR,
-   reseñado anteriormente.
+- Formación a distancia sobre Diseño y Optimización de Sistemas Fotovoltaicos al responsable de Sistemas Solares de la empresa MENA. Este proceso de formación, con una duración de 6 meses, se ha basado en las potencialidades del paquete software solaR, reseñado anteriormente.
 
-- Curso ``Técnico en energías renovables'', impartido del 01/09/09
-   al 27/10/09 con una duración de 200 horas, organizado por la
-   EUITI-UPM, impartiendo el modulo ``Sistemas fotovoltaicos
-   conectados a red'', con una duración de 5 horas.
+- Curso ``Técnico en energías renovables'', impartido del 01/09/09 al 27/10/09 con una duración de 200 horas, organizado por la EUITI-UPM, impartiendo el modulo ``Sistemas fotovoltaicos conectados a red'', con una duración de 5 horas.
 
-- Curso ``Instalaciones de energía solar'', impartido del 15/09/09
-   al 16/10/09 con una duración de 109 horas, organizado por la
-   ETSI-Montes-UPM, impartiendo el modulo ``Sistemas fotovoltaicos
-   conectados a red'', con una duración de 5 horas.
+- Curso ``Instalaciones de energía solar'', impartido del 15/09/09 al 16/10/09 con una duración de 109 horas, organizado por la ETSI-Montes-UPM, impartiendo el modulo ``Sistemas fotovoltaicos conectados a red'', con una duración de 5 horas.
 
-- Curso ``Técnico en instalaciones solares en edificios'',
-   impartido del 01/09/09 al 15/10/09, organizado por la
-   EUITI-UPM, impartiendo el módulo ``Sistemas fotovoltaicos
-   conectados a red'', con una duración de 25 horas.
+- Curso ``Técnico en instalaciones solares en edificios'', impartido del 01/09/09 al 15/10/09, organizado por la EUITI-UPM, impartiendo el módulo ``Sistemas fotovoltaicos conectados a red'', con una duración de 25 horas.
 
-- Participacion en el curso ``Técnico en instalaciones
-   fotovoltaicas y eolicas'', impartido del 06/10/09 al 04/12/09,
-   organizado por la EUITI-UPM, impartiendo el módulo ``Sistemas
-   fotovoltaicos conectados a red'', con una duración de 15 horas.
+- Participacion en el curso ``Técnico en instalaciones fotovoltaicas y eolicas'', impartido del 06/10/09 al 04/12/09, organizado por la EUITI-UPM, impartiendo el módulo ``Sistemas fotovoltaicos conectados a red'', con una duración de 15 horas.
 
-- Participacion en el curso ``Energías renovables'', ediciones
-   2011/2012, 2010/2011 y 2009/2010, con una duración de 200
-   horas, organizado por la ETSI-Montes-UPM, impartiendo el módulo
-   ``Energía solar fotovoltaica'', con una duración de 5 horas.
-
-
+- Participacion en el curso ``Energías renovables'', ediciones 2011/2012, 2010/2011 y 2009/2010, con una duración de 200 horas, organizado por la ETSI-Montes-UPM, impartiendo el módulo ``Energía solar fotovoltaica'', con una duración de 5 horas.
 
 * Cursos y Seminarios recibidos
 
 /(Ordenados por duración)/
-
 
 - Experto Universitario en Métodos Avanzados de Estadística
    Aplicada (UNED, 2009/2010, 625 horas)
@@ -408,7 +380,6 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 - Rechargeable batteries (OTTI Kolleg, 2002, 20 horas)
 
 - Wavelets en Estadística (ICE-UPM, 2010, 8 horas)
-
 
 
 * Becas, Ayudas y Premios recibidos
