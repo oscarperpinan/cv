@@ -424,47 +424,49 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
 * Otros Méritos Docentes o de Investigación
 
-- Acreditación de la Agencia Nacional de Evaluación de la Calidad y
-  Acreditación (ANECA) para la figura de Profesor Titular de
-  Universidad.
+** Revisor para revistas
 
-- Evaluación positiva por la Agencia Nacional de Evaluación de la
-  Calidad y Acreditación (ANECA) para la figura de Profesor Contratado
-  Doctor, Profesor Ayudante Doctor y Profesor de Universidad Privada.
+  - /Solar Energy/
 
-- Evaluación positiva por la Agencia de Calidad, Acreditación y
-  Prospectiva de las Universidades de Madrid (ACAP) para la figura de
-  Profesor Contratado Doctor y Profesor Ayudante Doctor.
+  - /Journal of Statistical Software/
 
-- Evaluación favorable de la actividad docente según el programa
-  DOCENTIA de la ANECA durante el período comprendido entre noviembre
-  de 2008 y junio de 2011.
+  - /Computers and Geosciences/
 
-- Revisor para la revista /Solar Energy/.
+  - /Applied Energy/
 
-- Revisor para la revista /Journal of Solar Engineering/.
+  - /Journal of Solar Engineering/
 
-- Revisor para la revista /IET Renewable Power Generation/.
+  - /IET Renewable Power Generation/
 
-- Presidente del Comité Organizador y miembro del Comité Científico de
-  las III Jornadas de Usuarios de R (http://r-es.org/III+Jornadas).
+** Miembro de tribunales de Tesis Doctoral
 
-- Miembro del Comité Científico de las IV, V, y VI Jornadas de
-  Usuarios de R (http://r-es.org/IV+Jornadas,
-  http://r-es.org/V+Jornadas, http://r-es.org/VI+Jornadas).
+  - ``El Proyecto Pierre Auger como Red de Sistemas Fotovoltaicos Aislados de Alta Estadística'' (Iago Rodriguez Cabo, USC 2015)
 
-- Vocal de la Asociación de Usuarios de R.
+  - ``Predicción espacio-temporal de la irradiancia solar global a corto plazo en España mediante geoestadística y redes neuronales artificiales'' (Federico Vladimir Gutierrez Corea, UPM 2014)
 
-- Miembro del tribunal de la tesis doctoral ``Energía solar
-   fotovoltaica: competitividad y evaluación económica,
-   comparativa y modelos'' defendida por D. Eduardo Collado
-   Fernández, calificada con ``Sobresaliente cum laude''.
+  - ``Energía solar fotovoltaica: competitividad y evaluación económica, comparativa y modelos'' (Eduardo Collado Fernández, UNED 2009)
 
-- Miembro de la Comisión Técnica de la Asociación de la Industria
-   Fotovoltaica (ASIF) hasta Diciembre del 2008.
+** Acreditaciones
 
-- Miembro del grupo GT C del Comité de Normalización SC82 hasta
-   Diciembre del 2008.
+  - Acreditación de la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA) para la figura de Profesor Titular de Universidad.
+
+  - Evaluación positiva por la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA) para la figura de Profesor Contratado Doctor, Profesor Ayudante Doctor y Profesor de Universidad Privada.
+
+  - Evaluación positiva por la Agencia de Calidad, Acreditación y Prospectiva de las Universidades de Madrid (ACAP) para la figura de Profesor Contratado Doctor y Profesor Ayudante Doctor.
+
+  - Evaluación favorable de la actividad docente según el programa DOCENTIA de la ANECA durante el período comprendido entre noviembre de 2008 y junio de 2011.
+
+** Asociaciones
+
+  - Presidente del Comité Organizador y miembro del Comité Científico de las III Jornadas de Usuarios de R (http://r-es.org/III+Jornadas).
+
+  - Miembro del Comité Científico de las IV, V, y VI Jornadas de Usuarios de R (http://r-es.org/IV+Jornadas, http://r-es.org/V+Jornadas, http://r-es.org/VI+Jornadas).
+
+  - Vocal de la Asociación de Usuarios de R.
+
+  - Miembro de la Comisión Técnica de la Asociación de la Industria Fotovoltaica (ASIF) hasta Diciembre del 2008.
+
+  - Miembro del grupo GT C del Comité de Normalización SC82 hasta Diciembre del 2008.
 
 
 # * Diligencia de Curriculum
