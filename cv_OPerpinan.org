@@ -318,28 +318,29 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
     
 ** Congresos nacionales
 #+ATTR_LATEX: :environment longtable :align p{87mm}|p{30mm}|p{15mm}|p{30mm}
-    | Título                                                                                                                          | Lugar     | Fecha     | Entidad Organizadora |
-    |---------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+----------------------|
-    | Comparativa y análisis de variabilidad espacial entre medidas de radiación solar terrestre y satelital                          | Madrid    | Nov. 2011 | AUR                  |
-    | solaR: geometría, radiación y energía solar en R                                                                                | Madrid    | Nov. 2011 | AUR                  |
-    | Datos geográficos de tipo raster en R                                                                                           | Madrid    | Nov. 2011 | AUR                  |
-    | Instalación de energía solar en la nueva fabrica de Isofoton en el PTA de Málaga                                                | Málaga    | Jun. 2005 | AEIPRO               |
-    | Solarizate: proyecto escuelas solares de Greenpeace-IDAE                                                                        | Vigo      | Sep. 2004 | Univ. Vigo           |
-    | Sistema solar térmico y fotovoltaico en hotel urbano                                                                            | Vigo      | Sep. 2004 | Univ. Vigo           |
-    | Centrales híbridas solar-diesel: nuestra experiencia                                                                            | Vigo      | Sep. 2004 | Univ. Vigo           |
-    | Fachada doble fotovoltaica ``PVskin'': prototipos, investigación y desarrollo                                                   | Vigo      | Sep. 2004 | Univ. Vigo           |
-    | Experiencia en sistemas de bombeo solar y simulación matemática de bombeos solares con equipos estándar                         | Vigo      | Sep. 2004 | Univ. Vigo           |
-    | Monitorización wireless de instalación fotovoltaica de 56 kWp en el parque tecnológico de Andalucia basada en la tecnología OPC | Vigo      | Sep. 2004 | Univ. Vigo           |
-    | Instalación de energía solar térmica con maquina de absorción                                                                   | Pamplona  | Oct. 2003 | AEIPRO               |
-    | Ósmosis inversa alimentada mediante energía solar fotovoltaica                                                                  | Pamplona  | Oct. 2003 | AEIPRO               |
-    | Photocampa: sistema fotovoltaico integrado en estructura de aparcamiento                                                        | Barcelona | Oct. 2002 | AEIPRO               |
+    | Título                                                                                                                          | Lugar                  | Fecha     | Entidad Organizadora |
+    |---------------------------------------------------------------------------------------------------------------------------------+------------------------+-----------+----------------------|
+    | meteoForecast: predicciones meteorológicas de modelos NWP en R                                                                  | Santiago de Compostela | Oct. 2014 | Comunidad R-Hispano  |
+    | Comparativa y análisis de variabilidad espacial entre medidas de radiación solar terrestre y satelital                          | Madrid                 | Nov. 2011 | AUR                  |
+    | solaR: geometría, radiación y energía solar en R                                                                                | Madrid                 | Nov. 2011 | AUR                  |
+    | Datos geográficos de tipo raster en R                                                                                           | Madrid                 | Nov. 2011 | AUR                  |
+    | Instalación de energía solar en la nueva fabrica de Isofoton en el PTA de Málaga                                                | Málaga                 | Jun. 2005 | AEIPRO               |
+    | Solarizate: proyecto escuelas solares de Greenpeace-IDAE                                                                        | Vigo                   | Sep. 2004 | Univ. Vigo           |
+    | Sistema solar térmico y fotovoltaico en hotel urbano                                                                            | Vigo                   | Sep. 2004 | Univ. Vigo           |
+    | Centrales híbridas solar-diesel: nuestra experiencia                                                                            | Vigo                   | Sep. 2004 | Univ. Vigo           |
+    | Fachada doble fotovoltaica ``PVskin'': prototipos, investigación y desarrollo                                                   | Vigo                   | Sep. 2004 | Univ. Vigo           |
+    | Experiencia en sistemas de bombeo solar y simulación matemática de bombeos solares con equipos estándar                         | Vigo                   | Sep. 2004 | Univ. Vigo           |
+    | Monitorización wireless de instalación fotovoltaica de 56 kWp en el parque tecnológico de Andalucia basada en la tecnología OPC | Vigo                   | Sep. 2004 | Univ. Vigo           |
+    | Instalación de energía solar térmica con maquina de absorción                                                                   | Pamplona               | Oct. 2003 | AEIPRO               |
+    | Ósmosis inversa alimentada mediante energía solar fotovoltaica                                                                  | Pamplona               | Oct. 2003 | AEIPRO               |
+    | Photocampa: sistema fotovoltaico integrado en estructura de aparcamiento                                                        | Barcelona              | Oct. 2002 | AEIPRO               |
 
 
 
 * Desarrollos
 
 
-- solaR ([[http://oscarperpinan.github.io/solar/]]): paquete software basado
+- =solaR= ([[http://oscarperpinan.github.io/solar/]]): paquete software basado
   en R compuesto por un conjunto de funciones destinadas al calculo de
   la radiación solar incidente en sistemas fotovoltaicos y a la
   simulacion del funcionamiento de diferentes aplicaciones de esta
@@ -349,16 +350,21 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
   productividad final de sistemas fotovoltaicos de conexión a red y de
   bombeo.
 
-- rasterVis ([[http://oscarperpinan.github.io/rastervis/]]): paquete software
+- =rasterVis= ([[http://oscarperpinan.github.io/rastervis/]]): paquete software
   basado en R para la visualización e interacción gráfica de datos
   espaciales masivos.
 
-- pdCluster (http://pdcluster.r-forge.r-project.org/): paquete
+- =meteoForecast= (http://github.com/oscarperpinan/meteoForecast):
+  paquete software basado en R =meteoForecast= que permite obtener
+  predicciones de modelos numéricos meteorológicos producidos por
+  diferentes servicios en formato raster o como series temporales.
+
+- =pdCluster= (http://pdcluster.r-forge.r-project.org/): paquete
   software basado en R para la cuantificación, clasificación y
   análisis de importancia de variables de señales de descargas
   parciales en equipos de Alta Tensión.
 
-- pxR (http://pxr.r-forge.r-project.org/): paquete software basado en
+- =pxR= (http://pxr.r-forge.r-project.org/): paquete software basado en
   R para la manipulación de fuentes de datos basadas en el formato
   PC-Axis, habitualmente empleado por instituciones nacionales e
   internacionales para la publicación de información.
@@ -366,6 +372,10 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
 
 * Cursos y Seminarios Impartidos
+
+- Taller "Visualización de Series Temporales" en las VI Jornadas de Usuarios de R.
+
+- Taller "Visualización de Datos Raster" en las VI Jornadas de Usuarios de R.
 
 - Ponencia "Data Visualization with R" dentro del Máster "Data Driven
   Methods in Environmental Management and Conservation" del Instituto
@@ -524,10 +534,11 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 - Revisor para la revista /IET Renewable Power Generation/.
 
 - Presidente del Comité Organizador y miembro del Comité Científico de
-  las III Jornadas de Usuarios de R (http://r-es.org/III%2BJornadas).
+  las III Jornadas de Usuarios de R (http://r-es.org/III+Jornadas).
 
-- Miembro del Comité Científico de las IV Jornadas de Usuarios de
-   R (http://r-es.org/IV%2BJornadas).
+- Miembro del Comité Científico de las IV, V, y VI Jornadas de
+  Usuarios de R (http://r-es.org/IV+Jornadas,
+  http://r-es.org/V+Jornadas, http://r-es.org/VI+Jornadas).
 
 - Vocal de la Asociación de Usuarios de R.
 
