@@ -23,23 +23,20 @@
 - Nombre: Oscar Perpiñán Lamigueiro
 - Correo electrónico: [[mailto:oscar.perpinan@upm.es][oscar.perpinan@upm.es]]
 - Web: [[http://oscarperpinan.github.io]]
-- LinkeIn: [[http://es.linkedin.com/in/oscarperpinan]]
-- twitter: [[https://twitter.com/oscarperpinan][@oscarperpinan]]
-
+- LinkedIn: [[http://es.linkedin.com/in/oscarperpinan]]
 
 ** Contrato vigente en ámbito universitario
 
 - Universidad Politécnica de Madrid
-  - Escuela Universitaria de Ingenería Técnica Industrial
-  - Departamento de Ingeniería Eléctrica
+  - Escuela Técnica Superior de Ingeniería de Diseño Industrial
+  - Departamento de Ingeniería Eléctrica, Eléctrónica, Automática, y de Física Aplicada
   - Categoría Actual: Profesor Ayudante Doctor
 
 
 * Títulos Académicos
 
 - Doctor en Ingeniería Industrial
-  - Tesis: ``Grandes Centrales Fotovoltaicas: producción,
-     seguimiento y ciclo de vida''
+  - Tesis: ``Grandes Centrales Fotovoltaicas: producción, seguimiento y ciclo de vida''
   - ETSII-UNED (Abr-2008)
   - Sobresaliente cum laude
   - Premio Extraordinario
@@ -47,28 +44,31 @@
 - Ingeniero de Telecomunicación
   - ETSIT-UPM (Dic-1999)
   - Especialidad en Radiocomunicación
+  - Proyecto de Fin de Carrera: ``Desarrollo de un protocolo de medida de lámparas fluorescentes para instalaciones fotovoltaicas de electrificación rural''
 
 
 * Actividad Docente
 
-** Profesor Ayudante Doctor en el Departamento de Ingeniería Eléctrica de la EUITI-UPM:
+** ETSIDI-UPM
 
-- Diseño Avanzado de Sistemas Energéticos Solares (cursos 2014/2015, 2013/2014 y 2012/2013).
+Profesor Ayudante Doctor en el Departamento de Ingeniería Eléctrica, Electrónica, Automática y de Física Aplicada:
 
-- Teoría de Circuitos (cursos 2014/2015, 2013/2014, 2012/2013 y 2011/2012)
+  - Diseño Avanzado de Sistemas Energéticos Solares (cursos 2014/2015, 2013/2014 y 2012/2013).
 
-- Laboratorio de Teoría de Circuitos III (cursos 2014/2014 y 2013/2014)
+  - Teoría de Circuitos (cursos 2014/2015, 2013/2014, 2012/2013 y 2011/2012)
 
-- Laboratorio de Teoría de Circuitos II (curso 2010/2011)
+  - Laboratorio de Teoría de Circuitos III (cursos 2014/2015 y 2013/2014)
 
-- Fundamentos de Electrotecnia (Especialidad Eléctricos) (7,5 créditos) en los cursos 2008/2009 y 2009/2010.
+  - Laboratorio de Teoría de Circuitos II (curso 2010/2011)
 
-- Fundamentos de Electrotecnia (Especialidad Mecánicos) y Laboratorio de Fundamentos de Electrotecnia (Especialidad Mecánicos) (7,5 créditos) en los cursos 2008/2009 y 2009/2010.
+  - Fundamentos de Electrotecnia (Especialidad Eléctricos) (7,5 créditos) en los cursos 2008/2009 y 2009/2010.
 
+  - Fundamentos de Electrotecnia (Especialidad Mecánicos) y Laboratorio de Fundamentos de Electrotecnia (Especialidad Mecánicos) (7,5 créditos) en los cursos 2008/2009 y 2009/2010.
 
-** Profesor en la Escuela de Organización Industrial
+  
+** Escuela de Organización Industrial
 
-Miembro del claustro del Máster de Energías Renovables y Mercado Energético (MERME) de la EOI:
+Colaborador en el Máster de Energías Renovables y Mercado Energético (MERME) de la Escuela de Organización Industrial:
 
 - Cursos 2014-2015, 2013-2014, 2012-2013, 2011-2012, 2011-2010 y 2009-2010: Asignatura troncal ``Energía Solar Fotovoltaica'' con un total de 70 horas lectivas.
 
@@ -258,14 +258,14 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
     | Titulo                                                                                                             | Lugar     | Fecha     | Entidad Organizadora |
     |--------------------------------------------------------------------------------------------------------------------+-----------+-----------+----------------------|
     | Downscaling of Solar Irradiation from Satellite Models                                                             | Logroño   | Jul. 2013 | AEIPRO               |
-    | New Procedure to Determine Insulation Condition of High Voltage Equipment by Means of {PD} Measurements in Service | Francia   | 2012      | CIGRE                |
+    | New Procedure to Determine Insulation Condition of High Voltage Equipment by Means of PD Measurements in Service   | Francia   | 2012      | CIGRE                |
     | PD monitoring system of HV cable                                                                                   | Francia   | Jun. 2011 | Jicable              |
     | PV solar tracking systems analysis                                                                                 | Italia    | Sep. 2007 | WIP                  |
     | A real case of building integrated PV. Isofoton offices in Malaga                                                  | Alemania  | Sep. 2006 | WIP                  |
     | Analysis and comparison of performance of large plants: Photocampa and Forum                                       | Barcelona | Jun. 2005 | WIP                  |
     | PV pumping systems: cases of study                                                                                 | Francia   | Jun. 2004 | WIP                  |
-    | PV soundless- world record along the highway: a PV sound barrier with 500 kwp and ceramic based pv modules         | Francia   | Jun. 2004 | WIP                  |
-    | Forum solar: a large pergola for forum                                                                             | Francia   | Jun. 2004 | WIP                  |
+    | PV Soundless- world record along the highway: a PV sound barrier with 500 kwp and ceramic based PV modules         | Francia   | Jun. 2004 | WIP                  |
+    | Forum Solar: a large pergola for Forum                                                                             | Francia   | Jun. 2004 | WIP                  |
     | Architecture and PV: discussion and experiences                                                                    | Francia   | Jun. 2004 | WIP                  |
     | PV pumping systems: cases of study                                                                                 | Tailandia | Ene. 2004 | PVSEC Comittee       |
     | Architectural integration of grid connected photovoltaic systems for schools in coslada                            | Japon     | Mayo 2003 | WCPEC3               |
@@ -332,19 +332,19 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
 - Curso "R avanzado" (8 horas) para profesores de la UNED (Marzo 2013).
 
-- Participacion en las ediciones 2014/2015, 2013/2014, 2012/2013, 2011/2012, 2010/2011 y 2010/2009 del Master propio de Energías Renovables y Medio Ambiente de la UPM, organizado por la EUITI-UPM, impartiendo el tema ``Diseño de plantas FV con seguimiento solar'' con una duración de 4,5 horas.
+- Participacion en las ediciones 2014/2015, 2013/2014, 2012/2013, 2011/2012, 2010/2011 y 2010/2009 del Master propio de Energías Renovables y Medio Ambiente de la UPM, organizado por la ETSIDI-UPM, impartiendo el tema ``Diseño de plantas FV con seguimiento solar'' con una duración de 4,5 horas.
 
 - Curso ``Instalaciones de energía solar'', impartido del 15/09/10 al 16/10/11 con una duración de 109 horas, organizado por la ETSI-Montes-UPM, impartiendo el modulo ``Sistemas fotovoltaicos conectados a red'', con una duración de 5 horas.
 
 - Formación a distancia sobre Diseño y Optimización de Sistemas Fotovoltaicos al responsable de Sistemas Solares de la empresa MENA. Este proceso de formación, con una duración de 6 meses, se ha basado en las potencialidades del paquete software solaR, reseñado anteriormente.
 
-- Curso ``Técnico en energías renovables'', impartido del 01/09/09 al 27/10/09 con una duración de 200 horas, organizado por la EUITI-UPM, impartiendo el modulo ``Sistemas fotovoltaicos conectados a red'', con una duración de 5 horas.
+- Curso ``Técnico en energías renovables'', impartido del 01/09/09 al 27/10/09 con una duración de 200 horas, organizado por la ETSIDI-UPM, impartiendo el modulo ``Sistemas fotovoltaicos conectados a red'', con una duración de 5 horas.
 
 - Curso ``Instalaciones de energía solar'', impartido del 15/09/09 al 16/10/09 con una duración de 109 horas, organizado por la ETSI-Montes-UPM, impartiendo el modulo ``Sistemas fotovoltaicos conectados a red'', con una duración de 5 horas.
 
-- Curso ``Técnico en instalaciones solares en edificios'', impartido del 01/09/09 al 15/10/09, organizado por la EUITI-UPM, impartiendo el módulo ``Sistemas fotovoltaicos conectados a red'', con una duración de 25 horas.
+- Curso ``Técnico en instalaciones solares en edificios'', impartido del 01/09/09 al 15/10/09, organizado por la ETSIDI-UPM, impartiendo el módulo ``Sistemas fotovoltaicos conectados a red'', con una duración de 25 horas.
 
-- Participacion en el curso ``Técnico en instalaciones fotovoltaicas y eolicas'', impartido del 06/10/09 al 04/12/09, organizado por la EUITI-UPM, impartiendo el módulo ``Sistemas fotovoltaicos conectados a red'', con una duración de 15 horas.
+- Participacion en el curso ``Técnico en instalaciones fotovoltaicas y eolicas'', impartido del 06/10/09 al 04/12/09, organizado por la ETSIDI-UPM, impartiendo el módulo ``Sistemas fotovoltaicos conectados a red'', con una duración de 15 horas.
 
 - Participacion en el curso ``Energías renovables'', ediciones 2011/2012, 2010/2011 y 2009/2010, con una duración de 200 horas, organizado por la ETSI-Montes-UPM, impartiendo el módulo ``Energía solar fotovoltaica'', con una duración de 5 horas.
 
@@ -352,32 +352,23 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
 /(Ordenados por duración)/
 
-- Experto Universitario en Métodos Avanzados de Estadística
-   Aplicada (UNED, 2009/2010, 625 horas)
+- Experto Universitario en Métodos Avanzados de Estadística Aplicada (UNED, 2009/2010, 625 horas)
 
-- Aplicación de las energías renovables (ETSII-UPC, 2001/2002, 300
-   horas)
+- Aplicación de las energías renovables (ETSII-UPC, 2001/2002, 300 horas)
 
-- Caracterización de la radiación solar como recurso energético
-   (CIEMAT, 2006, 30 horas)
+- Caracterización de la radiación solar como recurso energético (CIEMAT, 2006, 30 horas)
 
-- Prevención de riesgos laborales Baja Tensión y proximidad Alta
-   Tensión (CEFOIM, 2008, 30 horas)
+- Prevención de riesgos laborales Baja Tensión y proximidad Alta Tensión (CEFOIM, 2008, 30 horas)
 
-- Estadística en la investigación experimental (ICE-UPM, 2010, 28
-   horas)
+- Estadística en la investigación experimental (ICE-UPM, 2010, 28 horas)
 
-- Estadística comparativa y de investigación para uno y dos grupos
-   de muestras (ICE-UPM, 2009, 24 horas)
+- Estadística comparativa y de investigación para uno y dos grupos de muestras (ICE-UPM, 2009, 24 horas)
 
 - Habilidades de negociación (Criteria, 2004, 20 horas)
 
-- Curso eléctrico de Media Tensión (Pedro Giner Editorial, 2003,
-   18 horas)
+- Curso eléctrico de Media Tensión (Pedro Giner Editorial, 2003, 18 horas)
 
-- Introduction to mathematical optimization techniques applied to
-   power systems generation operation planning (Universidad
-   Pontificia de Comillas, 2003, 20 horas)
+- Introduction to mathematical optimization techniques applied to power systems generation operation planning (Universidad Pontificia de Comillas, 2003, 20 horas)
 
 - Rechargeable batteries (OTTI Kolleg, 2002, 20 horas)
 
@@ -392,35 +383,27 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 * Actividad en Empresas y Profesión Libre
 
 
-- Octubre 2010- Enero 2009: Ejercicio libre de la profesión:
-   consultoría sobre diseño y análisis de funcionamiento de
-   sistemas fotovoltaicos.
+- Octubre 2010- Enero 2009: Ejercicio libre de la profesión: consultoría sobre diseño y análisis de funcionamiento de sistemas fotovoltaicos.
 
 - Diciembre 2008- Enero 2007: Subdirector Técnico de ISOFOTON
   
-  - Responsable de las Áreas de I+D+i, Producto BOS y Difusión
-     Técnica
+  - Responsable de las Áreas de I+D+i, Producto BOS y Difusión Técnica
   - Equipo compuesto por 10 personas.
   
 
-- Enero 2007-Mayo 2002: Gerente de Ingeniería (Dpto. Técnico de
-   ISOFOTON)
+- Enero 2007-Mayo 2002: Gerente de Ingeniería (Dpto. Técnico de ISOFOTON)
   
-  - Responsable de ofertas técnicas, diseño de proyectos y
-     proyectos de ejecución.
+  - Responsable de ofertas técnicas, diseño de proyectos y proyectos de ejecución.
   - Equipo compuesto por 7 personas.
   
 
-- Mayo 2002-Noviembre 2001: Gerente de Instalaciones
-   (Dpto. Técnico de ISOFOTON)
+- Mayo 2002-Noviembre 2001: Gerente de Instalaciones (Dpto. Técnico de ISOFOTON)
   
-  - Responsable de gestión y dirección de proyectos, y jefatura de
-     obras.
+  - Responsable de gestión y dirección de proyectos, y jefatura de obras.
   - Equipo compuesto por 7 personas.
   
 
-- Noviembre 2001-Marzo 2000: Ingeniero de Proyectos (Dpto. Técnico
-   de ISOFOTON)
+- Noviembre 2001-Marzo 2000: Ingeniero de Proyectos (Dpto. Técnico de ISOFOTON)
 
 
 
