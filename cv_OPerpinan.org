@@ -181,11 +181,13 @@ Electrificación rural fotovoltaica.
   - ISBN: 84-86505-69-3
   
 
-** Artículos y capítulos en libros
-*** Revistas Internacionales
+** Artículos en Revistas y Capítulos en Libros
+*** Publicaciones Internacionales
 Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
-- F. Antonanzas-Torres, Andres Sanz-Garcia, Javier Antonanzas-Torres, *Oscar Perpiñán* and Francisco Javier Martínez-de-Pisón-Ascacibar. "Current Status and Future Trends of the Evaluation of Solar Global Irradiation using Soft-Computing-Based Models." Soft Computing Applications for Renewable Energy and Energy Efficiency. IGI Global, 2015. 1-22. Web. 19 Jan. 2015. [[http://dx.doi.org/10.4018/978-1-4666-6631-3.ch001][10.4018/978-1-4666-6631-3.ch001]]
+- M. Pinho Almeida, *O. Perpiñán*, L. Narvarte, "PV Power Forecast Using a Nonparametric PV Model Solar Energy" Solar Energy, 2015. Accepted.
+
+- F. Antonanzas-Torres, Andres Sanz-Garcia, Javier Antonanzas-Torres, *O. Perpiñán* and Francisco Javier Martínez-de-Pisón-Ascacibar. "Current Status and Future Trends of the Evaluation of Solar Global Irradiation using Soft-Computing-Based Models." Soft Computing Applications for Renewable Energy and Energy Efficiency. IGI Global, 2015. 1-22. [[http://dx.doi.org/10.4018/978-1-4666-6631-3.ch001][10.4018/978-1-4666-6631-3.ch001]]
 
 - F. Antonanzas-Torres, F.J. Martínez de Pisón, J. Antonanzas, *O. Perpiñán*, Downscaling of global solar irradiation in complex areas in R, Journal of Renewable and Sustainable Energy, 6, 063105 (2014), [[http://dx.doi.org/10.1063/1.4901539][10.1063/1.4901539]] 
 
@@ -213,7 +215,7 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
 - *O. Perpiñán*, E. Lorenzo, y M. A. Castro. On the calculation of energy produced by a PV grid-connected system. Progress in Photovoltaics: Research and Applications, 15(3):265–274, 2007.
 
-*** Revistas Nacionales
+*** Publicaciones Nacionales
 
 - Fernando Garnacho Vecino, Miguel Ángel Sánchez-Urán González, Javier
         Ortego La Moneda, F. Alvarez, *O. Perpiñán*,
