@@ -1,6 +1,6 @@
 #+TITLE: Curriculum Vitae
 #+AUTHOR: Oscar Perpiñán Lamigueiro
-#+DATE: 19 de Enero de 2014
+#+DATE: Marzo, 2015
 #+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+LANGUAGE:  es
 #+LaTeX_CLASS: memoir-article
@@ -11,6 +11,8 @@
 #+LATEX_HEADER: \usepackage[usenames,dvipsnames]{xcolor}
 #+LATEX_HEADER: \geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm}
 #+LATEX_HEADER: \usepackage[spanish]{babel}
+#+LATEX_HEADER: \usepackage{enumitem}
+#+LATEX_HEADER: \setlist{itemsep=-2pt}
 #+LATEX_HEADER: \hypersetup{bookmarks=true, breaklinks=true,pdftitle={Curriculum}, pdfauthor={Oscar Perpiñán Lamigueiro}, pdfnewwindow=true, colorlinks=true,linkcolor=Brown,citecolor=BrickRed, filecolor=black,urlcolor=Blue}           
 #+LATEX_HEADER: \renewcommand{\thesection}{\arabic{section}}
 #+LATEX_HEADER: \renewcommand{\thesubsection}{\arabic{section}.\arabic{subsection}}
@@ -33,13 +35,13 @@
   - Categoría Actual: Profesor Ayudante Doctor
 
 
+\newpage
 * Títulos Académicos
 
-- Doctor en Ingeniería Industrial
-  - Tesis: ``Grandes Centrales Fotovoltaicas: producción, seguimiento y ciclo de vida''
+- Doctor
   - ETSII-UNED (Abr-2008)
-  - Sobresaliente cum laude
-  - Premio Extraordinario
+  - Programa de Doctorado "Sistemas de Ingeniería Eléctrica, Electrónica y de Control"
+  - Tesis ``Grandes Centrales Fotovoltaicas: producción, seguimiento y ciclo de vida'' calificada con Sobresaliente cum laude y Premio Extraordinario.
 
 - Ingeniero de Telecomunicación
   - ETSIT-UPM (Dic-1999)
@@ -47,23 +49,69 @@
   - Proyecto de Fin de Carrera: ``Desarrollo de un protocolo de medida de lámparas fluorescentes para instalaciones fotovoltaicas de electrificación rural''
 
 
+* Puestos Docentes Desempeñados
+
+** Profesor Asociado
+- Centro: Escuela Universitaria de Ingenieros Técnicos Industriales, Universidad Politécnica de Madrid.
+- Régimen de Dedicación: Parcial (6+6).
+- Actividad: Docencia
+- Fecha Nombramiento: 14 de Noviembre de 2008
+- Fecha Cese: 30 de Septiembre de 2010
+
+** Profesor Ayudante Doctor
+- Centro: Escuela Técnica Superior de Ingeniería de Diseño Industrial, Universidad Politécnica de Madrid.
+- Régimen de Dedicación: Completa.
+- Actividad: Docencia e Investigación
+- Fecha Nombramiento: 4 de Octubre de 2010.
+- Fecha Cese: Vigente en la actualidad.
+\newpage
 * Actividad Docente
 
 ** ETSIDI-UPM
+#+ATTR_LaTeX: :align p{18mm}p{10mm}p{40mm}p{40mm}p{10mm}p{15mm}p{10mm}
+| Curso\\académico | Cuat. | Asignatura         | Titulación         | Curso Titulación | Carácter          | Horas |
+|------------------+-----+--------------------+--------------------+-----+-------------------+-------|
+|                  | <3> | <18>               | <18>               | <3> |                   |   <5> |
+|        2008-2009 |   1 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Eléctricos) |   1 | Teoría            |    75 |
+|        2008-2009 |   2 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Mecánicos) |   1 | Teoría y Práctica |    75 |
+|------------------+-----+--------------------+--------------------+-----+-------------------+-------|
+|        2009-2010 |   1 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Eléctricos) |   1 | Teoría            |    75 |
+|        2009-2010 |   2 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Mecánicos) |   1 | Teoría y Práctica |    75 |
+|------------------+-----+--------------------+--------------------+-----+-------------------+-------|
+|        2010-2011 |   1 | Teoría de Circuitos II | Ing. Técnico Industrial (Esp. Eléctricos) |   2 | Práctica          |    75 |
+|        2010-2011 |   2 | Electrometría      | Ing. Técnico Industrial (Esp. Eléctricos) |   1 | Práctica          |    30 |
+|        2010-2011 |   2 | Teoría de Circuitos I | Grado en Ing. Eléctrica |   1 | Práctica          |    45 |
+|------------------+-----+--------------------+--------------------+-----+-------------------+-------|
+|        2011-2012 |   1 | Teoría de Circuitos | Grado en Ing. Química |   2 | Práctica          |    15 |
+|        2011-2012 |   1 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Teoría            |    45 |
+|        2011-2012 |   1 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Práctica          |    15 |
+|        2011-2012 |   1 | Teoría de Circuitos | Grado en Ing. Eléctrica |   2 | Práctica          |    15 |
+|        2011-2012 |   2 | Teoría de Circuitos | Grado en Ing. en Diseño Industrial |   2 | Teoría y Práctica |    60 |
+|        2011-2012 |   2 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Práctica          |    15 |
+|------------------+-----+--------------------+--------------------+-----+-------------------+-------|
+|        2012-2013 |   1 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    15 |
+|        2012-2013 |   1 | Teoría de Circuitos | Grado en Ing. Química |   2 | Teoría            |    41 |
+|        2012-2013 |   1 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Práctica          |    15 |
+|        2012-2013 |   2 | Diseño Avanzado de Sistemas de Energía Solar | Master Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
+|        2012-2013 |   2 | Teoría de Circuitos | Grado en Ing. en Diseño Industrial |   2 | Teoría            |    41 |
+|        2012-2013 |   2 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Práctica          |    30 |
+|------------------+-----+--------------------+--------------------+-----+-------------------+-------|
+|        2013-2014 |   1 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    64 |
+|        2013-2014 |   1 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Teoría y Práctica |    83 |
+|        2013-2014 |   2 | Diseño Avanzado de Sistemas de Energía Solar | Master Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
+|        2013-2014 |   2 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    67 |
+|        2013-2014 |   2 | Teoría de Circuitos | Grado en Ing. de Diseño Industrial |   2 | Teoría y Práctica |    48 |
+|------------------+-----+--------------------+--------------------+-----+-------------------+-------|
+|        2014-2015 |   1 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    64 |
+|        2014-2015 |   1 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Teoría y Práctica |    83 |
+|        2014-2015 |   2 | Diseño Avanzado de Sistemas de Energía Solar | Master Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
+|        2014-2015 |   2 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    67 |
+|        2014-2015 |   2 | Teoría de Circuitos | Grado en Ing. de Diseño Industrial |   2 | Teoría y Práctica |    48 |
+|------------------+-----+--------------------+--------------------+-----+-------------------+-------|
+|                  |     |                    |                    |     | Total             |  1281 |
 
-Profesor Ayudante Doctor en el Departamento de Ingeniería Eléctrica, Electrónica, Automática y de Física Aplicada:
 
-  - Diseño Avanzado de Sistemas Energéticos Solares (cursos 2014/2015, 2013/2014 y 2012/2013).
 
-  - Teoría de Circuitos (cursos 2014/2015, 2013/2014, 2012/2013 y 2011/2012)
-
-  - Laboratorio de Teoría de Circuitos III (cursos 2014/2015 y 2013/2014)
-
-  - Laboratorio de Teoría de Circuitos II (curso 2010/2011)
-
-  - Fundamentos de Electrotecnia (Especialidad Eléctricos) (7,5 créditos) en los cursos 2008/2009 y 2009/2010.
-
-  - Fundamentos de Electrotecnia (Especialidad Mecánicos) y Laboratorio de Fundamentos de Electrotecnia (Especialidad Mecánicos) (7,5 créditos) en los cursos 2008/2009 y 2009/2010.
 
   
 ** Escuela de Organización Industrial
@@ -75,64 +123,13 @@ Colaborador en el Máster de Energías Renovables y Mercado Energético (MERME) 
 - Curso 2009-2010: Asignatura troncal ``Energía Solar Fotovoltaica'' con un total de 40 horas lectivas y asignatura optativa ``Energía Solar Fotovoltaica Avanzada'' con un total de 40 horas lectivas. 
 
 - Sesiones individuales con un total de 58 horas lectivas desde el curso 2001/2002 hasta el 2007/2008.
-
-- Dirección de Proyectos Fin de Máster:
-
-  - Curso 2013-2014: ``Electrificación Rural mediante Sistema Híbrido Eólico-Fotovoltáico en Roraima, Brasil'' y ``Electrificación Rural Aislada Fotovoltaica (ERAF) a Institutos de Telesecundaria en San Pedro Carchá, Alta Verapaz, Guatemala.''
-  - Curso 2011-2012: ``Servicios energéticos Renovables: E. Fotovoltaica, E. Mini-eólica y eficiencia energética en entornos urbanos''
-  - Curso 2010-2011: ``Comparativa y análisis de variabilidad espacio-temporal entre las medidas de radiación solar terrestres (SIAR) y satelitales (CM SAF). Estudio de productividad potencial''.
-  - Dirección de 13 Proyectos de Fin de Máster desde el curso 2001/2002 hasta el 2009/2010.
-  
-
-** Otros
-
-- Supervisión on-site de Proyectos de Fin de Máster del European Máster in Renewable Energy de la Agencia EUREC en los cursos 2004/2005 y 2003/2004.
   
 
 * Actividad Investigadora
 
-** Pertenencia a Grupo de Investigación ``Sistemas Fotovoltaicos''
+** Miembro del Grupo de Investigación ``Sistemas Fotovoltaicos''
 
-Reconocido como consolidado por la Universidad Politécnica de
-Madrid, con tres líneas de investigación: Sistemas fotovoltaicos
-conectados a la red, Sistemas fotovoltaicos autónomos e híbridos y
-Electrificación rural fotovoltaica.
-
-
-** Dirección de Proyectos de Investigación
-#+ATTR_LaTeX: :align p{110mm}|p{17mm}|p{25mm}
-| Título del Proyecto                                                                         | Duración (meses) | Año Inicio |
-|---------------------------------------------------------------------------------------------+------------------+------------|
-| Insolación                                                                                  |                6 |       2008 |
-| Desarrollo de sistema inteligente de detección de fallos de funcionamiento de sistemas FV   |                6 |       2008 |
-| Umbráculo móvil de 1 MWp                                                                    |               18 |       2007 |
-| Desarrollo de una plataforma para la monitorización y seguimiento de sistemas fotovoltaicos |               12 |       2007 |
-| Mejora de la calidad del servicio energético en las aplicaciones de electrificación rural   |               12 |       2005 |
-| Grandes centrales fotovoltaicas                                                             |               24 |       2004 |
-
-
-** Participación en Proyectos de Investigación
-
-#+ATTR_LaTeX: :environment longtable :align p{110mm}|p{17mm}|p{25mm}
-| Título del Proyecto                                                                                                                             | Duración (meses) | Año Inicio |
-|-------------------------------------------------------------------------------------------------------------------------------------------------+------------------+------------|
-| PVCROPS. PhotoVoltaic Cost reduction, Reliability, Operational performance, Prediction and Simulation                                           |               36 |       2012 |
-| ENERGOS. Optimización de la cargabilidad en líneas.                                                                                             |               48 |       2009 |
-| Caracterización de la variabilidad y comportamiento ante las perturbaciones de las plantas fotovoltaicas                                        |               36 |       2007 |
-| Optimización del diseño eléctrico de módulos fotovoltaicos para minimizar las perdidas de potencia por dispersión y evitar los puntos calientes |               24 |       2007 |
-| Desarrollo y caracterización de tejados y fachadas fotovoltaicas ventiladas integradas en edificios                                             |               12 |       2007 |
-| Conector de paneles dinámico CPD-1 y convertidor multipuente multipotencia CMM-1                                                                |               12 |       2007 |
-| Desarrollo de seguidor de doble eje de gran tamaño para módulos de concentración                                                                |               24 |       2006 |
-| Moden II                                                                                                                                        |               24 |       2006 |
-| Desarrollo de seguidor de doble eje de gran tamaño para módulos planos                                                                          |               40 |       2005 |
-| Caracterización del comportamiento térmico de la fachada PVskin y su interacción con edificios modelo en clima mediterráneo                     |               12 |       2005 |
-| Sistema de desalinizacion mediante ósmosis inversa alimentado con energía solar fotovoltaica                                                    |               11 |       2005 |
-| TINA                                                                                                                                            |               18 |       2004 |
-| Heliodomo: nuevo concepto de vivienda autosuficiente                                                                                            |               36 |       2004 |
-| Sevilla PV                                                                                                                                      |               54 |       2003 |
-| PV generators integrated into sound barriers                                                                                                    |               24 |       2001 |
-| PV grid connected system in a car parking                                                                                                       |               24 |       2000 |
-
+Reconocido como consolidado por la Universidad Politécnica de Madrid, con tres líneas de investigación: Sistemas fotovoltaicos conectados a la red, Sistemas fotovoltaicos autónomos e híbridos y Electrificación rural fotovoltaica.
 
 ** Dirección de Tesis Doctorales 
 
@@ -141,81 +138,72 @@ Electrificación rural fotovoltaica.
 - Codirección de la Tesis Doctoral "New methodologies and improved models in the estimation of solar irradiation" de Fernando Antoñanzas, junto con el profesor Francisco Javier Martínez de Ascacíbar, del grupo EDMANS de la Universidad de la Rioja.
 
 - Codirección de la Tesis Doctoral "Penetración de la Energía Fotovoltaica en el Sistema Eléctrico peninsular español. Condiciones del Mercado Eléctrico y Red de Transporte" de José Melguizo, junto con el profesor Manuel Castro Gil, catedrático del DIEEC-ETSII (UNED).
-
-  
-* Publicaciones
-
-** Libros
-
-- Displaying time series, spatial and space-time data with R: stories of space and time
-  - Editorial: Chapman \& Hall/CRC
-  - Publicación 4 de Abril de 2014.
-  - ISBN: 9781466565203
-  - http://oscarperpinan.github.com/spacetime-vis/
-
-- Energía Solar Fotovoltaica
-  
-  - Libro principal en la asignatura ``Energía Solar Fotovoltaica'' del Máster de Energías Renovables y Mercado Energético de la EOI.
-  - Publicado online con licencia Creative Commons.
-  - [[http://oscarperpinan.github.com/esf]]
-
-- Diseño de Sistemas Fotovoltaicos
-  
-  - Autores: Perpiñán O., Castro Gil M.A. y Colmenar A.
-  - 1ª Edición, 2012
-  - Editorial: Promotora General de Estudios, S.A.
-  - ISBN: 978-84-95693-72-3
-  
-- Sistemas de bombeo eólicos y fotovoltaicos
-  
-  - Autor/es: Castro Gil, Manuel-Alonso y otros
-  - Colección: Monografías de Energías Renovables
-  - Editorial: Promotora General de Estudios, S.A.
-  - ISBN: 84-95693-67-9
-  
-- Energía eólica
-  
-  - Autor/es: Colmenar Santos, Antonio y otros
-  - Colección: Monografías de Energías Renovables
-  - Publicación: Promotora General de Estudios, S.A.
-  - ISBN: 84-86505-69-3
   
 
-** Artículos en Revistas y Capítulos en Libros
-*** Publicaciones Internacionales
+** Dirección de Trabajos Tutelados
+*** ETSIDI
+- “Une estimation de puissance dans un système photovoltaique avec Random Forest”, Kobaa Abdeslam (Université Montpellier 2). 
+- “Estimation de la puissance des systèmes photovoltaïques avec Machine Learning”, Imrane Dhmani (Université Montpellier 2). 2013/2014, 15 ECTS.
+*** Escuela de Organización Industrial
+17 Proyectos de Fin de Máster desde el curso 2001/2002 hasta la actualidad, destacando:
+    - Curso 2013-2014: ``Electrificación Rural mediante Sistema Híbrido Eólico-Fotovoltáico en Roraima, Brasil'' y ``Electrificación Rural Aislada Fotovoltaica (ERAF) a Institutos de Telesecundaria en San Pedro Carchá, Alta Verapaz, Guatemala.''
+  - Curso 2011-2012: ``Servicios energéticos Renovables: E. Fotovoltaica, E. Mini-eólica y eficiencia energética en entornos urbanos''
+  - Curso 2010-2011: ``Comparativa y análisis de variabilidad espacio-temporal entre las medidas de radiación solar terrestres (SIAR) y satelitales (CM SAF). Estudio de productividad potencial''.
+*** EUREC
+Supervisión on-site de Proyectos de Fin de Máster del European Máster in Renewable Energy de la Agencia EUREC en los cursos 2004/2005 y 2003/2004.
+
+* Libros
+
+** Displaying time series, spatial and space-time data with R
+O. Perpiñán, Chapman and Hall/CRC, 2014, ISBN 9781466565203. http://oscarperpinan.github.com/spacetime-vis/
+
+** Energía Solar Fotovoltaica
+O. Perpiñán, 2014. Libro autoeditado, publicado online con licencia Creative Commons.  [[http://oscarperpinan.github.com/esf]]
+
+** Diseño de Sistemas Fotovoltaicos
+*O. Perpiñán*, M.A. Castro Gil, A. Colmenar, Promotora General de Estudios, S.A., 2012, ISBN: 978-84-95693-72-3
+  
+** Sistemas de bombeo eólicos y fotovoltaicos
+M. Castro,A. Colmenar, R.P. Fiffe, M. Pérez, *O. Perpiñán*, J.M. Perulero,  Monografías de Energías Renovables, Promotora General de Estudios, S.A., 2011, ISBN 84-95693-67-9
+  
+** Energía eólica
+M. Castro, A. Colmenar, *O. Perpiñán*, C. Sánchez Naranjo, Monografías de Energías Renovables, Promotora General de Estudios, S.A., 2011, ISBN 84-86505-69-3.
+  
+* Artículos en Revistas y Capítulos en Libros
+** Publicaciones Internacionales
 Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
-- M. Pinho Almeida, *O. Perpiñán*, L. Narvarte, "PV Power Forecast Using a Nonparametric PV Model Solar Energy" Solar Energy, 2015. Accepted.
+- M. Pinho Almeida, *O. Perpiñán*, L. Narvarte, "PV Power Forecast Using a Nonparametric PV Model Solar Energy" Solar Energy, 2015. Aceptado para publicación. (Índice de impacto: 3.868, Tercil T1 en categoría /Energy & Fuels/)
 
 - F. Antonanzas-Torres, Andres Sanz-Garcia, Javier Antonanzas-Torres, *O. Perpiñán* and Francisco Javier Martínez-de-Pisón-Ascacibar. "Current Status and Future Trends of the Evaluation of Solar Global Irradiation using Soft-Computing-Based Models." Soft Computing Applications for Renewable Energy and Energy Efficiency. IGI Global, 2015. 1-22. [[http://dx.doi.org/10.4018/978-1-4666-6631-3.ch001][10.4018/978-1-4666-6631-3.ch001]]
 
-- F. Antonanzas-Torres, F.J. Martínez de Pisón, J. Antonanzas, *O. Perpiñán*, Downscaling of global solar irradiation in complex areas in R, Journal of Renewable and Sustainable Energy, 6, 063105 (2014), [[http://dx.doi.org/10.1063/1.4901539][10.1063/1.4901539]] 
+- F. Antonanzas-Torres, F.J. Martínez de Pisón, J. Antonanzas, *O. Perpiñán*, Downscaling of global solar irradiation in complex areas in R, Journal of Renewable and Sustainable Energy, 6, 063105 (2014), [[http://dx.doi.org/10.1063/1.4901539][10.1063/1.4901539]]  (Índice de impacto: 0.925, Tercil T3 en categoría /Energy & Fuels/)
 
-- F. Antonanzas-Torres, A. Sanz-Garcia, F. J. Martínez-de-Pisón, *O. Perpiñán*, J. Polo, Towards downscaling of aerosol gridded dataset for improving solar resource assessment. Application to Spain, Renewable Energy, Volume 71, November 2014, Pages 534-544, [[http://dx.doi.org/10.1016/j.renene.2014.06.010][10.1016/j.renene.2014.06.010]].
+- F. Antonanzas-Torres, A. Sanz-Garcia, F. J. Martínez-de-Pisón, *O. Perpiñán*, J. Polo, Towards downscaling of aerosol gridded dataset for improving solar resource assessment. Application to Spain, Renewable Energy, Volume 71, November 2014, Pages 534-544, [[http://dx.doi.org/10.1016/j.renene.2014.06.010][10.1016/j.renene.2014.06.010]].  (Índice de impacto: 3.85, Tercil T1 en categoría /Energy & Fuels/)
 
-- F. Antonanzas-Torres, A. Sanz-Garcia, F.J. Martínez-de-Pisón, *O. Perpiñán*, Evaluation and improvement of empirical models of global solar irradiation: Case study northern Spain, Renewable Energy, Volume 60, December 2013, Pages 604-614, ISSN 0960-1481, [[http://dx.doi.org/10.1016/j.renene.2013.06.008][10.1016/j.renene.2013.06.008]].
+- F. Antonanzas-Torres, A. Sanz-Garcia, F.J. Martínez-de-Pisón, *O. Perpiñán*, Evaluation and improvement of empirical models of global solar irradiation: Case study northern Spain, Renewable Energy, Volume 60, December 2013, Pages 604-614, ISSN 0960-1481, [[http://dx.doi.org/10.1016/j.renene.2013.06.008][10.1016/j.renene.2013.06.008]].  (Índice de impacto: 2.99, Tercil T1 en categoría /Energy & Fuels/)
 
-- F. Antoñanzas, F. Cañizares, *O. Perpiñán*, Comparative assessment of global irradiation from a satellite estimate model (CM SAF) and on-ground measurements (SIAR): a Spanish case study, Renewable and Sustainable Energy Reviews, Volume 21, May 2013, Pages 248-261, [[http://dx.doi.org/10.1016/j.rser.2012.12.033][10.1016/j.rser.2012.12.033]].
+- F. Antoñanzas, F. Cañizares, *O. Perpiñán*, Comparative assessment of global irradiation from a satellite estimate model (CM SAF) and on-ground measurements (SIAR): a Spanish case study, Renewable and Sustainable Energy Reviews, Volume 21, May 2013, Pages 248-261, [[http://dx.doi.org/10.1016/j.rser.2012.12.033][10.1016/j.rser.2012.12.033]].  (Índice de impacto: 5.63, Tercil T1 en categoría /Energy & Fuels/)
 
-- *O. Perpiñán*, J. Marcos, E. Lorenzo, Electrical Power Fluctuations in a Network of DC/AC inverters in a Large PV Plant: relationship between correlation, distance and time scale, Solar Energy, Volume 88, February 2013, [[http://dx.doi.org/10.1016/j.solener.2012.12.004][10.1016/j.solener.2012.004]].
+- *O. Perpiñán*, J. Marcos, E. Lorenzo, Electrical Power Fluctuations in a Network of DC/AC inverters in a Large PV Plant: relationship between correlation, distance and time scale, Solar Energy, Volume 88, February 2013, [[http://dx.doi.org/10.1016/j.solener.2012.12.004][10.1016/j.solener.2012.004]].  (Índice de impacto: 2.95, Tercil T1 en categoría /Energy & Fuels/)
 
-- *O. Perpiñán*, M.A. Sánchez-Urán, F. Álvarez, J. Ortego, F. Garnacho, Signal analysis and feature generation for pattern identification of partial discharges in high-voltage equipment, Electric Power Systems Research, 2013, 95:C (56-65), [[http://dx.doi.org/10.1016/j.epsr.2012.08.016][10.1016/j.epsr.2012.08.016]].
+- *O. Perpiñán*, M.A. Sánchez-Urán, F. Álvarez, J. Ortego, F. Garnacho, Signal analysis and feature generation for pattern identification of partial discharges in high-voltage equipment, Electric Power Systems Research, 2013, 95:C (56-65), [[http://dx.doi.org/10.1016/j.epsr.2012.08.016][10.1016/j.epsr.2012.08.016]]. (Índice de impacto: 1.69, Tercil T1 en categoría /Engineering, Electrical & Electronic/)
 
-- *O. Perpiñán*, solaR: Solar Radiation and Photovoltaic Systems with R, Journal of Statistical Software, 2012. 50(9), (1-32).
+- *O. Perpiñán*, solaR: Solar Radiation and Photovoltaic Systems with R, Journal of Statistical Software, 2012. 50(9), (1-32).  (Índice de impacto: 4.91, Tercil T1 en categoría /Statistics & Probability/)
 
-- *O. Perpiñán*, Cost of energy and mutual shadows in a two-axis tracking PV system, Renewable Energy, 2011, [[http://dx.doi.org/10.1016/j.renene.2011.12.001][10.1016/j.renene.2011.12.001]].
+- *O. Perpiñán*, Cost of energy and mutual shadows in a two-axis tracking PV system, Renewable Energy, 2011, [[http://dx.doi.org/10.1016/j.renene.2011.12.001][10.1016/j.renene.2011.12.001]].  (Índice de impacto: 2.98, Tercil T1 en categoría /Energy & Fuels/)
 
-- *O. Perpiñán* y E. Lorenzo, Analysis and synthesis of the variability of irradiance and PV power time series with the wavelet transform, Solar Energy, 85:1 (188-197), 2010, [[http://dx.doi.org/10.1016/j.solener.2010.08.013][10.1016/j.solener.2010.08.013]]).
+- *O. Perpiñán* y E. Lorenzo, Analysis and synthesis of the variability of irradiance and PV power time series with the wavelet transform, Solar Energy, 85:1 (188-197), 2010, [[http://dx.doi.org/10.1016/j.solener.2010.08.013][10.1016/j.solener.2010.08.013]]). (Índice de impacto: 2.48, Tercil T1 en categoría /Energy & Fuels/)
 
-- *O. Perpiñán*, Statistical analysis of the performance and simulation of a two-axis tracking PV system, Solar Energy, 83:11(2074–2085), 2009, [[http://dx.doi.org/10.1016/j.solener.2009.08.008][10.1016/j.solener.2009.08.008]].
+- *O. Perpiñán*, Statistical analysis of the performance and simulation of a two-axis tracking PV system, Solar Energy, 83:11(2074–2085), 2009, [[http://dx.doi.org/10.1016/j.solener.2009.08.008][10.1016/j.solener.2009.08.008]]. ((Índice de impacto: 2.01, Tercil T2 en categoría /Energy & Fuels/))
 
-- *O. Perpiñán*, E. Lorenzo, M. A. Castro, y R. Eyras. Energy payback time of grid connected pv systems: comparison between tracking and fixed systems. Progress in Photovoltaics: Research and Applications, 17:137-147, 2009.
+- *O. Perpiñán*, E. Lorenzo, M. A. Castro, y R. Eyras. Energy payback time of grid connected pv systems: comparison between tracking and fixed systems. Progress in Photovoltaics: Research and Applications, 17:137-147, 2009. (Índice de impacto: 4.7; Tercil T1 en categoría /Energy & Fuels/)
 
-- *O. Perpiñán*, E. Lorenzo, M. A. Castro, y R. Eyras. On the complexity of radiation models for PV energy production calculation. Solar Energy, 82:2 (125-131), 2008.
+- *O. Perpiñán*, E. Lorenzo, M. A. Castro, y R. Eyras. On the complexity of radiation models for PV energy production calculation. Solar Energy, 82:2 (125-131), 2008 (Índice de impacto: 1.61, Tercil T2 en categoría /Energy & Fuels/)
 
-- *O. Perpiñán*, E. Lorenzo, y M. A. Castro. On the calculation of energy produced by a PV grid-connected system. Progress in Photovoltaics: Research and Applications, 15(3):265–274, 2007.
+- *O. Perpiñán*, E. Lorenzo, y M. A. Castro. On the calculation of energy produced by a PV grid-connected system. Progress in Photovoltaics: Research and Applications, 15(3):265–274, 2007. (Índice de impacto: 2.18; Tercil T1 en categoría /Energy & Fuels/)
 
-*** Publicaciones Nacionales
+** Publicaciones Nacionales
 
 - Fernando Garnacho Vecino, Miguel Ángel Sánchez-Urán González, Javier
         Ortego La Moneda, F. Alvarez, *O. Perpiñán*,
@@ -250,89 +238,494 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
         0212-4157, Nº. 104, 2001, págs. 16-21
 
 
+
+\newpage
+* Proyectos de Investigación Subvencionados
+** PVCROPS. PhotoVoltaic Cost reduction, Reliability, Operational performance, Prediction and Simulation
+- Entidad Financiadora: Comisión Europea
+- Cantidad Financiada (€): 5800352
+- Referencia del Proyecto: 308468
+- Tipo de convocatoria: UE
+- Entidades Participantes: UPM, UPNA, UEVORA, Cl Senes, Acciona, Ingeteam, ONE, Sources of the Bulgarian Academy of Sciences, DIT, Sunswitch SA, Rtnoe, Apere
+- Duración: desde 01/11/2012 hasta 31/10/2015 N° total de meses: 36
+- Investigador Principal: Luis Narvarte
+- Nº Investigadores: 10
+- Responsabilidad: Investigador colaborador
+- Aportación del Investigador:
+  - Predicción de productividad de sistemas fotovoltaicos a partir de modelos numéricos de predicción meteorológica y medidas terrestres.
+  - Caracterización de las fluctuaciones en sistemas fotovoltaicos de gran tamaño en el contexto de su integración en las redes eléctricas convencionales.
+  - Predicción de categorías de fluctuaciones en sistemas fotovoltaicos a partir de modelos numéricos de predicción meteorológica y medidas terrestres.
+  - Desarrollo de dos paquetes software publicados con licencia GNU/GPL
+  - Publicación de resultados en artículo JCR.
+** PV Generators Integrated into Sound Barriers
+
+- Entidad Financiadora: Comisión Europea
+- Cantidad Financiada (€): 4950039
+- Referencia del Proyecto: NNE5/2000/397
+- Tipo de convocatoria: UE
+- Entidades Participantes: Isofoton, Ayto. Helmond, Ayto. Leganes, Fraunhofer Ise, Biohaus
+- Duración: desde 01/01/2001 hasta 31/12/2003 N° total de meses: 24
+- Investigador Principal: Ramón Eyras Daguerre
+- Nº Investigadores: 25
+- Participación: Investigador colaborador
+- Aportación del Investigador:
+  - Supervisión del desarrollo de un módulo fotovoltaico sobre cubierta cerámica para atenuar ruido.
+  - Supervisión de pruebas de funcionamiento del módulo desarrollado en probeta acústica.
+  - Diseño de sistema fotovoltaico de gran tamaño en talud de autovía.
+
+** PV Grid Connected in a Car Parking
+
+- Entidad Financiadora: Comisión Europea
+- Cantidad Financiada (€): 2612600
+- Referencia del Proyecto: NNE5/1999/772
+- Tipo de convocatoria: UE
+- Entidades Participantes:, ISOFOTON, BERGE Y CIA, Universidad de Northumbria, Biohaus, ICAEN, Sunwatt
+- Duración: desde 01/01/2000 hasta 31/12/2002 N° total de meses: 24
+- Investigador Principal: Ramon Eyras Daguerre
+- Nº Investigadores: 20
+- Responsabilidad: Investigador colaborador
+- Aportación del Investigador:
+  - Diseño de un sistema fotovoltaico de gran tamaño integrado en una estructura de aparcamiento.
+  - Estudio del arte de sistemas de conversión de potencia.
+  - Diseño de sistemas de conversión de potencia variados para comparativa.
+  - Diseño de sistema de monitorización para investigación.
+  - Análisis de datos de funcionamiento. Modelado y validación de modelos.
+  - Publicación de resultados en artículos JCR
+  - Estudio del estado del arte de sistemas de seguridad eléctrica en sistemas fotovoltaicos con público.
+
+** Sevilla PV
+
+- Entidad Financiadora: Comisión Europea
+- Cantidad Financiada (€): 2759244
+- Referencia del Proyecto: NNE5-2001-00767
+- Tipo de convocatoria: UE
+- Entidades Participantes: Solucar, Solartec, CIEMAT, BP Solar, Saint-Gobain, Atersa, IDAE, Isofoton, WIP
+- Duración: desde 01/02/2004 hasta 31/07/2007 N° total de meses: 54
+- Investigador Principal: Rafael Osuna
+- Nº Investigadores: 50
+- Responsabilidad: Investigador colaborador
+- Aportación del Investigador:
+  - Diseño de sistemas fotovoltaicos con modulos fotovoltaicos con sistema externo de concentracion 2x.
+
+** ENERGOS: optimización de la cargabilidad de las líneas
+
+- Entidad Financiadora: CDTI
+- Cantidad Financiada (€): 380306
+- Referencia del Proyecto: CEN-2009-1048
+- Tipo de convocatoria: Nacional
+- Entidades Participantes: EUITI, Unión Fenosa
+- Duración: desde 07/07/2009 hasta 31/12/2012 N° total de meses: 42
+- Investigador Principal: Fernando Garnacho
+- Nº Investigadores: 8
+- Responsabilidad: Investigador colaborador
+- Aportación del Investigador:
+  - Revisión del estado del arte de sensores de alta frecuencia para Descargas Parciales en cables de MT.
+  - Definición de parámetros característicos de Descargas Parciales en el contexto de su medida y clasificación en entornos industriales ruidosos.
+  - Desarrollo de métodos de caracterización y clasificación no supervisada de colecciones de Descargas Parciales
+  - Desarrollo de software pdCluster publicado con licencia GNU/GPL.
+  - Publicación de resultados en artículo JCR.
+
+** Grandes Centrales Fotovoltaicas
+
+- Entidad Financiadora: Ministerio de Educación y Ciencia
+- Cantidad Financiada (€): 107690
+- Referencia del Proyecto: FIT-120000-2004-24
+- Tipo de convocatoria: Nacional
+- Entidades Participantes: Isofotón, IES-UPM, Universidad Internacional de Andalucía
+- Duración: desde 01/01/2004 hasta 31/12/2004 N° total de meses: 12
+- Investigador Principal: Oscar Perpiñán
+- Nº Investigadores: 8
+- Responsabilidad: Investigador principal
+- Aportación del Investigador:
+  - Coordinación de proyecto.
+  - Análisis de datos de funcionamiento de plantas fotovoltaicas de gran tamaño.
+  - Métodos de diseño en plantas fotovoltaicas de gran tamaño con tecnologías de seguimiento.
+  - Análisis de métodos de cálculo de productividad en sistemas fotovoltaico con diferentes fuentes de radiación.
+  - Desarrollo de herramienta software solaR.
+  - Publicación de resultados en 4 artículos JCR.
+  - Defensa de Tesis Doctoral
+
+** Grandes Centrales Fotovoltaicas
+
+- Entidad Financiadora: Ministerio de Educación
+- Cantidad Financiada (€): 313052
+- Referencia del Proyecto: CIT-120000-2005-68
+- Tipo de convocatoria: Nacional
+- Entidades Participantes: Isofotón, IES-UPM, Universidad Internacional de Andalucía
+- Duración: desde 01/01/2005 hasta 31/12/2005 N° total de meses: 12
+- Investigador Principal: Oscar Perpiñán
+- Nº Investigadores: 8
+- Responsabilidad: Investigador principal
+- Aportación del Investigador:
+  - Coordinación de proyecto.
+  - Análisis de datos de funcionamiento de plantas fotovoltaicas de gran tamaño.
+  - Métodos de diseño en plantas fotovoltaicas de gran tamaño con tecnologías de seguimiento.
+  - Análisis de métodos de cálculo de productividad en sistemas fotovoltaico con diferentes fuentes de radiación.
+  - Desarrollo de herramienta software solaR.
+  - Publicación de resultados en 4 artículos JCR.
+  - Defensa de Tesis Doctoral
+** Mejora de la Calidad del Servicio Energetico en las Aplicaciones de Electrificacion Rural 
+- Entidad Financiadora: Ministerio de Educación y Ciencia
+- Cantidad Financiada (€): 356943
+- Referencia del Proyecto: CIT-120000-2005-75
+- Tipo de convocatoria: Nacional
+- Entidades participantes: Isofotón, IES-UPM, Universidad Internacional de Andalucia, Universidad de Santiago de Compostela
+- Duración: desde 01/01/2005 hasta 31/12/2005 N° total de meses: 12
+- Investigador Principal: Oscar Perpiñán
+- Nº Investigadores: 8
+- Responsabilidad: Investigador principal
+- Aportación del Investigador:
+  - Coordinación del proyecto.
+  - Diseño de prototipo de sistema de bombeo de agua de gran tamaño acoplado a sistemas fotovoltaicos de seguimiento.
+  - Desarrollo y validación de software de simulación de sistemas de bombeo fotovoltaico.
+  - Supervisión del diseño de sistemas de riego con sistemas de bombeo.
+
+** Umbráculo Móvil
+
+- Entidad Financiadora: Ministerio de Educación y Ciencia
+- Cantidad Financiada (€): 1469000
+- Referencia del Proyecto: PCT-120000-2007-34
+- Tipo de convocatoria: Nacional
+- Entidades Participantes: Isofotón, Jeronimo Vega Arquitectura, IES-UPM, Trim
+- Duración: desde 01/07/2007 hasta 31/12/2008 N° total de meses: 18
+- Investigador Principal: Oscar Perpiñán
+- Nº Investigadores: 15
+- Responsabilidad: Investigador principal
+- Aportación del Investigador: 
+  - Coordinación del proyecto
+  - Desarrollo un seguidor horizontal adaptable a las particulares condiciones de una cubierta de un edificio.
+  - Análisis de las condiciones de instalación y explotación de sistemas de seguimiento en zonas elevadas, frente a la experiencia de instalación en terreno común.
+  - Diseño de sistema de conversión de potencia con inversores de gran tamaño.
+
+** Heliodomo: Nuevo Concepto de Vivienda Autosuficiente
+
+- Entidad Financiadora: Ministerio de Educacion y Ciencia
+- Cantidad Financiada (€): 205165
+- Referencia del Proyecto: BIA2004-05234
+- Tipo de convocatoria: Nacional
+- Entidades Participantes: IES-UPM, CEDINT, Isofoton
+- Duración: desde 13/12/2004 hasta 12/12/2007 N° total de meses: 36
+- Investigador Principal: F. Javier Neila González
+- Nº Investigadores: 15
+- Responsabilidad: Investigador colaborador
+- Aportación del Investigador:
+  - Diseño de sistemas fotovoltaicos en condiciones de integración arquitectónica
+  - Análisis del funcionamiento de sistemas fotovoltaicos en condiciones de integración arquitectónica
+  - Selección de materiales apropiados por su sinergia con generadores fotovoltaicos
+
+** Caracterización del Comportamiento Térmico de la Fachada PVSKIN y su Interaccion con Edificios Modelo en Clima Mediterráneo
+
+- Entidad Financiadora: Ministerio de Educacion y Ciencia
+- Cantidad Financiada (€): 152520
+- Referencia del Proyecto: CIT-120000-2005-74
+- Tipo de convocatoria: Nacional
+- Entidades Participantes: Isofotón, CIMNE
+- Duración: desde 01/01/2005 hasta 15/05/2006 N° total de meses: 18
+- Investigador Principal: Ramón Eyras Daguerre
+- Nº Investigadores: 7
+- Responsabilidad: Investigador colaborador
+- Aportación del Investigador:
+  - Diseño de prototipos para medida.
+  - Diseño de sistemas de monitorización para pruebas.
+  - Coordinación de tareas de ingeniería.
+
+** Desarrollo y Caracterizacion de Tejados y Fachadas Fotovoltaicas Ventiladas Integradas en Edificios
+
+- Entidad Financiadora: Ministerio de Educación y Ciencia
+- Cantidad Financiada (€): 452289
+- Referencia del Proyecto: CIT-120000-2007-89
+- Tipo de convocatoria: Nacional
+- Entidades Participantes: CIMNE, Isofotón, Pich-Aguilera Arquitectos, Universidad de Lleida
+- Duración: desde 01/07/2007 hasta 30/06/2008 N° total de meses: 12
+- Investigador Principal: Jordi Cipriano
+- Nº Investigadores: 15
+- Responsabilidad: Investigador colaborador
+- Aportación del Investigador:
+  - Estudio del estado del arte de generadores fotovoltaicos en fachadas ventiladas.
+  - Consultoría en la implementación de herramientas software de simulación con TRNSYS.
+  - Definición del generador fotovoltaico y equipos asociados. 
+  - Diseño de prototipos para prueba en campo.
+  - Análisis de datos de funcionamiento.
+
+** MODEN II
+
+- Entidad Financiadora: Ministerio de Industria, Turismo y Comercio
+- Cantidad Financiada (€): 391753
+- Referencia del Proyecto: FIT-120000-2006-138
+- Tipo de convocatoria: Nacional
+- Entidades Participantes: LACECAL, Isofotón, INGETEAM, Calor Económico del Bierzo
+- Duración: desde 01/01/2006 hasta 31/12/2007 N° total de meses: 24
+- Investigador Principal: Pablo Gutierrez Martin (LACECAL)
+- Nº Investigadores: 13
+- Responsabilidad: Investigador colaborador
+- Aportación del Investigador:
+  - Diseño y ejecucion de sistemas fotovoltaicos de conexion a red
+  - Diseño de sistemas fotovoltaicos para probar los equipos diseñados
+  - Coordinación de la participacion de Isofoton en este proyecto
+
+** Conector de Paneles Dinamico CPD-1 y Convertidor Multipuente Multipotencia CMM-1
+
+- Entidad Financiadora: Ministerio de Industria, Turismo y Comercio
+- Cantidad Financiada (€): 354347
+- Referencia del Proyecto: FIT-120000-2007-100
+- Tipo de convocatoria: Nacional
+- Entidades Participantes: LACECAL, Isofotón, Calor Económico del Bierzo
+- Duración: desde 01/07/2007 hasta 30/06/2008 N° total de meses: 12
+- Investigador Principal: Jose Antonio Dominguez Vazquez (LACECAL)
+- Nº Investigadores: 12
+- Responsabilidad: Investigador colaborador
+- Aportación del Investigador:
+  - Diseño de prototipos para pruebas.
+  - Diseño de sistema de monitorización.
+  - Estudio del estado del arte de equipos inversores.
+
+** Optimización del Diseño Electrico de Modulos Fotovoltaicos para Minimizar las Perdidas de Potencia por Dispersion y Evitar los Puntos Calientes
+
+- Entidad Financiadora: Ministerio de Industria, Turismo y Comercio
+- Cantidad Financiada (€): 338691
+- Referencia del Proyecto: FIT-030000-2007-264
+- Tipo de convocatoria: Nacional
+- Entidades Participantes: Isofotón, CIEMAT
+- Duración: desde 01/01/2007 hasta 31/12/2008 N° total de meses: 24
+- Investigador Principal: Paula Sanchez-Friera
+- Nº Investigadores: 6
+- Responsabilidad: Investigador colaborador
+- Aportación del Investigador:
+  - En el diseño y ejecución de sistemas fotovoltaicos de gran tamaño obra especial relevancia el impacto de sombras mutuas y las perdidas por dispersión, objeto de este proyecto de investigacion. Dado que los cinco investigadores restantes son expertos en diseño y fabricacion de dispositivos fotovoltaicos, la aportacion del solicitante consistió en aportar el conocimiento de ingenieria desde la experiencia en campo.
+
+** Desarrollo de una Plataforma para la Monitorizacion y Seguimiento de Sistemas Fotovoltaicos
+
+- Entidad Financiadora: Corporacion Tecnologica de Andalucia
+- Cantidad Financiada (€): 400034
+- Referencia del Proyecto: 06109D1A
+- Tipo de convocatoria: CC.AA.
+- Entidades Participantes: Isofotón, ISM, Universidad de Malaga
+- Duración: desde 01/01/2007 hasta 31/12/2007 N° total de meses: 12
+- Investigador Principal: Oscar Perpiñán
+- Nº Investigadores: 15
+- Responsabilidad: Investigador principal
+- Aportación del Investigador:
+  - Definición de requisitos del sistema.
+  - Selección de equipos a monitorizar.
+  - Diseño de sistemas de prueba.
+  - Revisión de implementación de herramientas software.
+  - Implementación de prototipos.
+  - Estudio del estado del arte de comunicaciones en sistemas de monitorización.
+
+** Sistema de Desalinizacion mediante Osmosis Inversa Alimentado con Energía Solar Fotovoltaica
+
+- Entidad Financiadora: CDTI
+- Cantidad Financiada (€): 626600
+- Referencia del Proyecto: 04-0624
+- Tipo de convocatoria: Nacional
+- Entidades Participantes: Isofotón, Instituto Tecnológico de Canarias, VEOLIA
+- Duración: desde 01/07/2004 hasta 31/12/2005 N° total de meses: 18
+- Investigador Principal: Ramon Eyras Daguerre
+- Nº Investigadores: 10
+- Responsabilidad: Investigador colaborador
+- Aportación del Investigador:
+  - Diseño de sistema fotovoltaico autónomo sin acumulación de energía que permite el funcionamiento autónomo de la planta en zonas aisladas sin suministro eléctrico.
+  - Supervisión de la optimización de los circuitos hidráulicos, eléctricos y el sistema de control para el correcto y viable funcionamiento de la planta y el parque fotovoltaico.
+
+** Combinación de Energías Renovables con Almacenamiento Intermedio de H2 y Pila de Combustible (TINA)
+- Entidad Financiadora: Junta de Andalucía
+- Cantidad Financiada (€): 532358
+- Referencia del Proyecto: 2002000874
+- Tipo de convocatoria: CC.AA.
+- Entidades Participantes: Isofotón, BESEL, David Fuel
+- Duración: desde 02/01/2004 hasta 30/06/2005 N° total de meses: 18
+- Investigador Principal: Jesús Alonso
+- Nº Investigadores: 6
+- Responsabilidad: Investigador colaborador
+- Aportación del Investigador:
+  - Diseño del sistema fotovoltaico.
+  - Supervisión de la instalación del prototipo.
+  - Diseño del sistema de monitorización.
+  - Análisis de resultados de funcionamiento.
+
+** Caracterización de la variabilidad y comportamiento ante las perturbaciones de las plantas fotovoltaicas
+
+- Entidad Financiadora: Red Eléctrica de España
+- Tipo de convocatoria: Contrato con Empresa Privada
+- Entidades Participantes: UPM, UPNA, Acciona
+- Duración: desde 01/01/2009 hasta 31/12/2011 N° total de meses: 36
+- Investigador Principal: Eduardo Lorenzo
+- Nº Investigadores: 8
+- Responsabilidad: Investigador colaborador
+- Aportación del investigador:
+  - Caracterización de las fluctuaciones de radiación y potencia en sistemas fotovoltaicos mediante la transformada wavelet.
+  - Análisis de las fluctuaciones de potencia en una planta fotovoltaica de gran tamaño según el tipo de día y la distancia entre generadores
+  - Publicación de resultados en dos artículos JCR.
+
+
 * Comunicaciones y Ponencias Presentadas a Congresos
 
+** VI Jornadas de Usuarios de R
+Congreso Nacional organizado por la Comunidad R-Hispano. Santiago de Compostela, Octubre 2014. 
 
-** Congresos Internacionales
-#+ATTR_LATEX: :environment longtable :align p{87mm}|p{30mm}|p{15mm}|p{30mm}
-    | Titulo                                                                                                             | Lugar     | Fecha     | Entidad Organizadora |
-    |--------------------------------------------------------------------------------------------------------------------+-----------+-----------+----------------------|
-    | Downscaling of Solar Irradiation from Satellite Models                                                             | Logroño   | Jul. 2013 | AEIPRO               |
-    | New Procedure to Determine Insulation Condition of High Voltage Equipment by Means of PD Measurements in Service   | Francia   | 2012      | CIGRE                |
-    | PD monitoring system of HV cable                                                                                   | Francia   | Jun. 2011 | Jicable              |
-    | PV solar tracking systems analysis                                                                                 | Italia    | Sep. 2007 | WIP                  |
-    | A real case of building integrated PV. Isofoton offices in Malaga                                                  | Alemania  | Sep. 2006 | WIP                  |
-    | Analysis and comparison of performance of large plants: Photocampa and Forum                                       | Barcelona | Jun. 2005 | WIP                  |
-    | PV pumping systems: cases of study                                                                                 | Francia   | Jun. 2004 | WIP                  |
-    | PV Soundless- world record along the highway: a PV sound barrier with 500 kwp and ceramic based PV modules         | Francia   | Jun. 2004 | WIP                  |
-    | Forum Solar: a large pergola for Forum                                                                             | Francia   | Jun. 2004 | WIP                  |
-    | Architecture and PV: discussion and experiences                                                                    | Francia   | Jun. 2004 | WIP                  |
-    | PV pumping systems: cases of study                                                                                 | Tailandia | Ene. 2004 | PVSEC Comittee       |
-    | Architectural integration of grid connected photovoltaic systems for schools in coslada                            | Japon     | Mayo 2003 | WCPEC3               |
-    | Photocampa: design and performance of the PV system                                                                | Japon     | Mayo 2003 | WCPEC3               |
-    | FIVE project-integration of pv systems on health emergency vehicles- results and conclusions                       | Italia    | Oct. 2002 | WIP-ETA              |
-    | PVSoundless: large PV sound barrier along a railway                                                                | Italia    | Jun. 2002 | ISES                 |
-    | Integration of PV systems on health emergency vehicles. FIVE project                                               | Alemania  | Oct. 2001 | WIP                  |
-    | Photocampa: PV system integrated into a large car park                                                             | Alemania  | Oct. 2001 | WIP                  |
-    | PV pergola for the chapel of men                                                                                   | Alemania  | Oct. 2001 | WIP                  |
-    | Special module types for pv systems in high-profile buildings                                                      | Alemania  | Oct. 2001 | WIP                  |
+- meteoForecast: predicciones meteorológicas de modelos NWP en R, *O. Perpiñán*, M. P. Almeida
 
-    
-** Congresos nacionales
-#+ATTR_LATEX: :environment longtable :align p{87mm}|p{30mm}|p{15mm}|p{30mm}
-    | Título                                                                                                                          | Lugar                  | Fecha     | Entidad Organizadora |
-    |---------------------------------------------------------------------------------------------------------------------------------+------------------------+-----------+----------------------|
-    | meteoForecast: predicciones meteorológicas de modelos NWP en R                                                                  | Santiago de Compostela | Oct. 2014 | Comunidad R-Hispano  |
-    | Comparativa y análisis de variabilidad espacial entre medidas de radiación solar terrestre y satelital                          | Madrid                 | Nov. 2011 | AUR                  |
-    | solaR: geometría, radiación y energía solar en R                                                                                | Madrid                 | Nov. 2011 | AUR                  |
-    | Datos geográficos de tipo raster en R                                                                                           | Madrid                 | Nov. 2011 | AUR                  |
-    | Instalación de energía solar en la nueva fabrica de Isofoton en el PTA de Málaga                                                | Málaga                 | Jun. 2005 | AEIPRO               |
-    | Solarizate: proyecto escuelas solares de Greenpeace-IDAE                                                                        | Vigo                   | Sep. 2004 | Univ. Vigo           |
-    | Sistema solar térmico y fotovoltaico en hotel urbano                                                                            | Vigo                   | Sep. 2004 | Univ. Vigo           |
-    | Centrales híbridas solar-diesel: nuestra experiencia                                                                            | Vigo                   | Sep. 2004 | Univ. Vigo           |
-    | Fachada doble fotovoltaica ``PVskin'': prototipos, investigación y desarrollo                                                   | Vigo                   | Sep. 2004 | Univ. Vigo           |
-    | Experiencia en sistemas de bombeo solar y simulación matemática de bombeos solares con equipos estándar                         | Vigo                   | Sep. 2004 | Univ. Vigo           |
-    | Monitorización wireless de instalación fotovoltaica de 56 kWp en el parque tecnológico de Andalucia basada en la tecnología OPC | Vigo                   | Sep. 2004 | Univ. Vigo           |
-    | Instalación de energía solar térmica con maquina de absorción                                                                   | Pamplona               | Oct. 2003 | AEIPRO               |
-    | Ósmosis inversa alimentada mediante energía solar fotovoltaica                                                                  | Pamplona               | Oct. 2003 | AEIPRO               |
-    | Photocampa: sistema fotovoltaico integrado en estructura de aparcamiento                                                        | Barcelona              | Oct. 2002 | AEIPRO               |
+** CIGRE SESSION 2012
+Congreso Internacional organizado por CIGRE. Francia, Agosto 2012
 
+- New Procedure To Determine Insulation Condition Of High Voltage Equipment By Means Of PD Measurements In Service, F. Garnacho, M.A. Sánchez-Urán, J. Ortego, F. Álvarez, *O. Perpiñán*, E. Puelles, R. Moreno, D. Prieto, D. Ramos
+
+** III Jornadas de usuarios de R
+Congreso Nacional organizado por la Comunidad R-Hispano. Madrid, Noviembre 2011
+
+- Comparativa y análisis de variabilidad espacial entre medidas de radiación solar terrestre y satelital, F. Antoñanzas, F. Cañizares, R. Morales, M. Ojeda, *O. Perpiñán*
+
+- solaR: geometría, radiación y energía solar en R, *O. Perpiñán*
+
+- Datos geográficos de tipo raster en R, J. van Etten, *O. Perpiñán*, R. J. Hijmans
+
+** JICABLE 2011
+Congreso Internacional organizado por Jicable. Francia, Junio 2011
+
+- PD monitoring system of HV cable, F. Garnacho, M.A. Sánchez-Urán, J. Ortego, J. Moreno, F. Álvarez, *O. Perpiñán*
+
+** 22nd European Photovoltaic Solar Energy Conference
+Congreso Internacional organizado por WIP. Milán, Septiembre 2007
+
+- PV Solar Tracking Systems Analysis, R. Sorichetti, *O. Perpiñán*
+
+** 21st European Photovoltaic Solar Energy Conference
+Congreso Internacional organizado por WIP. Dresden, Septiembre 2006
+
+- A Real Case Of Building Integrated PV, Isofotón Offices In Málaga, F. Arribas, I. Eyras, J. Vega, L. Mendez, J.J. Garcia, *O. Perpiñán*, R. Eyras
+
+** IX Congreso Internacional de Ingenieria de Proyectos
+Congreso Internacional organizado por AEIPRO. Málaga, Junio de 2005
+
+- Instalación De Energía Solar En La Nueva Fabrica De Isofotón En El P.T.A De Málaga, L. Mendez, J. Vega, J.J. Garcia, I. Eyras, F. Arribas, *O. Perpiñán*, R. Eyras
+
+** 20th European Photovoltaic Solar Energy Conference
+Congreso Internacional organizado por WIP. Barcelona, Junio 2005
+
+- Analysis And Comparison Of Performance Of Large Plantes: Photocampa And Forum, *O. Perpiñán*, E. Lorenzo, M.A. Castro, R. Eyras
+
+** XII Congreso Ibérico e VII Congresso Ibero-Americano de Energía Solar
+Congreso Nacional organizado por AEDES-ISES. Vigo, Septiembre 2004
+
+- Monitorización Wireless De Instalación Fotovoltaica De 56 kWp En El Parque Tecnológico De Andalucia Basada En La Tecnologia OPC , M. Sidrach, J. Carretero, A. Pereña, L. Mora, M. Aritio, *O. Perpiñán*
+
+- Centrales Hibridas Solar-Diesel: Nuestra Experiencia, M. Mazzorana, L. Carrasco, E. Horno, R. Eyras, *O. Perpiñán*, L.  Narvarte
+
+- Sistema Solar Térmico Y Fotovoltaico En Hotel Urbano, J. Garcia, *O. Perpiñán*, F. Ramirez, R. Eyras, J. Vega
+
+- Experiencia En Sistemas De Bombeo Solar Y Simulación Matemática De Bombeos Solares Con Equipos Estándar , E. Horno, *O. Perpiñán*, J. Hungria, I. Rai, R. Eyras
+
+- Fachada Doble Fotovoltaica PVskin: Prototipos, Investigación Y Desarrollo, I. Eyras, F. Arribas, M.A. Bofill, J. Vega, *O. Perpiñán*
+
+- Solarízate: Proyecto Escuelas Solares De Greenpeace-Idae, A. Gonzalez, *O. Perpiñán*, F. Ramirez, R. Eyras
+
+** 19th European Photovoltaic Solar Energy Conference
+Congreso Internacional organizado por WIP. Paris, Junio 2004
+
+- PV Soundless: World Record Along The Highway -- A PV Sound Barrier With 500 kWp And Ceramic Based PV Modules, M. Grottke, T. Suker, R.Eyras, J.Gorbeña, *O. Perpiñán*, A. Voigt, A.  Thiel, M.Spendel, K.Gherlicher, G. Frisen, R.Gambi, K.Kellner
+
+- Architecture And PV - Discussion And Experiences, J. Vega, *O. Perpiñán*
+
+- Forum Solar: A Large PV Pergola For Forum 2004, *O. Perpiñán*, A. Gonzalez, I. Eyras, R. Eyras
+
+- PV Pumping Systems For Domestic Water Supply-Cases Of Study, R. Eyras, *O. Perpiñán*, J. Hungria, I. Rai
+
+** VII Congreso Internacional de Ingeniería de Proyectos
+Congreso Internacional organizado por AEIPRO. Pamplona, Octubre 2003
+
+- Instalación De Energía Solar Térmica Con Maquina De Absorción, J. Giacardi, I. Eyras, J.J. Garcia, *O. Perpiñán*, R. Eyras
+
+- Ósmosis Inversa Alimentada Mediante Energía Solar Fotovoltaica, *O. Perpiñán*, M. Aritio, J. Hungria, T. Espino, L. Guerrero, J.M. Ortega
+
+** 3rd World Conference on Photovoltaic Energy Conversion
+Congreso Internacional organizado por IEEE. Osaka, Octubre 2003
+
+- Photocampa: Design And Performance Of The PV System, *O. Perpiñán*, N. Pearsall, L. Mendez, R. Eyras
+
+- Architectural Integration Of Grid Connected Photovoltaic Systems For Schools In Coslada, D. Jimenez, L. M. Carrasco, R. Eyras, *O. Perpiñán*, A. Gonzalez
+
+** 5th European Conference on Noise Control
+Congreso Internacional organizado por CNR-Instituto di Acustica. Napoles, Mayo 2003
+
+- Photovoltaic Modules Integrated In Novel Noise Barrier Elements, T. Erge, R. Eyras, *O. Perpiñán*, A. Gonzalez, E. Rossler
+
+** VI Congreso Internacional de Ingenieria de Proyectos
+Congreso Internacional organizado por AEIPRO. Barcelona, Octubre 2002
+
+- Photocampa: Sistema Fotovoltaico Integrado En Estructura De Aparcamiento, *O. Perpiñán*, S. Izquierdo, L. Mendez, S. Salat, R. Eyras
+
+** PV in Europe
+Congreso Internacional organizado por WIP. Roma, Octubre 2002
+
+- PVSOUNDLESS: Large PV Sound Barrier Along A Railway, A. Gonzalez, R. Eyras, *O. Perpiñán*, T. Erge
+
+- FIVE Project. Integration Of PV Systems On Health Emergency Vehicles. Results And Conclusions, G. Almonacid, F.J. Muñoz, J. De La Casa, J. C. Hernandez, J. De La Casa Cardenas, J.D. Aguilar, P. Serrano, A. Mantero, A. Jimenez, E.  Ferrando, *O. Perpiñán*, R. Eyras, 
+
+** EuroSun 2002
+Congreso Internacional organizado por ISES. Bologna, Junio 2002
+
+- PVSOUNDLESS: large PV sound barrier along a railway, A.G. Marsiñach, O.Perpiñán, T.Erge, R.Eyras
+
+** 17th European Photovoltaic Solar Energy Conference
+Congreso Internacional organizado por WIP. Munich, Octubre 2001
+
+- Photocampa: PV System Integrated Into A Large Car Park, *O. Perpiñán*, N. Pearsall, L. Mendez, W. Ernst, M. Schneider, R. Eyras
+
+- Special Module Types For PV Systems In High-Profile Buildings, *O. Perpiñán*, J. Vega, R. Eyras
+
+- PV Pergola For The Chapel Of Men, Guayasamin Foundation, Ecuador, R. Eyras, Y. Fernandez, *O. Perpiñán*
+
+- Integration Of PV Systems On Health Emergency Vehicles, G. Almonacid, F. J. Muñoz, J. De La Casa, J.C. Hernandez, J. De La Casa Cardenas, P. Serrano, A. Mantero, A. Jimenez, E. Ferrando, O.  Perpiñán, R. Eyras
+
+- Quality Control of Luminaries in SHS, L. Narvarte, E. Lorenzo, *O. Perpiñán*, M.A. Egido
 
 
 * Desarrollos
 
-- =solaR= ([[http://oscarperpinan.github.io/solar/]]): paquete software basado en R compuesto por un conjunto de funciones destinadas al calculo de la radiación solar incidente en sistemas fotovoltaicos y a la simulacion del funcionamiento de diferentes aplicaciones de esta tecnologia energética. 
+** solaR
 
-- =rasterVis= ([[http://oscarperpinan.github.io/rastervis/]]): paquete software basado en R para la visualización e interacción gráfica de datos espaciales masivos.
+Paquete software basado en =R= compuesto por un conjunto de funciones destinadas al cálculo de la radiación solar incidente en sistemas fotovoltaicos y a la simulación del funcionamiento de diferentes aplicaciones de esta tecnología energética. En la versión actual de este paquete se incluyen funciones que permiten realizar todas las etapas de cálculo desde la radiación global en el plano horizontal hasta la productividad final de sistemas fotovoltaicos de conexión a red y de bombeo. Esta herramienta se publica con una licencia libre GNU/GPL en el [[http://cran.r-project.org/web/packages/solaR/index.html][Comprehensive R Archive Network (CRAN)]] y en la web http://oscarperpinan.github.io/solar/.
 
-- =meteoForecast= (http://github.com/oscarperpinan/meteoForecast): paquete software basado en R que permite obtener predicciones de modelos numéricos meteorológicos producidos por diferentes servicios en formato raster o como series temporales.
+** rasterVis
+Paquete software basado en =R= para la visualización e interacción gráfica de datos espaciales masivos. Esta herramienta se publica con una licencia libre GNU/GPL en el [[http://cran.r-project.org/web/packages/rasterVis/index.html][Comprehensive R Archive Network (CRAN)]] y en su página web http://oscarperpinan.github.io/rastervis.
 
-- =PVF= (https://github.com/iesiee/PVF): paquete software basado en R que permite realizar predicciones de potencia producida por un sistema FV.
+** meteoForecast
+Paquete software basado en =R= que permite obtener predicciones de modelos numéricos meteorológicos producidos por diferentes servicios en formato raster o como series temporales. Esta herramienta se publica con una licencia libre GNU/GPL en el [[http://cran.r-project.org/web/packages/meteoForecast/index.html][Comprehensive R Archive Network (CRAN)]] y en su página web [[https://github.com/oscarperpinan/meteoForecast/]].
 
-- =pdCluster= (http://pdcluster.r-forge.r-project.org/): paquete software basado en R para la cuantificación, clasificación y análisis de importancia de variables de señales de descargas parciales en equipos de Alta Tensión.
+Este desarrollo software es uno de los resultados del proyecto europeo PVCROPS. Ha sido empleado en el artículo M. Pinho Almeida, O. Perpiñán, L. Narvarte, "PV Power Forecast Using a Nonparametric PV Model Solar Energy" Solar Energy, 2015. 
 
-- =pxR= (http://pxr.r-forge.r-project.org/): paquete software basado en R para la manipulación de fuentes de datos basadas en el formato PC-Axis, habitualmente empleado por instituciones nacionales e internacionales para la publicación de información.
+** PVF
+Paquete software basado en =R= que permite realizar predicciones de potencia producida por un sistema FV. Esta herramienta se publica con una licencia libre GNU/GPL en la página web http://github.com/iesiee/PVF.
 
+Este desarrollo software es uno de los resultados del proyecto europeo PVCROPS. Ha sido empleado en el artículo M. Pinho Almeida, O. Perpiñán, L. Narvarte, "PV Power Forecast Using a Nonparametric PV Model Solar Energy" Solar Energy, 2015. 
 
+** pdCluster
+Paquete software basado en =R= para la cuantificación, clasificación y análisis de importancia de variables de señales de descargas parciales en equipos de Alta Tensión. Esta herramienta se publica con una licencia libre GNU/GPL. Está accesible desde la página web http://oscarperpinan.github.io/pdcluster/.
+
+Este desarrollo software es uno de los resultados del proyecto CENIT ENERGOS. Ha sido empleado en el artículo O. Perpiñán,
+M.A. Sánchez-Urán, F. Álvarez, J. Ortego, F. Garnacho, Signal analysis and feature generation for pattern identification of
+partial discharges in high-voltage equipment, Electric Power Systems Research, 2013, 95:C (56-65).
+
+** pxR
+Paquete software basado en =R= para la manipulación de fuentes de datos basadas en el formato PC-Axis, habitualmente empleado por instituciones nacionales e internacionales para la publicación de información.  Esta herramienta se publica con una licencia libre GNU/GPL. Está accesible desde el Comprehensive R Archive Network (CRAN) en la página web http://cran.r-project.org/web/packages/pxR/.
 
 * Cursos y Seminarios Impartidos
 
-- Curso "Introducción a R" (8 horas) para profesores de la UPM (Diciembre 2014)
+- Curso "Introducción a R" (8 horas) para profesores de la UPM (Instituto de Ciencias de la Educación, UPM, Diciembre 2014)
 
 - Curso "Introducción a R" (10 horas) para investigadores del CEIGRAM-UPM (Noviembre 2014)
 
-- Taller "Visualización de Series Temporales" en las VI Jornadas de Usuarios de R (Octubre 2014)
+- Taller "Visualización de Series Temporales" en las VI Jornadas de Usuarios de R (Santiago de Compostela, Octubre 2014)
 
-- Taller "Visualización de Datos Raster" en las VI Jornadas de Usuarios de R (Octubre 2014)
+- Taller "Visualización de Datos Raster" en las VI Jornadas de Usuarios de R (Santiago de Compostela, Octubre 2014)
 
-- Ponencia "Data Visualization with R" dentro del Máster "Data Driven Methods in Environmental Management and Conservation" del Instituto
-  de Empresa (Febrero, 2013).
+- Ponencia "Data Visualization with R" dentro del Máster "Data Driven Methods in Environmental Management and Conservation" del (Instituto de Empresa, Febrero 2013).
 
-- Curso "Introducción a R" (8 horas) para profesores de la UNED (Marzo 2013).
+- Curso "Introducción a R" (8 horas) para profesores de la UNED (UNED, Marzo 2013).
 
-- Curso "R avanzado" (8 horas) para profesores de la UNED (Marzo 2013).
+- Curso "R avanzado" (8 horas) para profesores de la UNED (UNED, Marzo 2013).
 
-- Participacion en las ediciones 2014/2015, 2013/2014, 2012/2013, 2011/2012, 2010/2011 y 2010/2009 del Master propio de Energías Renovables y Medio Ambiente de la UPM, organizado por la ETSIDI-UPM, impartiendo el tema ``Diseño de plantas FV con seguimiento solar'' con una duración de 4,5 horas.
+- Participación en las ediciones 2014/2015, 2013/2014, 2012/2013, 2011/2012, 2010/2011 y 2010/2009 del Master propio de Energías Renovables y Medio Ambiente de la UPM, organizado por la ETSIDI-UPM, impartiendo el tema ``Diseño de plantas FV con seguimiento solar'' con una duración de 4,5 horas.
 
 - Curso ``Instalaciones de energía solar'', impartido del 15/09/10 al 16/10/11 con una duración de 109 horas, organizado por la ETSI-Montes-UPM, impartiendo el modulo ``Sistemas fotovoltaicos conectados a red'', con una duración de 5 horas.
 
@@ -378,36 +771,52 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 * Becas, Ayudas y Premios recibidos
 
 - Premio Extraordinario de Doctorado.
+- Beca de Colaboración dentro del Grupo de Bioingeniería y Telemedicina de la ETSIT en el contexto del proyecto europeo "Worldwide Emergency Telemedicine Services" (WETS) (1998)
 
 
 * Actividad en Empresas y Profesión Libre
 
-
-- Octubre 2010- Enero 2009: Ejercicio libre de la profesión: consultoría sobre diseño y análisis de funcionamiento de sistemas fotovoltaicos.
+- Octubre 2010- Enero 2009: Ejercicio libre de la profesión:
+  Consultoría sobre diseño y análisis de funcionamiento de sistemas fotovoltaicos.
 
 - Diciembre 2008- Enero 2007: Subdirector Técnico de ISOFOTON
-  
-  - Responsable de las Áreas de I+D+i, Producto BOS y Difusión Técnica
-  - Equipo compuesto por 10 personas.
-  
-
+  - Equipo compuesto por 10 personas. 
+  - Responsable de las Áreas de:
+    - I+D+i :: desarrollo de nuevas aplicaciones, coordinación y participación en proyectos colaborativos de I+D+i
+    - Producto BOS :: desarrollo de equipos electrónicos para diferentes aplicaciones, supervision de los equipos disponibles en el mercado
+    - Difusión Técnica :: elaboración de documentación, formación de técnicos e ingenieros, participación en conferencias y cursos de especialización
+ 
 - Enero 2007-Mayo 2002: Gerente de Ingeniería (Dpto. Técnico de ISOFOTON)
-  
   - Responsable de ofertas técnicas, diseño de proyectos y proyectos de ejecución.
   - Equipo compuesto por 7 personas.
-  
 
 - Mayo 2002-Noviembre 2001: Gerente de Instalaciones (Dpto. Técnico de ISOFOTON)
-  
   - Responsable de gestión y dirección de proyectos, y jefatura de obras.
   - Equipo compuesto por 7 personas.
-  
 
 - Noviembre 2001-Marzo 2000: Ingeniero de Proyectos (Dpto. Técnico de ISOFOTON)
 
 
 
 * Otros Méritos Docentes o de Investigación
+
+** Acreditaciones
+
+  - Acreditación de la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA) para la figura de Profesor Titular de Universidad.
+
+  - Evaluación positiva por la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA) para la figura de Profesor Contratado Doctor, Profesor Ayudante Doctor y Profesor de Universidad Privada.
+
+  - Evaluación positiva por la Agencia de Calidad, Acreditación y Prospectiva de las Universidades de Madrid (ACAP) para la figura de Profesor Contratado Doctor y Profesor Ayudante Doctor.
+
+  - Evaluación favorable de la actividad docente según el programa DOCENTIA de la ANECA durante el período comprendido entre noviembre de 2008 y junio de 2011.
+
+** Miembro de tribunales de Tesis Doctoral
+
+  - ``El Proyecto Pierre Auger como Red de Sistemas Fotovoltaicos Aislados de Alta Estadística'' (Iago Rodriguez Cabo, USC 2015)
+
+  - ``Predicción espacio-temporal de la irradiancia solar global a corto plazo en España mediante geoestadística y redes neuronales artificiales'' (Federico Vladimir Gutierrez Corea, UPM 2014)
+
+  - ``Energía solar fotovoltaica: competitividad y evaluación económica, comparativa y modelos'' (Eduardo Collado Fernández, UNED 2009)
 
 ** Revisor para revistas
 
@@ -422,24 +831,6 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
   - /Journal of Solar Engineering/
 
   - /IET Renewable Power Generation/
-
-** Miembro de tribunales de Tesis Doctoral
-
-  - ``El Proyecto Pierre Auger como Red de Sistemas Fotovoltaicos Aislados de Alta Estadística'' (Iago Rodriguez Cabo, USC 2015)
-
-  - ``Predicción espacio-temporal de la irradiancia solar global a corto plazo en España mediante geoestadística y redes neuronales artificiales'' (Federico Vladimir Gutierrez Corea, UPM 2014)
-
-  - ``Energía solar fotovoltaica: competitividad y evaluación económica, comparativa y modelos'' (Eduardo Collado Fernández, UNED 2009)
-
-** Acreditaciones
-
-  - Acreditación de la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA) para la figura de Profesor Titular de Universidad.
-
-  - Evaluación positiva por la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA) para la figura de Profesor Contratado Doctor, Profesor Ayudante Doctor y Profesor de Universidad Privada.
-
-  - Evaluación positiva por la Agencia de Calidad, Acreditación y Prospectiva de las Universidades de Madrid (ACAP) para la figura de Profesor Contratado Doctor y Profesor Ayudante Doctor.
-
-  - Evaluación favorable de la actividad docente según el programa DOCENTIA de la ANECA durante el período comprendido entre noviembre de 2008 y junio de 2011.
 
 ** Asociaciones
 
