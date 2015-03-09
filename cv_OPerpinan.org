@@ -583,12 +583,20 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
 
 * Comunicaciones y Ponencias Presentadas a Congresos
+** EnerSol World Sustainable Energy Forum 2014
+Congreso Internacional organizado por SETCOR. Túnez, Noviembre 2014.
+
+- Linke turbidity prediction for improving solar radiation forecasting, F. Antonanzas-Torres, F. J. Martinez-de-Pison, *O. Perpiñán*, R. Nunes, Carlos Coimbra
 
 ** VI Jornadas de Usuarios de R
 Congreso Nacional organizado por la Comunidad R-Hispano. Santiago de Compostela, Octubre 2014. 
 
 - meteoForecast: predicciones meteorológicas de modelos NWP en R, *O. Perpiñán*, M. P. Almeida
 
+** 17th International Congress on  Project Management and Engineering 
+Congreso Internacional organizado por AEIPRO. Málaga, Julio 2013
+
+- Downscaling of Solar Irradiation from Satellite Models, F. Antoñanzas,J. Antoñanzas, F.J. Martínez de Pisón, M. J. Alía Martínez, *Perpiñán, O.*
 ** CIGRE SESSION 2012
 Congreso Internacional organizado por CIGRE. Francia, Agosto 2012
 
@@ -618,7 +626,7 @@ Congreso Internacional organizado por WIP. Dresden, Septiembre 2006
 
 - A Real Case Of Building Integrated PV, Isofotón Offices In Málaga, F. Arribas, I. Eyras, J. Vega, L. Mendez, J.J. Garcia, *O. Perpiñán*, R. Eyras
 
-** IX Congreso Internacional de Ingenieria de Proyectos
+** 9th International Congress on  Project Management and Engineering
 Congreso Internacional organizado por AEIPRO. Málaga, Junio de 2005
 
 - Instalación De Energía Solar En La Nueva Fabrica De Isofotón En El P.T.A De Málaga, L. Mendez, J. Vega, J.J. Garcia, I. Eyras, F. Arribas, *O. Perpiñán*, R. Eyras
@@ -654,7 +662,7 @@ Congreso Internacional organizado por WIP. Paris, Junio 2004
 
 - PV Pumping Systems For Domestic Water Supply-Cases Of Study, R. Eyras, *O. Perpiñán*, J. Hungria, I. Rai
 
-** VII Congreso Internacional de Ingeniería de Proyectos
+** 7th Congreso Internacional de Ingenieria de Proyectos
 Congreso Internacional organizado por AEIPRO. Pamplona, Octubre 2003
 
 - Instalación De Energía Solar Térmica Con Maquina De Absorción, J. Giacardi, I. Eyras, J.J. Garcia, *O. Perpiñán*, R. Eyras
@@ -673,7 +681,7 @@ Congreso Internacional organizado por CNR-Instituto di Acustica. Napoles, Mayo 2
 
 - Photovoltaic Modules Integrated In Novel Noise Barrier Elements, T. Erge, R. Eyras, *O. Perpiñán*, A. Gonzalez, E. Rossler
 
-** VI Congreso Internacional de Ingenieria de Proyectos
+** 6th Congreso Internacional de Ingeniería de Proyectos
 Congreso Internacional organizado por AEIPRO. Barcelona, Octubre 2002
 
 - Photocampa: Sistema Fotovoltaico Integrado En Estructura De Aparcamiento, *O. Perpiñán*, S. Izquierdo, L. Mendez, S. Salat, R. Eyras
