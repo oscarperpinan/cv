@@ -175,7 +175,7 @@ Reconocido como consolidado por la Universidad Politécnica de Madrid, con tres 
 *** EUREC
 Supervisión on-site de Proyectos de Fin de Máster del European Máster in Renewable Energy de la Agencia EUREC en los cursos 2004/2005 y 2003/2004.
 
-* Libros
+* Libros y Capítulos en Libros
 
 ** Displaying time series, spatial and space-time data with R
 O. Perpiñán, Chapman and Hall/CRC, 2014, ISBN 9781466565203. http://oscarperpinan.github.com/spacetime-vis/
@@ -186,19 +186,20 @@ O. Perpiñán, 2014. Libro autoeditado, publicado online con licencia Creative C
 ** Diseño de Sistemas Fotovoltaicos
 *O. Perpiñán*, M.A. Castro Gil, A. Colmenar, Promotora General de Estudios, S.A., 2012, ISBN: 978-84-95693-72-3
   
+** Soft Computing Applications for Renewable Energy and Energy Efficiency
+F. Antonanzas-Torres, A. Sanz-Garcia, J. Antonanzas, *O. Perpiñán*, F.J. Martínez-de-Pisón, Current Status and Future Trends of the Evaluation of Solar Global Irradiation using Soft-Computing-Based Models, en Soft Computing Applications for Renewable Energy and Energy Efficiency. M. Cascales, M. Sánchez-Lozano, A.D. Masegosa, C. Cruz,  Series in Advances in Environmental Engineering and Green Technologies, IGI Global, 2015, (1-22) ISBN 9781466666320. [[http://dx.doi.org/10.4018/978-1-4666-6631-3.ch001][10.4018/978-1-4666-6631-3.ch001]].
+
 ** Sistemas de bombeo eólicos y fotovoltaicos
 M. Castro,A. Colmenar, R.P. Fiffe, M. Pérez, *O. Perpiñán*, J.M. Perulero. Monografías de Energías Renovables, Promotora General de Estudios, S.A., 2011, ISBN 84-95693-67-9
   
 ** Energía eólica
 M. Castro, A. Colmenar, *O. Perpiñán*, C. Sánchez Naranjo. Monografías de Energías Renovables, Promotora General de Estudios, S.A., 2011, ISBN 84-86505-69-3.
   
-* Artículos en Revistas y Capítulos en Libros
+* Artículos en Revistas 
 ** Publicaciones Internacionales
 Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
 - M. Pinho Almeida, *O. Perpiñán*, L. Narvarte, PV Power Forecast Using a Nonparametric PV Model Solar Energy Solar Energy, 2015. Aceptado para publicación.\\ (Índice de impacto: 3.868, Tercil T1 en categoría /Energy & Fuels/)
-
-- F. Antonanzas-Torres, Andres Sanz-Garcia, Javier Antonanzas-Torres, *O. Perpiñán* and Francisco Javier Martínez-de-Pisón-Ascacibar. Current Status and Future Trends of the Evaluation of Solar Global Irradiation using Soft-Computing-Based Models. Soft Computing Applications for Renewable Energy and Energy Efficiency. IGI Global, 2015. 1-22. [[http://dx.doi.org/10.4018/978-1-4666-6631-3.ch001][10.4018/978-1-4666-6631-3.ch001]]
 
 - F. Antonanzas-Torres, F.J. Martínez de Pisón, J. Antonanzas, *O. Perpiñán*, Downscaling of global solar irradiation in complex areas in R, Journal of Renewable and Sustainable Energy, 6, 063105 (2014), [[http://dx.doi.org/10.1063/1.4901539][10.1063/1.4901539]] \\ (Índice de impacto: 0.925, Tercil T3 en categoría /Energy & Fuels/)
 
@@ -751,11 +752,11 @@ Paquete software basado en =R= para la manipulación de fuentes de datos basadas
 
 - Taller "Visualización de Datos Raster" en las VI Jornadas de Usuarios de R (Santiago de Compostela, Octubre 2014)
 
-- Ponencia "Data Visualization with R" dentro del Máster "Data Driven Methods in Environmental Management and Conservation" del (Instituto de Empresa, Febrero 2013).
-
 - Curso "Introducción a R" (8 horas) para profesores de la UNED (UNED, Marzo 2013).
 
 - Curso "R avanzado" (8 horas) para profesores de la UNED (UNED, Marzo 2013).
+
+- Ponencia "Data Visualization with R" dentro del Máster "Data Driven Methods in Environmental Management and Conservation" del (Instituto de Empresa, Febrero 2013).
 
 - Participación en las ediciones 2014/2015, 2013/2014, 2012/2013, 2011/2012, 2010/2011 y 2010/2009 del Master propio de Energías Renovables y Medio Ambiente de la UPM, organizado por la ETSIDI-UPM, impartiendo el tema ``Diseño de plantas FV con seguimiento solar'' con una duración de 4,5 horas.
 
@@ -783,17 +784,13 @@ Paquete software basado en =R= para la manipulación de fuentes de datos basadas
 
 - Caracterización de la radiación solar como recurso energético (CIEMAT, 2006, 30 horas)
 
-- Prevención de riesgos laborales Baja Tensión y proximidad Alta Tensión (CEFOIM, 2008, 30 horas)
-
 - Estadística en la investigación experimental (ICE-UPM, 2010, 28 horas)
 
 - Estadística comparativa y de investigación para uno y dos grupos de muestras (ICE-UPM, 2009, 24 horas)
 
-- Habilidades de negociación (Criteria, 2004, 20 horas)
+- Introduction to mathematical optimization techniques applied to power systems generation operation planning (Universidad Pontificia de Comillas, 2003, 20 horas)
 
 - Curso eléctrico de Media Tensión (Pedro Giner Editorial, 2003, 18 horas)
-
-- Introduction to mathematical optimization techniques applied to power systems generation operation planning (Universidad Pontificia de Comillas, 2003, 20 horas)
 
 - Rechargeable batteries (OTTI Kolleg, 2002, 20 horas)
 
@@ -836,13 +833,13 @@ Paquete software basado en =R= para la manipulación de fuentes de datos basadas
 
   - Acreditación de la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA) para la figura de Profesor Titular de Universidad.
 
-  - Evaluación positiva por la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA) para la figura de Profesor Contratado Doctor, Profesor Ayudante Doctor y Profesor de Universidad Privada.
+  - Evaluación positiva por la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA) para la figura de Profesor Contratado Doctor.
 
-  - Evaluación positiva por la Agencia de Calidad, Acreditación y Prospectiva de las Universidades de Madrid (ACAP) para la figura de Profesor Contratado Doctor y Profesor Ayudante Doctor.
+  # - Evaluación positiva por la Agencia de Calidad, Acreditación y Prospectiva de las Universidades de Madrid (ACAP) para la figura de Profesor Contratado Doctor y Profesor Ayudante Doctor.
 
   - Evaluación favorable de la actividad docente según el programa DOCENTIA de la ANECA durante el período comprendido entre noviembre de 2008 y junio de 2011.
 
-** Miembro de tribunales de Tesis Doctoral
+** Miembro de tribunal de Tesis Doctoral
 
   - ``El Proyecto Pierre Auger como Red de Sistemas Fotovoltaicos Aislados de Alta Estadística'' (Iago Rodriguez Cabo, USC 2015)
 
@@ -854,15 +851,15 @@ Paquete software basado en =R= para la manipulación de fuentes de datos basadas
 
   - /Solar Energy/
 
-  - /Journal of Statistical Software/
-
-  - /Computers and Geosciences/
-
   - /Applied Energy/
 
   - /Journal of Solar Engineering/
 
+  - /Computers and Geosciences/
+
   - /IET Renewable Power Generation/
+
+  - /Journal of Statistical Software/
 
 ** Asociaciones
 
