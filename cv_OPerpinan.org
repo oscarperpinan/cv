@@ -199,7 +199,7 @@ M. Castro, A. Colmenar, *O. Perpiñán*, C. Sánchez Naranjo. Monografías de En
 ** Publicaciones Internacionales
 Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
-- M. Pinho Almeida, *O. Perpiñán*, L. Narvarte, PV Power Forecast Using a Nonparametric PV Model, Solar Energy, 2015. Aceptado para publicación.\\ (Índice de impacto: 3.868, Tercil T1 en categoría /Energy & Fuels/)
+- M. Pinho Almeida, *O. Perpiñán*, L. Narvarte, PV Power Forecast Using a Nonparametric PV Model. Solar Energy 115 (May): 354–68. doi:10.1016/j.solener.2015.03.006.\\ (Índice de impacto: 3.868, Tercil T1 en categoría /Energy & Fuels/)
 
 - F. Antonanzas-Torres, F.J. Martínez de Pisón, J. Antonanzas, *O. Perpiñán*, Downscaling of global solar irradiation in complex areas in R, Journal of Renewable and Sustainable Energy, 6, 063105 (2014), [[http://dx.doi.org/10.1063/1.4901539][10.1063/1.4901539]] \\ (Índice de impacto: 0.925, Tercil T3 en categoría /Energy & Fuels/)
 
