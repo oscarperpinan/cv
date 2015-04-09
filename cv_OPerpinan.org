@@ -31,7 +31,7 @@
 
 - Universidad Politécnica de Madrid
   - Escuela Técnica Superior de Ingeniería de Diseño Industrial
-  - Departamento de Ingeniería Eléctrica, Eléctrónica, Automática, y de Física Aplicada
+  - Departamento de Ingeniería Eléctrica, Electrónica, Automática, y de Física Aplicada
   - Categoría Actual: Profesor Ayudante Doctor
 
 
@@ -92,19 +92,19 @@
 |        2012-2013 |   1 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    15 |
 |        2012-2013 |   1 | Teoría de Circuitos | Grado en Ing. Química |   2 | Teoría            |    41 |
 |        2012-2013 |   1 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Práctica          |    15 |
-|        2012-2013 |   2 | Diseño Avanzado de Sistemas de Energía Solar | Master Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
+|        2012-2013 |   2 | Diseño Avanzado de Sistemas de Energía Solar | Máster Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
 |        2012-2013 |   2 | Teoría de Circuitos | Grado en Ing. en Diseño Industrial |   2 | Teoría            |    41 |
 |        2012-2013 |   2 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Práctica          |    30 |
 |------------------+-----+--------------------+--------------------+-----+-------------------+-------|
 |        2013-2014 |   1 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    64 |
 |        2013-2014 |   1 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Teoría y Práctica |    83 |
-|        2013-2014 |   2 | Diseño Avanzado de Sistemas de Energía Solar | Master Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
+|        2013-2014 |   2 | Diseño Avanzado de Sistemas de Energía Solar | Máster Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
 |        2013-2014 |   2 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    67 |
 |        2013-2014 |   2 | Teoría de Circuitos | Grado en Ing. de Diseño Industrial |   2 | Teoría y Práctica |    48 |
 |------------------+-----+--------------------+--------------------+-----+-------------------+-------|
 |        2014-2015 |   1 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    64 |
 |        2014-2015 |   1 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Teoría y Práctica |    83 |
-|        2014-2015 |   2 | Diseño Avanzado de Sistemas de Energía Solar | Master Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
+|        2014-2015 |   2 | Diseño Avanzado de Sistemas de Energía Solar | Máster Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
 |        2014-2015 |   2 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    67 |
 |        2014-2015 |   2 | Teoría de Circuitos | Grado en Ing. de Diseño Industrial |   2 | Teoría y Práctica |    48 |
 |------------------+-----+--------------------+--------------------+-----+-------------------+-------|
@@ -229,38 +229,17 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
 ** Publicaciones Nacionales
 
-- Fernando Garnacho Vecino, Miguel Ángel Sánchez-Urán González, Javier
-        Ortego La Moneda, F. Alvarez, *O. Perpiñán*,
-        Revisión periódica del estado del aislamiento de los cables de
-        AT mediante medidas de DPs on line, Energía: Ingeniería
-        energética y medioambiental, ISSN 0210-2056, Año nº 37, Nº
-        230, 2011, págs. 38-46.
+- Fernando Garnacho Vecino, Miguel Ángel Sánchez-Urán González, Javier Ortego La Moneda, F. Alvarez, *O. Perpiñán*, Revisión periódica del estado del aislamiento de los cables de AT mediante medidas de DPs on line, Energía: Ingeniería energética y medioambiental, ISSN 0210-2056, Año nº 37, Nº 230, 2011, págs. 38-46.
 
-- *O. Perpiñán*, E. Lorenzo, M.A. Castro, Estimación de sombras mutuas
-  entre seguidores y optimización de separaciones, Era Solar, ISSN
-  0212-4157, Nº. 131, 2006 , págs. 28-37
+- *O. Perpiñán*, E. Lorenzo, M.A. Castro, Estimación de sombras mutuas entre seguidores y optimización de separaciones, Era Solar, ISSN 0212-4157, Nº. 131, 2006 , págs. 28-37
 
-- *O. Perpiñán*, M.A. Castro, E. Lorenzo, Análisis y
-  comparación de funcionamiento de grandes plantas: photocampa y forum
-  Energía: Ingeniería energética y medioambiental, ISSN 0210-2056, Año
-  nº 32, Nº 190, 2006, págs. 63-68
+- *O. Perpiñán*, M.A. Castro, E. Lorenzo, Análisis y comparación de funcionamiento de grandes plantas: Photocampa y Forum Energía: Ingeniería energética y medioambiental, ISSN 0210-2056, Año nº 32, Nº 190, 2006, págs. 63-68
 
-- J. Carretero, L. Mora-López, *O. Perpiñán*, A. Pereña, Mariano Sidrach
-  de Cardona Ortín, I. Martínez, M. Aritio, Parque tecnológico de
-  Andalucía: tecnología OPC. Monitorización wireless de una
-  instalación fotovoltaica de 56 kWp, Era solar: Energías renovables,
-  ISSN 0212-4157, Nº. 127, 2005, págs. 56-65.
+- J. Carretero, L. Mora-López, *O. Perpiñán*, A. Pereña, Mariano Sidrach de Cardona Ortín, I. Martínez, M. Aritio, Parque tecnológico de Andalucía: tecnología OPC. Monitorización wireless de una instalación fotovoltaica de 56 kWp, Era solar: Energías renovables, ISSN 0212-4157, Nº. 127, 2005, págs. 56-65.
 
-- Arancha Perpiñán Lamigueiro, *O. Perpiñán*, Elena Carmen
-  Horno, Bombeo de agua para riego con energía solar fotovoltáica:
-  sistemas de bombeo solar directo Riegos y drenajes XXI, ISSN
-  0213-3660, Nº 144, 2005, págs. 68-74
+- Arancha Perpiñán Lamigueiro, *O. Perpiñán*, Elena Carmen Horno, Bombeo de agua para riego con energía solar fotovoltaica: sistemas de bombeo solar directo Riegos y drenajes XXI, ISSN 0213-3660, Nº 144, 2005, págs. 68-74
 
-- *O. Perpiñán*, R. Eyras, D. Jiménez, Antonio Gómez
-        Avilés-Casco, Sistemas fotovoltaicos en el Parque de las
-        Ciencias de Granada Era solar: Energías renovables, ISSN
-        0212-4157, Nº. 104, 2001, págs. 16-21
-
+- *O. Perpiñán*, R. Eyras, D. Jiménez, Antonio Gómez Avilés-Casco, Sistemas fotovoltaicos en el Parque de las Ciencias de Granada Era solar: Energías renovables, ISSN 0212-4157, Nº. 104, 2001, págs. 16-21
 
 
 * Proyectos de Investigación Subvencionados
@@ -332,13 +311,13 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
   - Análisis de las condiciones de instalación y explotación de sistemas de seguimiento en zonas elevadas, frente a la experiencia de instalación en terreno común.
   - Diseño de sistema de conversión de potencia con inversores de gran tamaño.
 
-** Desarrollo de una Plataforma para la Monitorizacion y Seguimiento de Sistemas Fotovoltaicos
+** Desarrollo de una Plataforma para la Monitorización y Seguimiento de Sistemas Fotovoltaicos
 
-- Entidad Financiadora: Corporacion Tecnologica de Andalucia
+- Entidad Financiadora: Corporación Tecnológica de Andalucia
 - Cantidad Financiada (€): 400034
 - Referencia del Proyecto: 06109D1A
 - Tipo de convocatoria: CC.AA.
-- Entidades Participantes: Isofotón, ISM, Universidad de Malaga
+- Entidades Participantes: Isofotón, ISM, Universidad de Málaga
 - Duración: desde 01/01/2007 hasta 31/12/2007 N° total de meses: 12
 - Investigador Principal: Oscar Perpiñán
 - Nº Investigadores: 15
@@ -351,7 +330,7 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
   - Implementación de prototipos.
   - Estudio del estado del arte de comunicaciones en sistemas de monitorización.
 
-** Desarrollo y Caracterizacion de Tejados y Fachadas Fotovoltaicas Ventiladas Integradas en Edificios
+** Desarrollo y Caracterización de Tejados y Fachadas Fotovoltaicas Ventiladas Integradas en Edificios
 
 - Entidad Financiadora: Ministerio de Educación y Ciencia
 - Cantidad Financiada (€): 452289
@@ -369,7 +348,7 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
   - Diseño de prototipos para prueba en campo.
   - Análisis de datos de funcionamiento.
 
-** Optimización del Diseño Electrico de Modulos Fotovoltaicos para Minimizar las Perdidas de Potencia por Dispersion y Evitar los Puntos Calientes
+** Optimización del Diseño Eléctrico de Módulos Fotovoltaicos para Minimizar las Perdidas de Potencia por Dispersión y Evitar los Puntos Calientes
 
 - Entidad Financiadora: Ministerio de Industria, Turismo y Comercio
 - Cantidad Financiada (€): 338691
@@ -381,9 +360,9 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 - Nº Investigadores: 6
 - Responsabilidad: Investigador colaborador
 - Aportación del Investigador:
-  - En el diseño y ejecución de sistemas fotovoltaicos de gran tamaño obra especial relevancia el impacto de sombras mutuas y las perdidas por dispersión, objeto de este proyecto de investigacion. Dado que los cinco investigadores restantes son expertos en diseño y fabricacion de dispositivos fotovoltaicos, la aportacion del solicitante consistió en aportar el conocimiento de ingenieria desde la experiencia en campo.
+  - En el diseño y ejecución de sistemas fotovoltaicos de gran tamaño obra especial relevancia el impacto de sombras mutuas y las perdidas por dispersión, objeto de este proyecto de investigación. Dado que los cinco investigadores restantes son expertos en diseño y fabricación de dispositivos fotovoltaicos, la aportación del solicitante consistió en aportar el conocimiento de ingeniería desde la experiencia en campo.
 
-** Conector de Paneles Dinamico CPD-1 y Convertidor Multipuente Multipotencia CMM-1
+** Conector de Paneles Dinámico CPD-1 y Convertidor Multipuente Multipotencia CMM-1
 
 - Entidad Financiadora: Ministerio de Industria, Turismo y Comercio
 - Cantidad Financiada (€): 354347
@@ -391,7 +370,7 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 - Tipo de convocatoria: Nacional
 - Entidades Participantes: LACECAL, Isofotón, Calor Económico del Bierzo
 - Duración: desde 01/07/2007 hasta 30/06/2008 N° total de meses: 12
-- Investigador Principal: Jose Antonio Dominguez Vazquez (LACECAL)
+- Investigador Principal: Jose Antonio Domínguez Vázquez (LACECAL)
 - Nº Investigadores: 12
 - Responsabilidad: Investigador colaborador
 - Aportación del Investigador:
@@ -407,14 +386,14 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 - Tipo de convocatoria: Nacional
 - Entidades Participantes: LACECAL, Isofotón, INGETEAM, Calor Económico del Bierzo
 - Duración: desde 01/01/2006 hasta 31/12/2007 N° total de meses: 24
-- Investigador Principal: Pablo Gutierrez Martin (LACECAL)
+- Investigador Principal: Pablo Gutiérrez Martín (LACECAL)
 - Nº Investigadores: 13
 - Responsabilidad: Investigador colaborador
 - Aportación del Investigador:
-  - Diseño y ejecucion de sistemas fotovoltaicos de conexion a red
+  - Diseño y ejecución de sistemas fotovoltaicos de conexión a red
   - Diseño de sistemas fotovoltaicos para probar los equipos diseñados
-  - Coordinación de la participacion de Isofoton en este proyecto
-** Mejora de la Calidad del Servicio Energetico en las Aplicaciones de Electrificacion Rural 
+  - Coordinación de la participación de Isofoton en este proyecto
+** Mejora de la Calidad del Servicio Energético en las Aplicaciones de Electrificación Rural 
 - Entidad Financiadora: Ministerio de Educación y Ciencia
 - Cantidad Financiada (€): 356943
 - Referencia del Proyecto: CIT-120000-2005-75
@@ -430,9 +409,9 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
   - Desarrollo y validación de software de simulación de sistemas de bombeo fotovoltaico.
   - Supervisión del diseño de sistemas de riego con sistemas de bombeo.
 
-** Caracterización del Comportamiento Térmico de la Fachada PVSKIN y su Interaccion con Edificios Modelo en Clima Mediterráneo
+** Caracterización del Comportamiento Térmico de la Fachada PVSKIN y su Interacción con Edificios Modelo en Clima Mediterráneo
 
-- Entidad Financiadora: Ministerio de Educacion y Ciencia
+- Entidad Financiadora: Ministerio de Educación y Ciencia
 - Cantidad Financiada (€): 152520
 - Referencia del Proyecto: CIT-120000-2005-74
 - Tipo de convocatoria: Nacional
@@ -446,7 +425,7 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
   - Diseño de sistemas de monitorización para pruebas.
   - Coordinación de tareas de ingeniería.
 
-** Sistema de Desalinizacion mediante Osmosis Inversa Alimentado con Energía Solar Fotovoltaica
+** Sistema de Desalinización mediante Ósmosis Inversa Alimentado con Energía Solar Fotovoltaica
 
 - Entidad Financiadora: CDTI
 - Cantidad Financiada (€): 626600
@@ -454,7 +433,7 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 - Tipo de convocatoria: Nacional
 - Entidades Participantes: Isofotón, Instituto Tecnológico de Canarias, VEOLIA
 - Duración: desde 01/07/2004 hasta 31/12/2005 N° total de meses: 18
-- Investigador Principal: Ramon Eyras Daguerre
+- Investigador Principal: Ramón Eyras Daguerre
 - Nº Investigadores: 10
 - Responsabilidad: Investigador colaborador
 - Aportación del Investigador:
@@ -519,7 +498,7 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
 ** Heliodomo: Nuevo Concepto de Vivienda Autosuficiente
 
-- Entidad Financiadora: Ministerio de Educacion y Ciencia
+- Entidad Financiadora: Ministerio de Educación y Ciencia
 - Cantidad Financiada (€): 205165
 - Referencia del Proyecto: BIA2004-05234
 - Tipo de convocatoria: Nacional
@@ -545,14 +524,14 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 - Nº Investigadores: 50
 - Responsabilidad: Investigador colaborador
 - Aportación del Investigador:
-  - Diseño de sistemas fotovoltaicos con modulos fotovoltaicos con sistema externo de concentracion 2x.
+  - Diseño de sistemas fotovoltaicos con módulos fotovoltaicos con sistema externo de concentración 2x.
 ** PV Generators Integrated into Sound Barriers
 
 - Entidad Financiadora: Comisión Europea
 - Cantidad Financiada (€): 4950039
 - Referencia del Proyecto: NNE5/2000/397
 - Tipo de convocatoria: UE
-- Entidades Participantes: Isofoton, Ayto. Helmond, Ayto. Leganes, Fraunhofer Ise, Biohaus
+- Entidades Participantes: Isofoton, Ayto. Helmond, Ayto. Leganés, Fraunhofer Ise, Biohaus
 - Duración: desde 01/01/2001 hasta 31/12/2003 N° total de meses: 24
 - Investigador Principal: Ramón Eyras Daguerre
 - Nº Investigadores: 25
@@ -770,9 +749,9 @@ Paquete software basado en =R= para la manipulación de fuentes de datos basadas
 
 - Curso ``Técnico en instalaciones solares en edificios'', impartido del 01/09/09 al 15/10/09, organizado por la ETSIDI-UPM, impartiendo el módulo ``Sistemas fotovoltaicos conectados a red'', con una duración de 25 horas.
 
-- Participacion en el curso ``Técnico en instalaciones fotovoltaicas y eolicas'', impartido del 06/10/09 al 04/12/09, organizado por la ETSIDI-UPM, impartiendo el módulo ``Sistemas fotovoltaicos conectados a red'', con una duración de 15 horas.
+- Participación en el curso ``Técnico en instalaciones fotovoltaicas y eólicas'', impartido del 06/10/09 al 04/12/09, organizado por la ETSIDI-UPM, impartiendo el módulo ``Sistemas fotovoltaicos conectados a red'', con una duración de 15 horas.
 
-- Participacion en el curso ``Energías renovables'', ediciones 2011/2012, 2010/2011 y 2009/2010, con una duración de 200 horas, organizado por la ETSI-Montes-UPM, impartiendo el módulo ``Energía solar fotovoltaica'', con una duración de 5 horas.
+- Participación en el curso ``Energías renovables'', ediciones 2011/2012, 2010/2011 y 2009/2010, con una duración de 200 horas, organizado por la ETSI-Montes-UPM, impartiendo el módulo ``Energía solar fotovoltaica'', con una duración de 5 horas.
 
 * Cursos y Seminarios recibidos
 
@@ -812,7 +791,7 @@ Paquete software basado en =R= para la manipulación de fuentes de datos basadas
   - Equipo compuesto por 10 personas. 
   - Responsable de las Áreas de:
     - I+D+i :: desarrollo de nuevas aplicaciones, coordinación y participación en proyectos colaborativos de I+D+i
-    - Producto BOS :: desarrollo de equipos electrónicos para diferentes aplicaciones, supervision de los equipos disponibles en el mercado
+    - Producto BOS :: desarrollo de equipos electrónicos para diferentes aplicaciones, supervisión de los equipos disponibles en el mercado
     - Difusión Técnica :: elaboración de documentación, formación de técnicos e ingenieros, participación en conferencias y cursos de especialización
  
 - Enero 2007-Mayo 2002: Gerente de Ingeniería (Dpto. Técnico de ISOFOTON)
