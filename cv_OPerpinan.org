@@ -1,6 +1,6 @@
 #+TITLE: Curriculum Vitae
 #+AUTHOR: Oscar Perpiñán Lamigueiro
-#+DATE: Marzo, 2015
+#+DATE: Abril, 2015
 #+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+LANGUAGE:  es
 #+LaTeX_CLASS: memoir-article
@@ -892,3 +892,6 @@ Paquete software basado en =R= para la manipulación de fuentes de datos basadas
 #   \par\end{flushright
   
   
+
+* Otros Méritos
+- Vocal de la Comisión de Extensión Universitaria de la ETSIDI-UPM
