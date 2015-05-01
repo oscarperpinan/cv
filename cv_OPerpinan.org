@@ -92,19 +92,19 @@
 |        2012-2013 |   1 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    15 |
 |        2012-2013 |   1 | Teoría de Circuitos | Grado en Ing. Química |   2 | Teoría            |    41 |
 |        2012-2013 |   1 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Práctica          |    15 |
-|        2012-2013 |   2 | Diseño Avanzado de Sistemas de Energía Solar | Master Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
+|        2012-2013 |   2 | Diseño Avanzado de Sistemas de Energía Solar | Máster Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
 |        2012-2013 |   2 | Teoría de Circuitos | Grado en Ing. en Diseño Industrial |   2 | Teoría            |    41 |
 |        2012-2013 |   2 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Práctica          |    30 |
 |------------------+-----+--------------------+--------------------+-----+-------------------+-------|
 |        2013-2014 |   1 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    64 |
 |        2013-2014 |   1 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Teoría y Práctica |    83 |
-|        2013-2014 |   2 | Diseño Avanzado de Sistemas de Energía Solar | Master Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
+|        2013-2014 |   2 | Diseño Avanzado de Sistemas de Energía Solar | Máster Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
 |        2013-2014 |   2 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    67 |
 |        2013-2014 |   2 | Teoría de Circuitos | Grado en Ing. de Diseño Industrial |   2 | Teoría y Práctica |    48 |
 |------------------+-----+--------------------+--------------------+-----+-------------------+-------|
 |        2014-2015 |   1 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    64 |
 |        2014-2015 |   1 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Teoría y Práctica |    83 |
-|        2014-2015 |   2 | Diseño Avanzado de Sistemas de Energía Solar | Master Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
+|        2014-2015 |   2 | Diseño Avanzado de Sistemas de Energía Solar | Máster Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
 |        2014-2015 |   2 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    67 |
 |        2014-2015 |   2 | Teoría de Circuitos | Grado en Ing. de Diseño Industrial |   2 | Teoría y Práctica |    48 |
 |------------------+-----+--------------------+--------------------+-----+-------------------+-------|
@@ -229,38 +229,17 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
 ** Publicaciones Nacionales
 
-- Fernando Garnacho Vecino, Miguel Ángel Sánchez-Urán González, Javier
-        Ortego La Moneda, F. Alvarez, *O. Perpiñán*,
-        Revisión periódica del estado del aislamiento de los cables de
-        AT mediante medidas de DPs on line, Energía: Ingeniería
-        energética y medioambiental, ISSN 0210-2056, Año nº 37, Nº
-        230, 2011, págs. 38-46.
+- Fernando Garnacho Vecino, Miguel Ángel Sánchez-Urán González, Javier Ortego La Moneda, F. Alvarez, *O. Perpiñán*, Revisión periódica del estado del aislamiento de los cables de AT mediante medidas de DPs on line, Energía: Ingeniería energética y medioambiental, ISSN 0210-2056, Año nº 37, Nº 230, 2011, págs. 38-46.
 
-- *O. Perpiñán*, E. Lorenzo, M.A. Castro, Estimación de sombras mutuas
-  entre seguidores y optimización de separaciones, Era Solar, ISSN
-  0212-4157, Nº. 131, 2006 , págs. 28-37
+- *O. Perpiñán*, E. Lorenzo, M.A. Castro, Estimación de sombras mutuas entre seguidores y optimización de separaciones, Era Solar, ISSN 0212-4157, Nº. 131, 2006 , págs. 28-37
 
-- *O. Perpiñán*, M.A. Castro, E. Lorenzo, Análisis y
-  comparación de funcionamiento de grandes plantas: photocampa y forum
-  Energía: Ingeniería energética y medioambiental, ISSN 0210-2056, Año
-  nº 32, Nº 190, 2006, págs. 63-68
+- *O. Perpiñán*, M.A. Castro, E. Lorenzo, Análisis y comparación de funcionamiento de grandes plantas: Photocampa y Forum Energía: Ingeniería energética y medioambiental, ISSN 0210-2056, Año nº 32, Nº 190, 2006, págs. 63-68
 
-- J. Carretero, L. Mora-López, *O. Perpiñán*, A. Pereña, Mariano Sidrach
-  de Cardona Ortín, I. Martínez, M. Aritio, Parque tecnológico de
-  Andalucía: tecnología OPC. Monitorización wireless de una
-  instalación fotovoltaica de 56 kWp, Era solar: Energías renovables,
-  ISSN 0212-4157, Nº. 127, 2005, págs. 56-65.
+- J. Carretero, L. Mora-López, *O. Perpiñán*, A. Pereña, Mariano Sidrach de Cardona Ortín, I. Martínez, M. Aritio, Parque tecnológico de Andalucía: tecnología OPC. Monitorización wireless de una instalación fotovoltaica de 56 kWp, Era solar: Energías renovables, ISSN 0212-4157, Nº. 127, 2005, págs. 56-65.
 
-- Arancha Perpiñán Lamigueiro, *O. Perpiñán*, Elena Carmen
-  Horno, Bombeo de agua para riego con energía solar fotovoltaica:
-  sistemas de bombeo solar directo Riegos y drenajes XXI, ISSN
-  0213-3660, Nº 144, 2005, págs. 68-74
+- Arancha Perpiñán Lamigueiro, *O. Perpiñán*, Elena Carmen Horno, Bombeo de agua para riego con energía solar fotovoltaica: sistemas de bombeo solar directo Riegos y drenajes XXI, ISSN 0213-3660, Nº 144, 2005, págs. 68-74
 
-- *O. Perpiñán*, R. Eyras, D. Jiménez, Antonio Gómez
-        Avilés-Casco, Sistemas fotovoltaicos en el Parque de las
-        Ciencias de Granada Era solar: Energías renovables, ISSN
-        0212-4157, Nº. 104, 2001, págs. 16-21
-
+- *O. Perpiñán*, R. Eyras, D. Jiménez, Antonio Gómez Avilés-Casco, Sistemas fotovoltaicos en el Parque de las Ciencias de Granada Era solar: Energías renovables, ISSN 0212-4157, Nº. 104, 2001, págs. 16-21
 
 
 * Proyectos de Investigación Subvencionados
@@ -391,7 +370,7 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 - Tipo de convocatoria: Nacional
 - Entidades Participantes: LACECAL, Isofotón, Calor Económico del Bierzo
 - Duración: desde 01/07/2007 hasta 30/06/2008 N° total de meses: 12
-- Investigador Principal: Jose Antonio Dominguez Vazquez (LACECAL)
+- Investigador Principal: Jose Antonio Domínguez Vázquez (LACECAL)
 - Nº Investigadores: 12
 - Responsabilidad: Investigador colaborador
 - Aportación del Investigador:
@@ -407,7 +386,7 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 - Tipo de convocatoria: Nacional
 - Entidades Participantes: LACECAL, Isofotón, INGETEAM, Calor Económico del Bierzo
 - Duración: desde 01/01/2006 hasta 31/12/2007 N° total de meses: 24
-- Investigador Principal: Pablo Gutierrez Martin (LACECAL)
+- Investigador Principal: Pablo Gutiérrez Martín (LACECAL)
 - Nº Investigadores: 13
 - Responsabilidad: Investigador colaborador
 - Aportación del Investigador:
@@ -433,7 +412,7 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
 ** Caracterización del Comportamiento Térmico de la Fachada PVSKIN y su Interacción con Edificios Modelo en Clima Mediterráneo
 
-- Entidad Financiadora: Ministerio de Educacion y Ciencia
+- Entidad Financiadora: Ministerio de Educación y Ciencia
 - Cantidad Financiada (€): 152520
 - Referencia del Proyecto: CIT-120000-2005-74
 - Tipo de convocatoria: Nacional
@@ -455,7 +434,7 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 - Tipo de convocatoria: Nacional
 - Entidades Participantes: Isofotón, Instituto Tecnológico de Canarias, VEOLIA
 - Duración: desde 01/07/2004 hasta 31/12/2005 N° total de meses: 18
-- Investigador Principal: Ramon Eyras Daguerre
+- Investigador Principal: Ramón Eyras Daguerre
 - Nº Investigadores: 10
 - Responsabilidad: Investigador colaborador
 - Aportación del Investigador:
@@ -520,7 +499,7 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
 ** Heliodomo: Nuevo Concepto de Vivienda Autosuficiente
 
-- Entidad Financiadora: Ministerio de Educacion y Ciencia
+- Entidad Financiadora: Ministerio de Educación y Ciencia
 - Cantidad Financiada (€): 205165
 - Referencia del Proyecto: BIA2004-05234
 - Tipo de convocatoria: Nacional
@@ -553,7 +532,7 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 - Cantidad Financiada (€): 4950039
 - Referencia del Proyecto: NNE5/2000/397
 - Tipo de convocatoria: UE
-- Entidades Participantes: Isofoton, Ayto. Helmond, Ayto. Leganes, Fraunhofer Ise, Biohaus
+- Entidades Participantes: Isofoton, Ayto. Helmond, Ayto. Leganés, Fraunhofer Ise, Biohaus
 - Duración: desde 01/01/2001 hasta 31/12/2003 N° total de meses: 24
 - Investigador Principal: Ramón Eyras Daguerre
 - Nº Investigadores: 25
@@ -873,26 +852,6 @@ Paquete software basado en =R= para la manipulación de fuentes de datos basadas
   - Miembro de la Comisión Técnica de la Asociación de la Industria Fotovoltaica (ASIF) hasta Diciembre del 2008.
 
   - Miembro del grupo GT C del Comité de Normalización SC82 hasta Diciembre del 2008.
-
-
-# * Diligencia de Curriculum
-
-# El abajo firmante D. Oscar Perpiñán Lamigueiro,
-# ## Nº. de Registro de Personal 5073216257-Y200200064, Profesor
-# ## Asociado,
-# se responsabiliza de la veracidad de los datos en el presente
-# curriculum, comprometiéndose a aportar, en su caso, las pruebas
-# documentales que le sean requeridas.
-# ## \vspace{10mm
-# \begin{flushright
-#   Madrid, a 28 de Julio de 2010.
-#   \par\end{flushright
-# \vspace{10mm
-# \begin{flushright
-#   Firmado: Oscar Perpiñán Lamigueiro
-#   \par\end{flushright
-  
-  
 
 * Otros Méritos
 - Vocal de la Comisión de Extensión Universitaria de la ETSIDI-UPM
