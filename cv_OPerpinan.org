@@ -32,7 +32,7 @@
 - Universidad Politécnica de Madrid
   - Escuela Técnica Superior de Ingeniería de Diseño Industrial
   - Departamento de Ingeniería Eléctrica, Electrónica, Automática, y de Física Aplicada
-  - Categoría Actual: Profesor Ayudante Doctor
+  - Categoría Actual: Profesor Contratado Doctor
 
 
 * Títulos Académicos
@@ -47,8 +47,21 @@
   - Especialidad en Radiocomunicación
   - Proyecto de Fin de Carrera: ``Desarrollo de un protocolo de medida de lámparas fluorescentes para instalaciones fotovoltaicas de electrificación rural''
 
-
+\newpage
 * Puestos Docentes Desempeñados
+
+** Profesor Contratado Doctor
+- Centro: Escuela Técnica Superior de Ingeniería y Diseño Industrial, Universidad Politécnica de Madrid.
+- Régimen de Dedicación: Completa.
+- Actividad: Docencia e Investigación
+- Fecha Nombramiento: 4 de Octubre de 2015.
+
+** Profesor Ayudante Doctor
+- Centro: Escuela Técnica Superior de Ingeniería y Diseño Industrial, Universidad Politécnica de Madrid.
+- Régimen de Dedicación: Completa.
+- Actividad: Docencia e Investigación
+- Fecha Nombramiento: 4 de Octubre de 2010.
+- Fecha Cese: 3 de Octubre de 2015.
 
 ** Profesor Asociado
 - Centro: Escuela Universitaria de Ingeniería Técnica Industrial, Universidad Politécnica de Madrid.
@@ -56,13 +69,6 @@
 - Actividad: Docencia
 - Fecha Nombramiento: 14 de Noviembre de 2008
 - Fecha Cese: 30 de Septiembre de 2010
-
-** Profesor Ayudante Doctor
-- Centro: Escuela Técnica Superior de Ingeniería y Diseño Industrial, Universidad Politécnica de Madrid.
-- Régimen de Dedicación: Completa.
-- Actividad: Docencia e Investigación
-- Fecha Nombramiento: 4 de Octubre de 2010.
-- Fecha Cese: Vigente en la actualidad.
 
 \newpage
 * Actividad Docente
@@ -813,7 +819,7 @@ Paquete software basado en =R= para la manipulación de fuentes de datos basadas
 
   - Acreditación de la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA) para la figura de Profesor Titular de Universidad.
 
-  - Evaluación positiva por la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA) para la figura de Profesor Contratado Doctor.
+  # - Evaluación positiva por la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA) para la figura de Profesor Contratado Doctor.
 
   # - Evaluación positiva por la Agencia de Calidad, Acreditación y Prospectiva de las Universidades de Madrid (ACAP) para la figura de Profesor Contratado Doctor y Profesor Ayudante Doctor.
 
