@@ -733,6 +733,8 @@ Paquete software basado en =R= para la manipulación de fuentes de datos basadas
 
 * Cursos y Seminarios Impartidos
 
+- Curso "Introducción a R" (10 horas) para alumnos del CEIGRAM-UPM (Septiembre 2015)
+
 - Curso "Introducción a R" (8 horas) para profesores de la UPM (Instituto de Ciencias de la Educación, UPM, Diciembre 2014)
 
 - Curso "Introducción a R" (10 horas) para investigadores del CEIGRAM-UPM (Noviembre 2014)
@@ -863,4 +865,5 @@ Paquete software basado en =R= para la manipulación de fuentes de datos basadas
   - Miembro del grupo GT C del Comité de Normalización SC82 hasta Diciembre del 2008.
 
 * Otros Méritos
+- Subdirector de Ordenación Académica - Jefe de Estudios de la ETSIDI-UPM (fecha de nombramiento: Octubre 2015)
 - Vocal de la Comisión de Extensión Universitaria de la ETSIDI-UPM
