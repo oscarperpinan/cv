@@ -145,17 +145,17 @@ Reconocido como consolidado por la Universidad Politécnica de Madrid, con tres 
 
 ** Dirección de Tesis Doctorales 
 
-- Codirección de la Tesis Doctoral "Inserçao en Grande Escala de Geraçao Solar Fotovoltaica em Sistemas Elétricos de Potência" de Marcelo Pinho Almeida, junto con el profesor Roberto Zilles, del Instituto de Energia e Ambiente de la Universidad de Sao Paulo.
+- Codirección de la Tesis Doctoral "Inserçao en Grande Escala de Geraçao Solar Fotovoltaica em Sistemas Elétricos de Potência" de Marcelo Pinho Almeida, junto con el profesor Roberto Zilles, del Instituto de Energia e Ambiente de la Universidad de Sao Paulo. En elaboración.
 
-- Codirección de la Tesis Doctoral "New methodologies and improved models in the estimation of solar irradiation" de Fernando Antoñanzas, junto con el profesor Francisco Javier Martínez de Ascacíbar, del grupo EDMANS de la Universidad de la Rioja.
-
-- Codirección de la Tesis Doctoral "Penetración de la Energía Fotovoltaica en el Sistema Eléctrico peninsular español. Condiciones del Mercado Eléctrico y Red de Transporte" de José Melguizo, junto con el profesor Manuel Castro Gil, catedrático del DIEEC-ETSII (UNED).
-  
+- Codirección de la Tesis Doctoral "New methodologies and improved models in the estimation of solar irradiation" de Fernando Antoñanzas, junto con el profesor Francisco Javier Martínez de Ascacíbar, del grupo EDMANS de la Universidad de la Rioja. Abril 2016. Sobresaliente cum laude.
 
 ** Dirección de Trabajos Tutelados
 *** ETSIDI
-- “Estimation de la puissance des systèmes photovoltaïques avec Machine Learning”, Imrane Dhmani (Université Montpellier 2). 2013/2014, 15 ECTS.
-- “Une estimation de puissance dans un système photovoltaique avec Random Forest”, Kobaa Abdeslam (Université Montpellier 2). 2013/2014, 15 ECTS.
+- "Estudio de Modelos para la estimación de la Radiación Solar Global en Ecuador", Eliana Carolina Ormeño Mejía, Máster en Ingeniería de la Energía, 2015/2016.
+- "Corrección de la medida de radiación solar difusa de la ETSIDI", Tomás Bobillo, Máster en Ingeniería de la Energía, 2015/2016.
+- "Estimation de la puissance des systèmes photovoltaïques avec Machine Learning", Imrane Dhmani (Université Montpellier 2). 2013/2014, 15 ECTS.
+- "Une estimation de puissance dans un système photovoltaique avec Random Forest", Kobaa Abdeslam (Université Montpellier 2). 2013/2014, 15 ECTS.
+
 *** Escuela de Organización Industrial
     - 2013-2014:
       - ``Electrificación Rural mediante Sistema Híbrido Eólico-Fotovoltaico en Roraima, Brasil''
@@ -738,10 +738,12 @@ Este desarrollo software es uno de los resultados del proyecto CENIT ENERGOS. Ha
 M.A. Sánchez-Urán, F. Álvarez, J. Ortego, F. Garnacho, Signal analysis and feature generation for pattern identification of
 partial discharges in high-voltage equipment, Electric Power Systems Research, 2013, 95:C (56-65).
 
-** pxR
-Paquete software basado en =R= para la manipulación de fuentes de datos basadas en el formato PC-Axis, habitualmente empleado por instituciones nacionales e internacionales para la publicación de información.  Esta herramienta se publica con una licencia libre GNU/GPL. Está accesible desde el Comprehensive R Archive Network (CRAN) en la página web http://cran.r-project.org/web/packages/pxR/.
 
 * Cursos y Seminarios Impartidos
+
+- Curso "Introducción a R" (8 horas) para profesores de la UPM (Instituto de Ciencias de la Educación, UPM, Enero 2016)
+
+- Curso "R avanzado" (8 horas) para profesores de la UPM (Instituto de Ciencias de la Educación, UPM, Febrero 2016)
 
 - Curso "Introducción a R" (10 horas) para alumnos del CEIGRAM-UPM (Septiembre 2015)
 
