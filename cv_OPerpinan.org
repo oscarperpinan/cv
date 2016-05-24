@@ -77,48 +77,49 @@ Subdirector de Ordenación Académica - Jefe de Estudios de la ETSIDI-UPM (fecha
 
 ** Escuela Técnica Superior de Ingeniería y Diseño Industrial
 #+ATTR_LaTeX: :align p{18mm}p{45mm}p{40mm}p{10mm}p{15mm}p{10mm}
-| Año | Asignatura         | Titulación         | Curso Titulación | Carácter          | Horas |
-|------------------+--------------------+--------------------+-----+-------------------+-------|
-|                  | <18>               | <18>               | <3> |                   |   <5> |
-|        2008-2009 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Eléctricos) |   1 | Teoría            |    75 |
-|        2008-2009 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Mecánicos) |   1 | Teoría y Práctica |    75 |
-|------------------+--------------------+--------------------+-----+-------------------+-------|
-|        2009-2010 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Eléctricos) |   1 | Teoría            |    75 |
-|        2009-2010 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Mecánicos) |   1 | Teoría y Práctica |    75 |
-|------------------+--------------------+--------------------+-----+-------------------+-------|
-|        2010-2011 | Teoría de Circuitos II | Ing. Técnico Industrial (Esp. Eléctricos) |   2 | Práctica          |    75 |
-|        2010-2011 | Electrometría      | Ing. Técnico Industrial (Esp. Eléctricos) |   1 | Práctica          |    30 |
-|        2010-2011 | Teoría de Circuitos I | Grado en Ing. Eléctrica |   1 | Práctica          |    45 |
-|------------------+--------------------+--------------------+-----+-------------------+-------|
-|        2011-2012 | Teoría de Circuitos | Grado en Ing. Química |   2 | Práctica          |    15 |
-|        2011-2012 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Teoría            |    45 |
-|        2011-2012 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Práctica          |    15 |
-|        2011-2012 | Teoría de Circuitos | Grado en Ing. Eléctrica |   2 | Práctica          |    15 |
-|        2011-2012 | Teoría de Circuitos | Grado en Ing. en Diseño Industrial |   2 | Teoría y Práctica |    60 |
-|        2011-2012 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Práctica          |    15 |
-|------------------+--------------------+--------------------+-----+-------------------+-------|
-|        2012-2013 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    15 |
-|        2012-2013 | Teoría de Circuitos | Grado en Ing. Química |   2 | Teoría            |    41 |
-|        2012-2013 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Práctica          |    15 |
-|        2012-2013 | Diseño Avanzado de Sistemas de Energía Solar | Máster Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
-|        2012-2013 | Teoría de Circuitos | Grado en Ing. en Diseño Industrial |   2 | Teoría            |    41 |
-|        2012-2013 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Práctica          |    30 |
-|------------------+--------------------+--------------------+-----+-------------------+-------|
-|        2013-2014 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    64 |
-|        2013-2014 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Teoría y Práctica |    83 |
-|        2013-2014 | Diseño Avanzado de Sistemas de Energía Solar | Máster Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
-|        2013-2014 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    67 |
-|        2013-2014 | Teoría de Circuitos | Grado en Ing. de Diseño Industrial |   2 | Teoría y Práctica |    48 |
-|------------------+--------------------+--------------------+-----+-------------------+-------|
-|        2014-2015 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    64 |
-|        2014-2015 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Teoría y Práctica |    83 |
-|        2014-2015 | Diseño Avanzado de Sistemas de Energía Solar | Máster Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
-|        2014-2015 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    67 |
-|        2014-2015 | Teoría de Circuitos | Grado en Ing. de Diseño Industrial |   2 | Teoría y Práctica |    48 |
-|------------------+--------------------+--------------------+-----+-------------------+-------|
-|        2015-2016 | Teoría de Circuitos | Grado en Ing. Electrónica |   2 | Teoría y Práctica |    48 |
-|        2015-2016 | Electrónica        | Grado en Ing. Química |   3 | Teoría y Práctica |    48 |
-|------------------+--------------------+--------------------+-----+-------------------+-------|
+|       Año | Asignatura         | Titulación         | Curso Titulación | Carácter          | Horas |
+|-----------+--------------------+--------------------+-----+-------------------+-------|
+|           | <18>               | <18>               | <3> |                   |   <5> |
+| 2008-2009 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Eléctricos) |   1 | Teoría            |    75 |
+| 2008-2009 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Mecánicos) |   1 | Teoría y Práctica |    75 |
+|-----------+--------------------+--------------------+-----+-------------------+-------|
+| 2009-2010 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Eléctricos) |   1 | Teoría            |    75 |
+| 2009-2010 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Mecánicos) |   1 | Teoría y Práctica |    75 |
+|-----------+--------------------+--------------------+-----+-------------------+-------|
+| 2010-2011 | Teoría de Circuitos II | Ing. Técnico Industrial (Esp. Eléctricos) |   2 | Práctica          |    75 |
+| 2010-2011 | Electrometría      | Ing. Técnico Industrial (Esp. Eléctricos) |   1 | Práctica          |    30 |
+| 2010-2011 | Teoría de Circuitos I | Grado en Ing. Eléctrica |   1 | Práctica          |    45 |
+|-----------+--------------------+--------------------+-----+-------------------+-------|
+| 2011-2012 | Teoría de Circuitos | Grado en Ing. Química |   2 | Práctica          |    15 |
+| 2011-2012 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Teoría            |    45 |
+| 2011-2012 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Práctica          |    15 |
+| 2011-2012 | Teoría de Circuitos | Grado en Ing. Eléctrica |   2 | Práctica          |    15 |
+| 2011-2012 | Teoría de Circuitos | Grado en Ing. en Diseño Industrial |   2 | Teoría y Práctica |    60 |
+| 2011-2012 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Práctica          |    15 |
+|-----------+--------------------+--------------------+-----+-------------------+-------|
+| 2012-2013 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    15 |
+| 2012-2013 | Teoría de Circuitos | Grado en Ing. Química |   2 | Teoría            |    41 |
+| 2012-2013 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Práctica          |    15 |
+| 2012-2013 | Diseño Avanzado de Sistemas de Energía Solar | Máster Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
+| 2012-2013 | Teoría de Circuitos | Grado en Ing. en Diseño Industrial |   2 | Teoría            |    41 |
+| 2012-2013 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Práctica          |    30 |
+|-----------+--------------------+--------------------+-----+-------------------+-------|
+| 2013-2014 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    64 |
+| 2013-2014 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Teoría y Práctica |    83 |
+| 2013-2014 | Diseño Avanzado de Sistemas de Energía Solar | Máster Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
+| 2013-2014 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    67 |
+| 2013-2014 | Teoría de Circuitos | Grado en Ing. de Diseño Industrial |   2 | Teoría y Práctica |    48 |
+|-----------+--------------------+--------------------+-----+-------------------+-------|
+| 2014-2015 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    64 |
+| 2014-2015 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Teoría y Práctica |    83 |
+| 2014-2015 | Diseño Avanzado de Sistemas de Energía Solar | Máster Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
+| 2014-2015 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    67 |
+| 2014-2015 | Teoría de Circuitos | Grado en Ing. de Diseño Industrial |   2 | Teoría y Práctica |    48 |
+|-----------+--------------------+--------------------+-----+-------------------+-------|
+| 2015-2016 | Teoría de Circuitos | Grado en Ing. Electrónica |   2 | Teoría y Práctica |    48 |
+| 2015-2016 | Electrónica        | Grado en Ing. Química |   3 | Teoría y Práctica |    48 |
+| 2015-2016 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    48 |
+|-----------+--------------------+--------------------+-----+-------------------+-------|
 # |                  |     |                    |                    |     | Total             |  1281 |
 
 
@@ -129,7 +130,7 @@ Subdirector de Ordenación Académica - Jefe de Estudios de la ETSIDI-UPM (fecha
 
 Colaborador en el Máster de Energías Renovables y Mercado Energético (MERME) de la Escuela de Organización Industrial:
 
-- Cursos 2014-2015, 2013-2014, 2012-2013, 2011-2012, 2010-2011, y 2009-2010: Asignatura troncal ``Energía Solar Fotovoltaica'' con un total de 70 horas lectivas.
+- Cursos 2015-2016 a 2009-2010: Asignatura troncal ``Energía Solar Fotovoltaica'' con un total de 70 horas lectivas.
 
 - Curso 2008-2009: Asignatura troncal ``Energía Solar Fotovoltaica'' con un total de 40 horas lectivas y asignatura optativa ``Energía Solar Fotovoltaica Avanzada'' con un total de 40 horas lectivas. 
 
