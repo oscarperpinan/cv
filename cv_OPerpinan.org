@@ -1,6 +1,6 @@
 #+TITLE: Curriculum Vitae
 #+AUTHOR: Oscar Perpiñán Lamigueiro
-#+DATE: Diciembre, 2015
+#+DATE: Mayo, 2016
 #+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+LANGUAGE:  es
 #+LaTeX_CLASS: memoir-article
@@ -50,6 +50,8 @@
 \newpage
 * Puestos Docentes Desempeñados
 
+Subdirector de Ordenación Académica - Jefe de Estudios de la ETSIDI-UPM (fecha de nombramiento: Octubre 2015)
+
 ** Profesor Contratado Doctor
 - Centro: Escuela Técnica Superior de Ingeniería y Diseño Industrial, Universidad Politécnica de Madrid.
 - Régimen de Dedicación: Completa.
@@ -75,7 +77,7 @@
 
 ** Escuela Técnica Superior de Ingeniería y Diseño Industrial
 #+ATTR_LaTeX: :align p{18mm}p{45mm}p{40mm}p{10mm}p{15mm}p{10mm}
-| Curso\\académico | Asignatura         | Titulación         | Curso Titulación | Carácter          | Horas |
+| Año | Asignatura         | Titulación         | Curso Titulación | Carácter          | Horas |
 |------------------+--------------------+--------------------+-----+-------------------+-------|
 |                  | <18>               | <18>               | <3> |                   |   <5> |
 |        2008-2009 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Eléctricos) |   1 | Teoría            |    75 |
@@ -208,7 +210,7 @@ M. Castro, A. Colmenar, *O. Perpiñán*, C. Sánchez Naranjo. Monografías de En
 ** Publicaciones Internacionales
 Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
-1. M. Pinho Almeida, *O. Perpiñán*, L. Narvarte, PV Power Forecast Using a Nonparametric PV Model. Solar Energy 115 (May): 354–68. doi:10.1016/j.solener.2015.03.006.\\ (Índice de impacto: 3.868, Tercil T1 en categoría /Energy & Fuels/)
+1. M. Pinho Almeida, *O. Perpiñán*, L. Narvarte, PV Power Forecast Using a Nonparametric PV Model. Solar Energy 115 (May): 354–68. [[http://dx.doi.org/10.1016/j.solener.2015.03.006][10.1016/j.solener.2015.03.006]].\\ (Índice de impacto: 3.868, Tercil T1 en categoría /Energy & Fuels/)
 
 2. F. Antonanzas-Torres, F.J. Martínez de Pisón, J. Antonanzas, *O. Perpiñán*, Downscaling of global solar irradiation in complex areas in R, Journal of Renewable and Sustainable Energy, 6, 063105 (2014), [[http://dx.doi.org/10.1063/1.4901539][10.1063/1.4901539]] \\ (Índice de impacto: 0.925, Tercil T3 en categoría /Energy & Fuels/)
 
@@ -228,7 +230,7 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
 10. *O. Perpiñán* y E. Lorenzo, Analysis and synthesis of the variability of irradiance and PV power time series with the wavelet transform, Solar Energy, 85:1 (188-197), 2011, [[http://dx.doi.org/10.1016/j.solener.2010.08.013][10.1016/j.solener.2010.08.013]]).\\ (Índice de impacto: 2.48, Tercil T1 en categoría /Energy & Fuels/)
 
-11. *O. Perpiñán*, Statistical analysis of the performance and simulation of a two-axis tracking PV system, Solar Energy, 83:11(2074–2085), 2009, [[http://dx.doi.org/10.1016/j.solener.2009.08.008][10.1016/j.solener.2009.08.008]]. \\(Índice de impacto: 2.01, Tercil T2 en categoría /Energy & Fuels/)
+11. *O. Perpiñán*, Statistical analysis of the performance and simulation of a two-axis tracking PV system, Solar Energy, 83:11(2074–2085), 2009, [[http://dx.doi.org/10.1016/j.solener.2009.08.008][10.1016/j.solener.2009.08.008]]. \\ (Índice de impacto: 2.01, Tercil T2 en categoría /Energy & Fuels/)
 
 12. *O. Perpiñán*, E. Lorenzo, M. A. Castro, y R. Eyras. Energy payback time of grid connected PV systems: comparison between tracking and fixed systems. Progress in Photovoltaics: Research and Applications, 17:137-147, 2009.\\ (Índice de impacto: 4.7; Tercil T1 en categoría /Energy & Fuels/)
 
@@ -573,6 +575,13 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
 
 * Comunicaciones y Ponencias Presentadas a Congresos
+** 31st European Photovoltaic Solar Energy Conference and Exhibition
+Congreso Internacional organizado por WIP. Septiembre 2015.
+
+- Comparative Study of Nonparametric and Parametric PV Models to Forecast AC Power Output of PV Plants, M.P. Almeida, M. Muñoz, I. de la Parra, *O. Perpiñán*, L. Narvarte, 10.4229/EUPVSEC20152015-5BV.2.16
+
+- Using a Nonparametric PV Model to Forecast AC Power Output of PV Plants, M.P. Almeida, *O. Perpiñán*, L. Narvarte, 10.4229/EUPVSEC20152015-5BV.2.18.
+
 ** EnerSol World Sustainable Energy Forum 2014
 Congreso Internacional organizado por SETCOR. Túnez, Noviembre 2014.
 
@@ -864,6 +873,5 @@ Paquete software basado en =R= para la manipulación de fuentes de datos basadas
 
   - Miembro del grupo GT C del Comité de Normalización SC82 hasta Diciembre del 2008.
 
-* Otros Méritos
-- Subdirector de Ordenación Académica - Jefe de Estudios de la ETSIDI-UPM (fecha de nombramiento: Octubre 2015)
-- Vocal de la Comisión de Extensión Universitaria de la ETSIDI-UPM
+
+
