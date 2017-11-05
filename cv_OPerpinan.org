@@ -1,22 +1,10 @@
 #+TITLE: Curriculum Vitae
 #+AUTHOR: Oscar Perpiñán Lamigueiro
 #+DATE: Mayo, 2016
-#+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+LANGUAGE:  es
-#+LaTeX_CLASS: memoir-article
-#+LATEX_HEADER: \usepackage{mathpazo}
-#+LATEX_HEADER: \usepackage{memhfixc}
-#+LATEX_HEADER: \usepackage{mempatch}
-#+LATEX_HEADER: \usepackage{geometry}
-#+LATEX_HEADER: \usepackage[usenames,dvipsnames]{xcolor}
-#+LATEX_HEADER: \geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm}
-#+LATEX_HEADER: \usepackage[spanish]{babel}
-#+LATEX_HEADER: \usepackage{enumitem}
-#+LATEX_HEADER: \setlist{itemsep=-2pt}
-#+LATEX_HEADER: \hypersetup{bookmarks=true, breaklinks=true,pdftitle={Curriculum}, pdfauthor={Oscar Perpiñán Lamigueiro}, pdfnewwindow=true, colorlinks=true,linkcolor=Brown,citecolor=BrickRed, filecolor=black,urlcolor=Blue}           
-#+LATEX_HEADER: \counterwithout{section}{chapter}
-#+LATEX_HEADER: \setsecheadstyle{\Large\scshape\bfseries\raggedright}
-#+LATEX_HEADER: \setsubsubsecheadstyle{\itshape\raggedright}
+#+SETUPFILE: config.org
+#+EXPORT_FILE_NAME: docs/CV_OPL
 
 * Datos Personales
 
