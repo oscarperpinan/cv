@@ -1,12 +1,15 @@
 #+TITLE: Curriculum Vitae
 #+AUTHOR: Oscar Perpiñán Lamigueiro
-#+DATE: Mayo, 2016
-#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+DATE: Noviembre, 2017
+#+OPTIONS:   H:3 num:t toc:1 \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+LANGUAGE:  es
 #+SETUPFILE: config.org
 #+EXPORT_FILE_NAME: docs/CV_OPL
 
 * Datos Personales
+  :PROPERTIES:
+  :CUSTOM_ID: about
+  :END:
 
 ** Generales
 
@@ -24,6 +27,9 @@
 
 
 * Títulos Académicos
+  :PROPERTIES:
+  :CUSTOM_ID: titulos
+  :END:
 
 ** Doctor
   - ETSII-UNED (Abr-2008)
@@ -35,8 +41,14 @@
   - Especialidad en Radiocomunicación
   - Proyecto de Fin de Carrera: ``Desarrollo de un protocolo de medida de lámparas fluorescentes para instalaciones fotovoltaicas de electrificación rural''
 
+#+BEGIN_EXPORT latex
 \newpage
+#+END_EXPORT
+
 * Puestos Docentes Desempeñados
+  :PROPERTIES:
+  :CUSTOM_ID: puestos
+  :END:
 
 Subdirector de Ordenación Académica - Jefe de Estudios de la ETSIDI-UPM (fecha de nombramiento: Octubre 2015)
 
@@ -60,8 +72,14 @@ Subdirector de Ordenación Académica - Jefe de Estudios de la ETSIDI-UPM (fecha
 - Fecha Nombramiento: 14 de Noviembre de 2008
 - Fecha Cese: 30 de Septiembre de 2010
 
+#+BEGIN_EXPORT latex
 \newpage
+#+END_EXPORT
+
 * Actividad Docente
+  :PROPERTIES:
+  :CUSTOM_ID: docencia
+  :END:
 
 ** Escuela Técnica Superior de Ingeniería y Diseño Industrial
 #+ATTR_LaTeX: :align p{18mm}p{45mm}p{40mm}p{10mm}p{15mm}p{10mm}
@@ -108,6 +126,12 @@ Subdirector de Ordenación Académica - Jefe de Estudios de la ETSIDI-UPM (fecha
 | 2015-2016 | Electrónica        | Grado en Ing. Química |   3 | Teoría y Práctica |    48 |
 | 2015-2016 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    48 |
 |-----------+--------------------+--------------------+-----+-------------------+-------|
+| 2016-2017 | Teoría de Circuitos | Grado en Ing. Electrónica |   2 | Teoría y Práctica |    48 |
+| 2016-2017 | Electrónica        | Grado en Ing. Química |   3 | Teoría y Práctica |    48 |
+| 2016-2017 | Electrónica        | Grado en Ing. Electrónica |   2 | Teoría y Práctica |    10 |
+| 2016-2017 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    48 |
+| 2016-2017 | Informática        | Grado en Ing. Química |   1 | Teoría y Práctica |    60 |
+|-----------+--------------------+--------------------+-----+-------------------+-------|
 # |                  |     |                    |                    |     | Total             |  1281 |
 
 
@@ -118,7 +142,7 @@ Subdirector de Ordenación Académica - Jefe de Estudios de la ETSIDI-UPM (fecha
 
 Colaborador en el Máster de Energías Renovables y Mercado Energético (MERME) de la Escuela de Organización Industrial:
 
-- Cursos 2015-2016 a 2009-2010: Asignatura troncal ``Energía Solar Fotovoltaica'' con un total de 70 horas lectivas.
+- Cursos 2017-2018 a 2009-2010: Asignatura troncal ``Energía Solar Fotovoltaica'' con un total de 70 horas lectivas.
 
 - Curso 2008-2009: Asignatura troncal ``Energía Solar Fotovoltaica'' con un total de 40 horas lectivas y asignatura optativa ``Energía Solar Fotovoltaica Avanzada'' con un total de 40 horas lectivas. 
 
@@ -126,6 +150,9 @@ Colaborador en el Máster de Energías Renovables y Mercado Energético (MERME) 
   
 
 * Actividad Investigadora
+  :PROPERTIES:
+  :CUSTOM_ID: investigacion
+  :END:
 
 ** Miembro del Grupo de Investigación ``Sistemas Fotovoltaicos''
 
@@ -133,7 +160,9 @@ Reconocido como consolidado por la Universidad Politécnica de Madrid, con tres 
 
 ** Dirección de Tesis Doctorales 
 
-- Codirección de la Tesis Doctoral "Inserçao en Grande Escala de Geraçao Solar Fotovoltaica em Sistemas Elétricos de Potência" de Marcelo Pinho Almeida, junto con el profesor Roberto Zilles, del Instituto de Energia e Ambiente de la Universidad de Sao Paulo. En elaboración.
+- Codirección de la Tesis Doctoral "Variabilidad espacio-temporal del recurso solar fotovoltaico en Europa y el Mediterráneo" de Claudia Gutiérrez Escribano, junto con el profesor Miguel Ángel Gaertner, de la Universidad de Castilla-La Mancha. En elaboración.
+
+- Codirección de la Tesis Doctoral "Inserçao en Grande Escala de Geraçao Solar Fotovoltaica em Sistemas Elétricos de Potência" de Marcelo Pinho Almeida, junto con el profesor Roberto Zilles, del Instituto de Energia e Ambiente de la Universidad de Sao Paulo. Mayo de 2017. Sobresaliente cum laude.
 
 - Codirección de la Tesis Doctoral "New methodologies and improved models in the estimation of solar irradiation" de Fernando Antoñanzas, junto con el profesor Francisco Javier Martínez de Ascacíbar, del grupo EDMANS de la Universidad de la Rioja. Abril 2016. Sobresaliente cum laude.
 
@@ -176,12 +205,15 @@ Reconocido como consolidado por la Universidad Politécnica de Madrid, con tres 
 Supervisión on-site de Proyectos de Fin de Máster del European Master in Renewable Energy de la Agencia EUREC en los cursos 2004/2005 y 2003/2004.
 
 * Libros y Capítulos en Libros
+  :PROPERTIES:
+  :CUSTOM_ID: libros
+  :END:
 
 ** Displaying time series, spatial and space-time data with R
 O. Perpiñán, Chapman and Hall/CRC, 2014, ISBN 9781466565203. http://oscarperpinan.github.com/spacetime-vis/
 
 ** Energía Solar Fotovoltaica
-O. Perpiñán, 2014. Libro autoeditado, publicado online con licencia Creative Commons.  [[http://oscarperpinan.github.com/esf]]
+O. Perpiñán, 2015. Libro autoeditado, publicado online con licencia Creative Commons.  [[http://oscarperpinan.github.com/esf]]
 
 ** Diseño de Sistemas Fotovoltaicos
 *O. Perpiñán*, M.A. Castro Gil, A. Colmenar, Promotora General de Estudios, S.A., 2012, ISBN: 978-84-95693-72-3
@@ -196,38 +228,45 @@ M. Castro,A. Colmenar, R.P. Fiffe, M. Pérez, *O. Perpiñán*, J.M. Perulero. Mo
 M. Castro, A. Colmenar, *O. Perpiñán*, C. Sánchez Naranjo. Monografías de Energías Renovables, Promotora General de Estudios, S.A., 2011, ISBN 84-86505-69-3.
   
 * Artículos en Revistas 
+  :PROPERTIES:
+  :CUSTOM_ID: articulos
+  :END:
 ** Publicaciones Internacionales
 Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
-1. Muñoz, J., *O. Perpiñán*. A Simple Model for the Prediction of Yearly Energy Yields for Grid-Connected PV Systems Starting from Monthly Meteorological Data. Renewable Energy 97, 2016: 680–88. [[http://dx.doi.org/10.1016/j.renene.2016.06.023][10.1016/j.renene.2016.06.023]]. 
+1. C. Gutiérrez, M. A. Gaertner, *O. Perpiñán*, C. Gallardo, E. Sánchez, A multi-step scheme for spatial analysis of solar and photovoltaic production variability and complementarity, Solar Energy, Volume 158, 2017, Pages 100-116, ISSN 0038-092X,  [[https://doi.org/10.1016/j.solener.2017.09.037][10.1016/j.solener.2017.09.037]].
 
-2. M. Pinho Almeida, *O. Perpiñán*, L. Narvarte, PV Power Forecast Using a Nonparametric PV Model. Solar Energy 115 (May 2015): 354–68. [[http://dx.doi.org/10.1016/j.solener.2015.03.006][10.1016/j.solener.2015.03.006]].\\ (Índice de impacto: 3.868, Tercil T1 en categoría /Energy & Fuels/)
+2. M. Pinho Almeida, M. Muñoz, I. de la Parra, *O. Perpiñán*, Comparative study of PV power forecast using parametric and nonparametric PV models, Solar Energy, 155, 2017: 854-866, ISSN 0038-092X, [[https://doi.org/10.1016/j.solener.2017.07.032][10.1016/j.solener.2017.07.032]].
 
-3. F. Antonanzas-Torres, F.J. Martínez de Pisón, J. Antonanzas, *O. Perpiñán*, Downscaling of global solar irradiation in complex areas in R, Journal of Renewable and Sustainable Energy, 6, 063105 (2014), [[http://dx.doi.org/10.1063/1.4901539][10.1063/1.4901539]] \\ (Índice de impacto: 0.925, Tercil T3 en categoría /Energy & Fuels/)
+3. J. Muñoz, *O. Perpiñán*. A Simple Model for the Prediction of Yearly Energy Yields for Grid-Connected PV Systems Starting from Monthly Meteorological Data. Renewable Energy 97, 2016: 680–88. [[http://dx.doi.org/10.1016/j.renene.2016.06.023][10.1016/j.renene.2016.06.023]]. 
 
-4. F. Antonanzas-Torres, A. Sanz-Garcia, F. J. Martínez-de-Pisón, *O. Perpiñán*, J. Polo, Towards downscaling of aerosol gridded dataset for improving solar resource assessment. Application to Spain, Renewable Energy, Volume 71, November 2014, Pages 534-544, [[http://dx.doi.org/10.1016/j.renene.2014.06.010][10.1016/j.renene.2014.06.010]]. \\ (Índice de impacto: 3.85, Tercil T1 en categoría /Energy & Fuels/)
+4. M. Pinho Almeida, *O. Perpiñán*, L. Narvarte, PV Power Forecast Using a Nonparametric PV Model. Solar Energy 115 (May 2015): 354–68. [[http://dx.doi.org/10.1016/j.solener.2015.03.006][10.1016/j.solener.2015.03.006]].\\ (Índice de impacto: 3.868, Tercil T1 en categoría /Energy & Fuels/)
 
-5. F. Antonanzas-Torres, A. Sanz-Garcia, F.J. Martínez-de-Pisón, *O. Perpiñán*, Evaluation and improvement of empirical models of global solar irradiation: Case study northern Spain, Renewable Energy, Volume 60, December 2013, Pages 604-614, ISSN 0960-1481, [[http://dx.doi.org/10.1016/j.renene.2013.06.008][10.1016/j.renene.2013.06.008]]. \\ (Índice de impacto: 2.99, Tercil T1 en categoría /Energy & Fuels/)
+5. F. Antonanzas-Torres, F.J. Martínez de Pisón, J. Antonanzas, *O. Perpiñán*, Downscaling of global solar irradiation in complex areas in R, Journal of Renewable and Sustainable Energy, 6, 063105 (2014), [[http://dx.doi.org/10.1063/1.4901539][10.1063/1.4901539]] \\ (Índice de impacto: 0.925, Tercil T3 en categoría /Energy & Fuels/)
 
-6. F. Antoñanzas, F. Cañizares, *O. Perpiñán*, Comparative assessment of global irradiation from a satellite estimate model (CM SAF) and on-ground measurements (SIAR): a Spanish case study, Renewable and Sustainable Energy Reviews, Volume 21, May 2013, Pages 248-261, [[http://dx.doi.org/10.1016/j.rser.2012.12.033][10.1016/j.rser.2012.12.033]]. \\ (Índice de impacto: 5.51, Tercil T1 en categoría /Energy & Fuels/)
+6. F. Antonanzas-Torres, A. Sanz-Garcia, F. J. Martínez-de-Pisón, *O. Perpiñán*, J. Polo, Towards downscaling of aerosol gridded dataset for improving solar resource assessment. Application to Spain, Renewable Energy, Volume 71, November 2014, Pages 534-544, [[http://dx.doi.org/10.1016/j.renene.2014.06.010][10.1016/j.renene.2014.06.010]]. \\ (Índice de impacto: 3.85, Tercil T1 en categoría /Energy & Fuels/)
 
-7. *O. Perpiñán*, J. Marcos, E. Lorenzo, Electrical Power Fluctuations in a Network of DC/AC inverters in a Large PV Plant: relationship between correlation, distance and time scale, Solar Energy, Volume 88, February 2013, [[http://dx.doi.org/10.1016/j.solener.2012.12.004][10.1016/j.solener.2012.004]]. \\ (Índice de impacto: 3.541, Tercil T1 en categoría /Energy & Fuels/)
+7. F. Antonanzas-Torres, A. Sanz-Garcia, F.J. Martínez-de-Pisón, *O. Perpiñán*, Evaluation and improvement of empirical models of global solar irradiation: Case study northern Spain, Renewable Energy, Volume 60, December 2013, Pages 604-614, ISSN 0960-1481, [[http://dx.doi.org/10.1016/j.renene.2013.06.008][10.1016/j.renene.2013.06.008]]. \\ (Índice de impacto: 2.99, Tercil T1 en categoría /Energy & Fuels/)
 
-8. *O. Perpiñán*, M.A. Sánchez-Urán, F. Álvarez, J. Ortego, F. Garnacho, Signal analysis and feature generation for pattern identification of partial discharges in high-voltage equipment, Electric Power Systems Research, 2013, 95:C (56-65), [[http://dx.doi.org/10.1016/j.epsr.2012.08.016][10.1016/j.epsr.2012.08.016]].\\ (Índice de impacto: 1.69, Tercil T1 en categoría /Engineering, Electrical & Electronic/)
+8. F. Antoñanzas, F. Cañizares, *O. Perpiñán*, Comparative assessment of global irradiation from a satellite estimate model (CM SAF) and on-ground measurements (SIAR): a Spanish case study, Renewable and Sustainable Energy Reviews, Volume 21, May 2013, Pages 248-261, [[http://dx.doi.org/10.1016/j.rser.2012.12.033][10.1016/j.rser.2012.12.033]]. \\ (Índice de impacto: 5.51, Tercil T1 en categoría /Energy & Fuels/)
 
-9. *O. Perpiñán*, solaR: Solar Radiation and Photovoltaic Systems with R, Journal of Statistical Software, 2012. 50(9), (1-32). \\ (Índice de impacto: 4.91, Tercil T1 en categoría /Statistics & Probability/)
+9. *O. Perpiñán*, J. Marcos, E. Lorenzo, Electrical Power Fluctuations in a Network of DC/AC inverters in a Large PV Plant: relationship between correlation, distance and time scale, Solar Energy, Volume 88, February 2013, [[http://dx.doi.org/10.1016/j.solener.2012.12.004][10.1016/j.solener.2012.004]]. \\ (Índice de impacto: 3.541, Tercil T1 en categoría /Energy & Fuels/)
 
-10. *O. Perpiñán*, Cost of energy and mutual shadows in a two-axis tracking PV system, Renewable Energy, 2012, [[http://dx.doi.org/10.1016/j.renene.2011.12.001][10.1016/j.renene.2011.12.001]]. \\ (Índice de impacto: 2.98, Tercil T1 en categoría /Energy & Fuels/)
+10. *O. Perpiñán*, M.A. Sánchez-Urán, F. Álvarez, J. Ortego, F. Garnacho, Signal analysis and feature generation for pattern identification of partial discharges in high-voltage equipment, Electric Power Systems Research, 2013, 95:C (56-65), [[http://dx.doi.org/10.1016/j.epsr.2012.08.016][10.1016/j.epsr.2012.08.016]].\\ (Índice de impacto: 1.69, Tercil T1 en categoría /Engineering, Electrical & Electronic/)
 
-11. *O. Perpiñán* y E. Lorenzo, Analysis and synthesis of the variability of irradiance and PV power time series with the wavelet transform, Solar Energy, 85:1 (188-197), 2011, [[http://dx.doi.org/10.1016/j.solener.2010.08.013][10.1016/j.solener.2010.08.013]]).\\ (Índice de impacto: 2.48, Tercil T1 en categoría /Energy & Fuels/)
+11. *O. Perpiñán*, solaR: Solar Radiation and Photovoltaic Systems with R, Journal of Statistical Software, 2012. 50(9), (1-32). \\ (Índice de impacto: 4.91, Tercil T1 en categoría /Statistics & Probability/)
 
-12. *O. Perpiñán*, Statistical analysis of the performance and simulation of a two-axis tracking PV system, Solar Energy, 83:11(2074–2085), 2009, [[http://dx.doi.org/10.1016/j.solener.2009.08.008][10.1016/j.solener.2009.08.008]]. \\ (Índice de impacto: 2.01, Tercil T2 en categoría /Energy & Fuels/)
+12. *O. Perpiñán*, Cost of energy and mutual shadows in a two-axis tracking PV system, Renewable Energy, 2012, [[http://dx.doi.org/10.1016/j.renene.2011.12.001][10.1016/j.renene.2011.12.001]]. \\ (Índice de impacto: 2.98, Tercil T1 en categoría /Energy & Fuels/)
 
-13. *O. Perpiñán*, E. Lorenzo, M. A. Castro, y R. Eyras. Energy payback time of grid connected PV systems: comparison between tracking and fixed systems. Progress in Photovoltaics: Research and Applications, 17:137-147, 2009.\\ (Índice de impacto: 4.7; Tercil T1 en categoría /Energy & Fuels/)
+13. *O. Perpiñán* y E. Lorenzo, Analysis and synthesis of the variability of irradiance and PV power time series with the wavelet transform, Solar Energy, 85:1 (188-197), 2011, [[http://dx.doi.org/10.1016/j.solener.2010.08.013][10.1016/j.solener.2010.08.013]]).\\ (Índice de impacto: 2.48, Tercil T1 en categoría /Energy & Fuels/)
 
-14. *O. Perpiñán*, E. Lorenzo, M. A. Castro, y R. Eyras. On the complexity of radiation models for PV energy production calculation. Solar Energy, 82:2 (125-131), 2008\\ (Índice de impacto: 1.61, Tercil T2 en categoría /Energy & Fuels/)
+14. *O. Perpiñán*, Statistical analysis of the performance and simulation of a two-axis tracking PV system, Solar Energy, 83:11(2074–2085), 2009, [[http://dx.doi.org/10.1016/j.solener.2009.08.008][10.1016/j.solener.2009.08.008]]. \\ (Índice de impacto: 2.01, Tercil T2 en categoría /Energy & Fuels/)
 
-15. *O. Perpiñán*, E. Lorenzo, y M. A. Castro. On the calculation of energy produced by a PV grid-connected system. Progress in Photovoltaics: Research and Applications, 15(3):265–274, 2007.\\ (Índice de impacto: 2.18; Tercil T1 en categoría /Energy & Fuels/)
+15. *O. Perpiñán*, E. Lorenzo, M. A. Castro, y R. Eyras. Energy payback time of grid connected PV systems: comparison between tracking and fixed systems. Progress in Photovoltaics: Research and Applications, 17:137-147, 2009.\\ (Índice de impacto: 4.7; Tercil T1 en categoría /Energy & Fuels/)
+
+16. *O. Perpiñán*, E. Lorenzo, M. A. Castro, y R. Eyras. On the complexity of radiation models for PV energy production calculation. Solar Energy, 82:2 (125-131), 2008\\ (Índice de impacto: 1.61, Tercil T2 en categoría /Energy & Fuels/)
+
+17. *O. Perpiñán*, E. Lorenzo, y M. A. Castro. On the calculation of energy produced by a PV grid-connected system. Progress in Photovoltaics: Research and Applications, 15(3):265–274, 2007.\\ (Índice de impacto: 2.18; Tercil T1 en categoría /Energy & Fuels/)
 
 ** Publicaciones Nacionales
 
@@ -245,6 +284,9 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
 
 * Proyectos de Investigación Subvencionados
+  :PROPERTIES:
+  :CUSTOM_ID: proyectos
+  :END:
 (Ordenados por fecha de inicio descendente)
 
 ** PVCROPS. PhotoVoltaic Cost reduction, Reliability, Operational performance, Prediction and Simulation
@@ -566,6 +608,9 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
 
 * Comunicaciones y Ponencias Presentadas a Congresos
+  :PROPERTIES:
+  :CUSTOM_ID: congresos
+  :END:
 ** 31st European Photovoltaic Solar Energy Conference and Exhibition
 Congreso Internacional organizado por WIP. Septiembre 2015.
 
@@ -703,6 +748,9 @@ Congreso Internacional organizado por WIP. Munich, Octubre 2001
 
 
 * Desarrollos
+  :PROPERTIES:
+  :CUSTOM_ID: desarrollos
+  :END:
 
 ** solaR
 
@@ -730,16 +778,14 @@ partial discharges in high-voltage equipment, Electric Power Systems Research, 2
 
 
 * Cursos y Seminarios Impartidos
+  :PROPERTIES:
+  :CUSTOM_ID: cursos_impartidos
+  :END:
+- Curso "Introducción a R" (8 horas) para profesores de la UPM (Instituto de Ciencias de la Educación, UPM):  Noviembre 2017, Enero 2017, Enero 2016, Diciembre 2014.
 
-- Curso "Introducción a R" (8 horas) para profesores de la UPM (Instituto de Ciencias de la Educación, UPM, Enero 2016)
+- Curso "R avanzado" (8 horas) para profesores de la UPM (Instituto de Ciencias de la Educación, UPM): Julio 2017, Febrero 2016.
 
-- Curso "R avanzado" (8 horas) para profesores de la UPM (Instituto de Ciencias de la Educación, UPM, Febrero 2016)
-
-- Curso "Introducción a R" (10 horas) para alumnos del CEIGRAM-UPM (Septiembre 2015)
-
-- Curso "Introducción a R" (8 horas) para profesores de la UPM (Instituto de Ciencias de la Educación, UPM, Diciembre 2014)
-
-- Curso "Introducción a R" (10 horas) para investigadores del CEIGRAM-UPM (Noviembre 2014)
+- Curso "Introducción a R" (10 horas) para alumnos del CEIGRAM-UPM: Septiembre 2015, Noviembre 2014.
 
 - Taller "Visualización de Series Temporales" en las VI Jornadas de Usuarios de R (Santiago de Compostela, Octubre 2014)
 
@@ -768,6 +814,9 @@ partial discharges in high-voltage equipment, Electric Power Systems Research, 2
 - Participación en el curso ``Energías renovables'', ediciones 2011/2012, 2010/2011 y 2009/2010, con una duración de 200 horas, organizado por la ETSI-Montes-UPM, impartiendo el módulo ``Energía solar fotovoltaica'', con una duración de 5 horas.
 
 * Cursos y Seminarios recibidos
+  :PROPERTIES:
+  :CUSTOM_ID: cursos_recibidos
+  :END:
 
 /(Ordenados por duración)/
 
@@ -791,12 +840,18 @@ partial discharges in high-voltage equipment, Electric Power Systems Research, 2
 
 
 * Becas, Ayudas y Premios recibidos
+  :PROPERTIES:
+  :CUSTOM_ID: premios
+  :END:
 
 - Premio Extraordinario de Doctorado.
 - Beca de Colaboración dentro del Grupo de Bioingeniería y Telemedicina de la ETSIT en el contexto del proyecto europeo "Worldwide Emergency Telemedicine Services" (WETS) (1998)
 
 
 * Actividad en Empresas y Profesión Libre
+  :PROPERTIES:
+  :CUSTOM_ID: empresa
+  :END:
 
 - Octubre 2010- Enero 2009: Ejercicio libre de la profesión:
   Consultoría sobre diseño y análisis de funcionamiento de sistemas fotovoltaicos.
@@ -821,6 +876,9 @@ partial discharges in high-voltage equipment, Electric Power Systems Research, 2
 
 
 * Otros Méritos Docentes o de Investigación
+  :PROPERTIES:
+  :CUSTOM_ID: otros
+  :END:
 
 ** Acreditaciones
 
