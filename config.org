@@ -1,7 +1,6 @@
 #+LaTeX_CLASS: memoir-article
 #+LATEX_HEADER: \usepackage{mathpazo}
 #+LATEX_HEADER: \usepackage{memhfixc}
-#+LATEX_HEADER: \usepackage{mempatch}
 #+LATEX_HEADER: \usepackage{geometry}
 #+LATEX_HEADER: \usepackage[usenames,dvipsnames]{xcolor}
 #+LATEX_HEADER: \geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm}

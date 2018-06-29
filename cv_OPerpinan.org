@@ -1,7 +1,7 @@
 #+TITLE: Curriculum Vitae
 #+AUTHOR: Oscar Perpiñán Lamigueiro
-#+DATE: Noviembre, 2017
-#+OPTIONS:   H:3 num:t toc:1 \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+DATE: Junio, 2018
+#+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+LANGUAGE:  es
 #+SETUPFILE: config.org
 #+EXPORT_FILE_NAME: docs/CV_OPL
@@ -50,7 +50,9 @@
   :CUSTOM_ID: puestos
   :END:
 
-Subdirector de Ordenación Académica - Jefe de Estudios de la ETSIDI-UPM (fecha de nombramiento: Octubre 2015)
+- Subdirector de Ordenación Académica - Jefe de Estudios de la ETSIDI-UPM
+  - Fecha de Nombramiento: Octubre 2015
+  - Fecha de Cese: Mayo 2018
 
 ** Profesor Contratado Doctor
 - Centro: Escuela Técnica Superior de Ingeniería y Diseño Industrial, Universidad Politécnica de Madrid.
@@ -132,17 +134,17 @@ Subdirector de Ordenación Académica - Jefe de Estudios de la ETSIDI-UPM (fecha
 | 2016-2017 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    48 |
 | 2016-2017 | Informática        | Grado en Ing. Química |   1 | Teoría y Práctica |    60 |
 |-----------+--------------------+--------------------+-----+-------------------+-------|
-# |                  |     |                    |                    |     | Total             |  1281 |
-
-
-
-
+| 2017-2018 | Teoría de Circuitos | Grado en Ing. Electrónica |   2 | Teoría y Práctica |    48 |
+| 2017-2018 | Teoría de Circuitos | Grado en Ing. Electrónica |   2 | Laboratorio       |    12 |
+| 2017-2018 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    48 |
+| 2017-2018 | Informática        | Grado en Ing. Química |   1 | Teoría y Práctica |    60 |
+|-----------+--------------------+--------------------+-----+-------------------+-------|
   
 ** Escuela de Organización Industrial
 
 Colaborador en el Máster de Energías Renovables y Mercado Energético (MERME) de la Escuela de Organización Industrial:
 
-- Cursos 2017-2018 a 2009-2010: Asignatura troncal ``Energía Solar Fotovoltaica'' con un total de 70 horas lectivas.
+- Desde 2009-2010 a la actualidad: Asignatura troncal ``Energía Solar Fotovoltaica'' con un total de 70 horas lectivas.
 
 - Curso 2008-2009: Asignatura troncal ``Energía Solar Fotovoltaica'' con un total de 40 horas lectivas y asignatura optativa ``Energía Solar Fotovoltaica Avanzada'' con un total de 40 horas lectivas. 
 
@@ -154,10 +156,6 @@ Colaborador en el Máster de Energías Renovables y Mercado Energético (MERME) 
   :CUSTOM_ID: investigacion
   :END:
 
-** Miembro del Grupo de Investigación ``Sistemas Fotovoltaicos''
-
-Reconocido como consolidado por la Universidad Politécnica de Madrid, con tres líneas de investigación: Sistemas fotovoltaicos conectados a la red, Sistemas fotovoltaicos autónomos e híbridos y Electrificación rural fotovoltaica.
-
 ** Dirección de Tesis Doctorales 
 
 - Codirección de la Tesis Doctoral "Variabilidad espacio-temporal del recurso solar fotovoltaico en Europa y el Mediterráneo" de Claudia Gutiérrez Escribano, junto con el profesor Miguel Ángel Gaertner, de la Universidad de Castilla-La Mancha. En elaboración.
@@ -168,10 +166,13 @@ Reconocido como consolidado por la Universidad Politécnica de Madrid, con tres 
 
 ** Dirección de Trabajos Tutelados
 *** ETSIDI
-- "Estudio de Modelos para la estimación de la Radiación Solar Global en Ecuador", Eliana Carolina Ormeño Mejía, Máster en Ingeniería de la Energía, 2015/2016.
-- "Corrección de la medida de radiación solar difusa de la ETSIDI", Tomás Bobillo, Máster en Ingeniería de la Energía, 2015/2016.
-- "Estimation de la puissance des systèmes photovoltaïques avec Machine Learning", Imrane Dhmani (Université Montpellier 2). 2013/2014, 15 ECTS.
-- "Une estimation de puissance dans un système photovoltaique avec Random Forest", Kobaa Abdeslam (Université Montpellier 2). 2013/2014, 15 ECTS.
+- "Estudio técnico-económico de una instalación fotovoltaica para autoconsumo en un edificio de oficinas en Madrid.", Marta Mejías, Grado en Ingeniería Eléctrica, 2016-2017.
+- "Proyecto tipo de instalación fotovoltaica en edificio industrial o de servicios.", Jorge Crespo, Grado en Ingeniería Eléctrica, 2016-2017.
+- "Interfaz gráfica para solaR con shiny", Gonzalo Mellizo-Soto, Grado en Ingeniería Eléctrica, 2016-2017.
+- "Estudio de Modelos para la estimación de la Radiación Solar Global en Ecuador", Eliana Carolina Ormeño Mejía, Máster en Ingeniería de la Energía, 2015-2016.
+- "Corrección de la medida de radiación solar difusa de la ETSIDI", Tomás Bobillo, Máster en Ingeniería de la Energía, 2015-2016.
+- "Estimation de la puissance des systèmes photovoltaïques avec Machine Learning", Imrane Dhmani (Université Montpellier 2). 2013-2014.
+- "Une estimation de puissance dans un système photovoltaique avec Random Forest", Kobaa Abdeslam (Université Montpellier 2). 2013-2014.
 
 *** Escuela de Organización Industrial
     - 2013-2014:
@@ -210,10 +211,10 @@ Supervisión on-site de Proyectos de Fin de Máster del European Master in Renew
   :END:
 
 ** Displaying time series, spatial and space-time data with R
-O. Perpiñán, Chapman and Hall/CRC, 2014, ISBN 9781466565203. http://oscarperpinan.github.com/spacetime-vis/
-
+- Segunda Edición, O. Perpiñán, Chapman and Hall/CRC, 2018, ISBN 9781138089983. http://oscarperpinan.github.io/bookvis/
+- Primera Edición: O. Perpiñán, Chapman and Hall/CRC, 2014, ISBN 9781466565203. http://oscarperpinan.github.com/spacetime-vis/
 ** Energía Solar Fotovoltaica
-O. Perpiñán, 2015. Libro autoeditado, publicado online con licencia Creative Commons.  [[http://oscarperpinan.github.com/esf]]
+O. Perpiñán, 2018. Libro autoeditado, publicado online con licencia Creative Commons.  [[http://oscarperpinan.github.com/esf]]
 
 ** Diseño de Sistemas Fotovoltaicos
 *O. Perpiñán*, M.A. Castro Gil, A. Colmenar, Promotora General de Estudios, S.A., 2012, ISBN: 978-84-95693-72-3
@@ -783,7 +784,7 @@ partial discharges in high-voltage equipment, Electric Power Systems Research, 2
   :END:
 - Curso "Introducción a R" (8 horas) para profesores de la UPM (Instituto de Ciencias de la Educación, UPM):  Noviembre 2017, Enero 2017, Enero 2016, Diciembre 2014.
 
-- Curso "R avanzado" (8 horas) para profesores de la UPM (Instituto de Ciencias de la Educación, UPM): Julio 2017, Febrero 2016.
+- Curso "R avanzado" (8 horas) para profesores de la UPM (Instituto de Ciencias de la Educación, UPM): Junio 2018, Julio 2017, Febrero 2016.
 
 - Curso "Introducción a R" (10 horas) para alumnos del CEIGRAM-UPM: Septiembre 2015, Noviembre 2014.
 
@@ -892,6 +893,8 @@ partial discharges in high-voltage equipment, Electric Power Systems Research, 2
 
 ** Miembro de tribunal de Tesis Doctoral
 
+  - "Estimation and forecasting methods for design and operation of photovoltaic plants" (Javier Antoñanzas Torres, U. de la Rioja 2018)
+
   - ``El Proyecto Pierre Auger como Red de Sistemas Fotovoltaicos Aislados de Alta Estadística'' (Iago Rodriguez Cabo, USC 2015)
 
   - ``Predicción espacio-temporal de la irradiancia solar global a corto plazo en España mediante geoestadística y redes neuronales artificiales'' (Federico Vladimir Gutierrez Corea, UPM 2014)
@@ -906,6 +909,8 @@ partial discharges in high-voltage equipment, Electric Power Systems Research, 2
 
   - /Journal of Solar Engineering/
 
+  - /Atmospheric Measurement Techniques/ and /Atmospheric Chemistry and Physics/ (EGU)
+
   - /Computers and Geosciences/
 
   - /IET Renewable Power Generation/
@@ -913,6 +918,8 @@ partial discharges in high-voltage equipment, Electric Power Systems Research, 2
   - /Journal of Statistical Software/
 
 ** Asociaciones
+
+  - Co-presidente del Comité Científico de las jornadas CIES 2018 (http://cies-congreso.org/15227/section/9534/xvi-congreso-iberico-y-xii-congreso-iberoamericano-de-energia-solar.html)
 
   - Presidente del Comité Organizador y miembro del Comité Científico de las III Jornadas de Usuarios de R (http://r-es.org/III+Jornadas).
 
