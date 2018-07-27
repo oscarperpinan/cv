@@ -1,7 +1,7 @@
 #+TITLE: Curriculum Vitae
 #+AUTHOR: Oscar Perpiñán Lamigueiro
 #+DATE: Junio, 2018
-#+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   H:3 num:t toc:1 \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+LANGUAGE:  es
 #+SETUPFILE: config.org
 #+EXPORT_FILE_NAME: docs/CV_OPL
