@@ -1,10 +1,9 @@
 #+TITLE: Curriculum Vitae
 #+AUTHOR: Oscar Perpiñán Lamigueiro
 #+DATE: Junio, 2018
-#+OPTIONS:   H:3 num:t toc:1 \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+LANGUAGE:  es
 #+SETUPFILE: config.org
-#+EXPORT_FILE_NAME: docs/CV_OPL
 
 * Datos Personales
   :PROPERTIES:
@@ -16,7 +15,6 @@
 - Nombre: Oscar Perpiñán Lamigueiro
 - Correo electrónico: [[mailto:oscar.perpinan@upm.es][oscar.perpinan@upm.es]]
 - Web: [[http://oscarperpinan.github.io]]
-- LinkedIn: [[http://es.linkedin.com/in/oscarperpinan]]
 
 ** Contrato vigente en ámbito universitario
 
@@ -50,7 +48,8 @@
   :CUSTOM_ID: puestos
   :END:
 
-- Subdirector de Ordenación Académica - Jefe de Estudios de la ETSIDI-UPM
+** Subdirector de Ordenación Académica - Jefe de Estudios
+  - Centro: Escuela Técnica Superior de Ingeniería y Diseño Industrial, Universidad Politécnica de Madrid.
   - Fecha de Nombramiento: Octubre 2015
   - Fecha de Cese: Mayo 2018
 
@@ -84,61 +83,72 @@
   :END:
 
 ** Escuela Técnica Superior de Ingeniería y Diseño Industrial
-#+ATTR_LaTeX: :align p{18mm}p{45mm}p{40mm}p{10mm}p{15mm}p{10mm}
-|       Año | Asignatura         | Titulación         | Curso Titulación | Carácter          | Horas |
-|-----------+--------------------+--------------------+-----+-------------------+-------|
-|           | <18>               | <18>               | <3> |                   |   <5> |
-| 2008-2009 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Eléctricos) |   1 | Teoría            |    75 |
-| 2008-2009 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Mecánicos) |   1 | Teoría y Práctica |    75 |
-|-----------+--------------------+--------------------+-----+-------------------+-------|
-| 2009-2010 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Eléctricos) |   1 | Teoría            |    75 |
-| 2009-2010 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Mecánicos) |   1 | Teoría y Práctica |    75 |
-|-----------+--------------------+--------------------+-----+-------------------+-------|
-| 2010-2011 | Teoría de Circuitos II | Ing. Técnico Industrial (Esp. Eléctricos) |   2 | Práctica          |    75 |
-| 2010-2011 | Electrometría      | Ing. Técnico Industrial (Esp. Eléctricos) |   1 | Práctica          |    30 |
-| 2010-2011 | Teoría de Circuitos I | Grado en Ing. Eléctrica |   1 | Práctica          |    45 |
-|-----------+--------------------+--------------------+-----+-------------------+-------|
-| 2011-2012 | Teoría de Circuitos | Grado en Ing. Química |   2 | Práctica          |    15 |
-| 2011-2012 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Teoría            |    45 |
-| 2011-2012 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Práctica          |    15 |
-| 2011-2012 | Teoría de Circuitos | Grado en Ing. Eléctrica |   2 | Práctica          |    15 |
-| 2011-2012 | Teoría de Circuitos | Grado en Ing. en Diseño Industrial |   2 | Teoría y Práctica |    60 |
-| 2011-2012 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Práctica          |    15 |
-|-----------+--------------------+--------------------+-----+-------------------+-------|
-| 2012-2013 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    15 |
-| 2012-2013 | Teoría de Circuitos | Grado en Ing. Química |   2 | Teoría            |    41 |
-| 2012-2013 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Práctica          |    15 |
-| 2012-2013 | Diseño Avanzado de Sistemas de Energía Solar | Máster Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
-| 2012-2013 | Teoría de Circuitos | Grado en Ing. en Diseño Industrial |   2 | Teoría            |    41 |
-| 2012-2013 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Práctica          |    30 |
-|-----------+--------------------+--------------------+-----+-------------------+-------|
-| 2013-2014 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    64 |
-| 2013-2014 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Teoría y Práctica |    83 |
-| 2013-2014 | Diseño Avanzado de Sistemas de Energía Solar | Máster Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
-| 2013-2014 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    67 |
-| 2013-2014 | Teoría de Circuitos | Grado en Ing. de Diseño Industrial |   2 | Teoría y Práctica |    48 |
-|-----------+--------------------+--------------------+-----+-------------------+-------|
-| 2014-2015 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    64 |
-| 2014-2015 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Teoría y Práctica |    83 |
-| 2014-2015 | Diseño Avanzado de Sistemas de Energía Solar | Máster Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
-| 2014-2015 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    67 |
-| 2014-2015 | Teoría de Circuitos | Grado en Ing. de Diseño Industrial |   2 | Teoría y Práctica |    48 |
-|-----------+--------------------+--------------------+-----+-------------------+-------|
-| 2015-2016 | Teoría de Circuitos | Grado en Ing. Electrónica |   2 | Teoría y Práctica |    48 |
-| 2015-2016 | Electrónica        | Grado en Ing. Química |   3 | Teoría y Práctica |    48 |
-| 2015-2016 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    48 |
-|-----------+--------------------+--------------------+-----+-------------------+-------|
-| 2016-2017 | Teoría de Circuitos | Grado en Ing. Electrónica |   2 | Teoría y Práctica |    48 |
-| 2016-2017 | Electrónica        | Grado en Ing. Química |   3 | Teoría y Práctica |    48 |
-| 2016-2017 | Electrónica        | Grado en Ing. Electrónica |   2 | Teoría y Práctica |    10 |
-| 2016-2017 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    48 |
-| 2016-2017 | Informática        | Grado en Ing. Química |   1 | Teoría y Práctica |    60 |
-|-----------+--------------------+--------------------+-----+-------------------+-------|
-| 2017-2018 | Teoría de Circuitos | Grado en Ing. Electrónica |   2 | Teoría y Práctica |    48 |
-| 2017-2018 | Teoría de Circuitos | Grado en Ing. Electrónica |   2 | Laboratorio       |    12 |
-| 2017-2018 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    48 |
-| 2017-2018 | Informática        | Grado en Ing. Química |   1 | Teoría y Práctica |    60 |
-|-----------+--------------------+--------------------+-----+-------------------+-------|
+
+- Fundamentos de Electrotecnia (Ing. Técnico Industrial)
+- Teoría de Circuitos (Grado)
+- Teoría de Circuitos II (Grado)
+- Teoría de Circuitos III (Grado)
+- Electrónica (Grado)
+- Informática (Grado)
+- Fundamentals of Photovoltaic Engineering (Grado)
+- Diseño Avanzado de Sistemas de Energía Solar (Máster)
+
+*** COMMENT Información detallada
+ #+ATTR_LaTeX: :align p{18mm}p{45mm}p{40mm}p{10mm}p{15mm}p{10mm}
+ |       Año | Asignatura         | Titulación         | Curso Titulación | Carácter          | Horas |
+ |-----------+--------------------+--------------------+-----+-------------------+-------|
+ |           | <18>               | <18>               | <3> |                   |   <5> |
+ | 2008-2009 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Eléctricos) |   1 | Teoría            |    75 |
+ | 2008-2009 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Mecánicos) |   1 | Teoría y Práctica |    75 |
+ |-----------+--------------------+--------------------+-----+-------------------+-------|
+ | 2009-2010 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Eléctricos) |   1 | Teoría            |    75 |
+ | 2009-2010 | Fund. de Electrotecnia | Ing. Técnico Industrial (Esp. Mecánicos) |   1 | Teoría y Práctica |    75 |
+ |-----------+--------------------+--------------------+-----+-------------------+-------|
+ | 2010-2011 | Teoría de Circuitos II | Ing. Técnico Industrial (Esp. Eléctricos) |   2 | Práctica          |    75 |
+ | 2010-2011 | Electrometría      | Ing. Técnico Industrial (Esp. Eléctricos) |   1 | Práctica          |    30 |
+ | 2010-2011 | Teoría de Circuitos I | Grado en Ing. Eléctrica |   1 | Práctica          |    45 |
+ |-----------+--------------------+--------------------+-----+-------------------+-------|
+ | 2011-2012 | Teoría de Circuitos | Grado en Ing. Química |   2 | Práctica          |    15 |
+ | 2011-2012 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Teoría            |    45 |
+ | 2011-2012 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Práctica          |    15 |
+ | 2011-2012 | Teoría de Circuitos | Grado en Ing. Eléctrica |   2 | Práctica          |    15 |
+ | 2011-2012 | Teoría de Circuitos | Grado en Ing. en Diseño Industrial |   2 | Teoría y Práctica |    60 |
+ | 2011-2012 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Práctica          |    15 |
+ |-----------+--------------------+--------------------+-----+-------------------+-------|
+ | 2012-2013 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    15 |
+ | 2012-2013 | Teoría de Circuitos | Grado en Ing. Química |   2 | Teoría            |    41 |
+ | 2012-2013 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Práctica          |    15 |
+ | 2012-2013 | Diseño Avanzado de Sistemas de Energía Solar | Máster Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
+ | 2012-2013 | Teoría de Circuitos | Grado en Ing. en Diseño Industrial |   2 | Teoría            |    41 |
+ | 2012-2013 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Práctica          |    30 |
+ |-----------+--------------------+--------------------+-----+-------------------+-------|
+ | 2013-2014 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    64 |
+ | 2013-2014 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Teoría y Práctica |    83 |
+ | 2013-2014 | Diseño Avanzado de Sistemas de Energía Solar | Máster Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
+ | 2013-2014 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    67 |
+ | 2013-2014 | Teoría de Circuitos | Grado en Ing. de Diseño Industrial |   2 | Teoría y Práctica |    48 |
+ |-----------+--------------------+--------------------+-----+-------------------+-------|
+ | 2014-2015 | Teoría de Circuitos III | Grado en Ing. Eléctrica |   3 | Práctica          |    64 |
+ | 2014-2015 | Teoría de Circuitos | Grado en Ing. Electrónica Industrial y Automática |   2 | Teoría y Práctica |    83 |
+ | 2014-2015 | Diseño Avanzado de Sistemas de Energía Solar | Máster Universitario en Ingeniería de la Energía |   1 | Teoría y Práctica |  10.5 |
+ | 2014-2015 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    67 |
+ | 2014-2015 | Teoría de Circuitos | Grado en Ing. de Diseño Industrial |   2 | Teoría y Práctica |    48 |
+ |-----------+--------------------+--------------------+-----+-------------------+-------|
+ | 2015-2016 | Teoría de Circuitos | Grado en Ing. Electrónica |   2 | Teoría y Práctica |    48 |
+ | 2015-2016 | Electrónica        | Grado en Ing. Química |   3 | Teoría y Práctica |    48 |
+ | 2015-2016 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    48 |
+ |-----------+--------------------+--------------------+-----+-------------------+-------|
+ | 2016-2017 | Teoría de Circuitos | Grado en Ing. Electrónica |   2 | Teoría y Práctica |    48 |
+ | 2016-2017 | Electrónica        | Grado en Ing. Química |   3 | Teoría y Práctica |    48 |
+ | 2016-2017 | Electrónica        | Grado en Ing. Electrónica |   2 | Teoría y Práctica |    10 |
+ | 2016-2017 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    48 |
+ | 2016-2017 | Informática        | Grado en Ing. Química |   1 | Teoría y Práctica |    60 |
+ |-----------+--------------------+--------------------+-----+-------------------+-------|
+ | 2017-2018 | Teoría de Circuitos | Grado en Ing. Electrónica |   2 | Teoría y Práctica |    48 |
+ | 2017-2018 | Teoría de Circuitos | Grado en Ing. Electrónica |   2 | Laboratorio       |    12 |
+ | 2017-2018 | Teoría de Circuitos | Grado en Ing. Mecánica |   2 | Teoría y Práctica |    48 |
+ | 2017-2018 | Informática        | Grado en Ing. Química |   1 | Teoría y Práctica |    60 |
+ |-----------+--------------------+--------------------+-----+-------------------+-------|
   
 ** Escuela de Organización Industrial
 
@@ -175,32 +185,29 @@ Colaborador en el Máster de Energías Renovables y Mercado Energético (MERME) 
 - "Une estimation de puissance dans un système photovoltaique avec Random Forest", Kobaa Abdeslam (Université Montpellier 2). 2013-2014.
 
 *** Escuela de Organización Industrial
-    - 2013-2014:
-      - ``Electrificación Rural mediante Sistema Híbrido Eólico-Fotovoltaico en Roraima, Brasil''
-      - ``Electrificación Rural Aislada Fotovoltaica (ERAF) a Institutos de Telesecundaria en San Pedro Carchá, Alta Verapaz, Guatemala.''
-    - 2011-2012:
-      - ``Servicios energéticos Renovables: E. Fotovoltaica, E. Mini-eólica y eficiencia energética en entornos urbanos''
-    - 2010-2011:
-      - ``Comparativa y análisis de variabilidad espacio-temporal entre las medidas de radiación solar terrestres (SIAR) y satelitales (CM SAF). Estudio de productividad potencial''.
-    - 2008/2009:
-      - "La integración de la generación distribuida de origen fotovoltaico con la red de distribución actual.
-    - 2007/2008:
-      - "Proyecto de Instalación Fotovoltaica de 100 kW para la conexión a red de BT. Sistemas Híbridos Fotovoltaico-Diesel"
-    - 2006/2007:
-      - "Instalación solar Polígono Albresa"
-      - "Parque solar FV en Huelva"
-      - "Instalación solar en Jarandilla de la Vera"
-    - 2005/2006:
-      - "Planta seguimiento BT: estudio de posibilidades en mercado libre"
-    - 2004/2005
-      - "Sistema fotovoltaico conectado a red, Fontiveros (Ávila)"
-      - "Instalación fotovoltaica conectada a red"
-    - 2003/2004:
-      - "Integración de un sistema de energía solar en un centro escolar"
-    - 2002/2003:
-      - "Sistema fotovoltaico conectado a red integrado en pérgolas del Ayuntamiento de Tres Cantos"
-    - 2001/2002:
-      - "PVSOUNDLESS: Sistema fotovoltaico integrado en una barrera acústica"
+      - ``Electrificación Rural mediante Sistema Híbrido Eólico-Fotovoltaico en Roraima, Brasil'' (2013-2014)
+      - ``Electrificación Rural Aislada Fotovoltaica (ERAF) a Institutos de Telesecundaria en San Pedro Carchá, Alta Verapaz, Guatemala.'' (2013-2014)
+      - ``Servicios energéticos Renovables: E. Fotovoltaica, E. Mini-eólica y eficiencia energética en entornos urbanos''     (2011-2012)
+
+      - ``Comparativa y análisis de variabilidad espacio-temporal entre las medidas de radiación solar terrestres (SIAR) y satelitales (CM SAF). Estudio de productividad potencial'' (2010-2011)
+      - "La integración de la generación distribuida de origen fotovoltaico con la red de distribución actual. (2008/2009)
+    # - 2007/2008:
+    #   - "Proyecto de Instalación Fotovoltaica de 100 kW para la conexión a red de BT. Sistemas Híbridos Fotovoltaico-Diesel"
+    # - 2006/2007:
+    #   - "Instalación solar Polígono Albresa"
+    #   - "Parque solar FV en Huelva"
+    #   - "Instalación solar en Jarandilla de la Vera"
+    # - 2005/2006:
+    #   - "Planta seguimiento BT: estudio de posibilidades en mercado libre"
+    # - 2004/2005
+    #   - "Sistema fotovoltaico conectado a red, Fontiveros (Ávila)"
+    #   - "Instalación fotovoltaica conectada a red"
+    # - 2003/2004:
+    #   - "Integración de un sistema de energía solar en un centro escolar"
+    # - 2002/2003:
+    #   - "Sistema fotovoltaico conectado a red integrado en pérgolas del Ayuntamiento de Tres Cantos"
+    # - 2001/2002:
+    #   - "PVSOUNDLESS: Sistema fotovoltaico integrado en una barrera acústica"
 
 *** EUREC
 Supervisión on-site de Proyectos de Fin de Máster del European Master in Renewable Energy de la Agencia EUREC en los cursos 2004/2005 y 2003/2004.
@@ -235,39 +242,41 @@ M. Castro, A. Colmenar, *O. Perpiñán*, C. Sánchez Naranjo. Monografías de En
 ** Publicaciones Internacionales
 Disponibles en [[http://oscarperpinan.github.io/#papers]]
 
-1. C. Gutiérrez, M. A. Gaertner, *O. Perpiñán*, C. Gallardo, E. Sánchez, A multi-step scheme for spatial analysis of solar and photovoltaic production variability and complementarity, Solar Energy, Volume 158, 2017, Pages 100-116, ISSN 0038-092X,  [[https://doi.org/10.1016/j.solener.2017.09.037][10.1016/j.solener.2017.09.037]].
+1. C. Gutiérrez, S. Somot, P. Nabat, M. Mallet, M. A. Gaertner, *O. Perpiñán*, Impact of aerosols on the spatiotemporal variability of photovoltaic energy production in the Euro-Mediterranean area, Solar Energy, Volume 174, 2018, Pages 1142-1152, ISSN 0038-092X, [[https://doi.org/10.1016/j.solener.2018.09.085][10.1016/j.solener.2018.09.085]] 
 
-2. M. Pinho Almeida, M. Muñoz, I. de la Parra, *O. Perpiñán*, Comparative study of PV power forecast using parametric and nonparametric PV models, Solar Energy, 155, 2017: 854-866, ISSN 0038-092X, [[https://doi.org/10.1016/j.solener.2017.07.032][10.1016/j.solener.2017.07.032]].
+2. C. Gutiérrez, M. A. Gaertner, *O. Perpiñán*, C. Gallardo, E. Sánchez, A multi-step scheme for spatial analysis of solar and photovoltaic production variability and complementarity, Solar Energy, Volume 158, 2017, Pages 100-116, ISSN 0038-092X,  [[https://doi.org/10.1016/j.solener.2017.09.037][10.1016/j.solener.2017.09.037]]. (Índice de impacto: 4.374, Tercil T1 en categoría /Energy & Fuels/)
 
-3. J. Muñoz, *O. Perpiñán*. A Simple Model for the Prediction of Yearly Energy Yields for Grid-Connected PV Systems Starting from Monthly Meteorological Data. Renewable Energy 97, 2016: 680–88. [[http://dx.doi.org/10.1016/j.renene.2016.06.023][10.1016/j.renene.2016.06.023]]. 
+3. M. Pinho Almeida, M. Muñoz, I. de la Parra, *O. Perpiñán*, Comparative study of PV power forecast using parametric and nonparametric PV models, Solar Energy, 155, 2017: 854-866, ISSN 0038-092X, [[https://doi.org/10.1016/j.solener.2017.07.032][10.1016/j.solener.2017.07.032]]. (Índice de impacto: 4.374, Tercil T1 en categoría /Energy & Fuels/)
 
-4. M. Pinho Almeida, *O. Perpiñán*, L. Narvarte, PV Power Forecast Using a Nonparametric PV Model. Solar Energy 115 (May 2015): 354–68. [[http://dx.doi.org/10.1016/j.solener.2015.03.006][10.1016/j.solener.2015.03.006]].\\ (Índice de impacto: 3.868, Tercil T1 en categoría /Energy & Fuels/)
+4. J. Muñoz, *O. Perpiñán*. A Simple Model for the Prediction of Yearly Energy Yields for Grid-Connected PV Systems Starting from Monthly Meteorological Data. Renewable Energy 97, 2016: 680–88. [[http://dx.doi.org/10.1016/j.renene.2016.06.023][10.1016/j.renene.2016.06.023]]. (Índice de impacto: 4.357, Tercil T1 en categoría /Energy & Fuels/)
 
-5. F. Antonanzas-Torres, F.J. Martínez de Pisón, J. Antonanzas, *O. Perpiñán*, Downscaling of global solar irradiation in complex areas in R, Journal of Renewable and Sustainable Energy, 6, 063105 (2014), [[http://dx.doi.org/10.1063/1.4901539][10.1063/1.4901539]] \\ (Índice de impacto: 0.925, Tercil T3 en categoría /Energy & Fuels/)
+5. M. Pinho Almeida, *O. Perpiñán*, L. Narvarte, PV Power Forecast Using a Nonparametric PV Model. Solar Energy 115 (May 2015): 354–68. [[http://dx.doi.org/10.1016/j.solener.2015.03.006][10.1016/j.solener.2015.03.006]].(Índice de impacto: 3.868, Tercil T1 en categoría /Energy & Fuels/)
 
-6. F. Antonanzas-Torres, A. Sanz-Garcia, F. J. Martínez-de-Pisón, *O. Perpiñán*, J. Polo, Towards downscaling of aerosol gridded dataset for improving solar resource assessment. Application to Spain, Renewable Energy, Volume 71, November 2014, Pages 534-544, [[http://dx.doi.org/10.1016/j.renene.2014.06.010][10.1016/j.renene.2014.06.010]]. \\ (Índice de impacto: 3.85, Tercil T1 en categoría /Energy & Fuels/)
+6. F. Antonanzas-Torres, F.J. Martínez de Pisón, J. Antonanzas, *O. Perpiñán*, Downscaling of global solar irradiation in complex areas in R, Journal of Renewable and Sustainable Energy, 6, 063105 (2014), [[http://dx.doi.org/10.1063/1.4901539][10.1063/1.4901539]] (Índice de impacto: 0.925, Tercil T3 en categoría /Energy & Fuels/)
 
-7. F. Antonanzas-Torres, A. Sanz-Garcia, F.J. Martínez-de-Pisón, *O. Perpiñán*, Evaluation and improvement of empirical models of global solar irradiation: Case study northern Spain, Renewable Energy, Volume 60, December 2013, Pages 604-614, ISSN 0960-1481, [[http://dx.doi.org/10.1016/j.renene.2013.06.008][10.1016/j.renene.2013.06.008]]. \\ (Índice de impacto: 2.99, Tercil T1 en categoría /Energy & Fuels/)
+7. F. Antonanzas-Torres, A. Sanz-Garcia, F. J. Martínez-de-Pisón, *O. Perpiñán*, J. Polo, Towards downscaling of aerosol gridded dataset for improving solar resource assessment. Application to Spain, Renewable Energy, Volume 71, November 2014, Pages 534-544, [[http://dx.doi.org/10.1016/j.renene.2014.06.010][10.1016/j.renene.2014.06.010]]. (Índice de impacto: 3.85, Tercil T1 en categoría /Energy & Fuels/)
 
-8. F. Antoñanzas, F. Cañizares, *O. Perpiñán*, Comparative assessment of global irradiation from a satellite estimate model (CM SAF) and on-ground measurements (SIAR): a Spanish case study, Renewable and Sustainable Energy Reviews, Volume 21, May 2013, Pages 248-261, [[http://dx.doi.org/10.1016/j.rser.2012.12.033][10.1016/j.rser.2012.12.033]]. \\ (Índice de impacto: 5.51, Tercil T1 en categoría /Energy & Fuels/)
+8. F. Antonanzas-Torres, A. Sanz-Garcia, F.J. Martínez-de-Pisón, *O. Perpiñán*, Evaluation and improvement of empirical models of global solar irradiation: Case study northern Spain, Renewable Energy, Volume 60, December 2013, Pages 604-614, ISSN 0960-1481, [[http://dx.doi.org/10.1016/j.renene.2013.06.008][10.1016/j.renene.2013.06.008]]. (Índice de impacto: 2.99, Tercil T1 en categoría /Energy & Fuels/)
 
-9. *O. Perpiñán*, J. Marcos, E. Lorenzo, Electrical Power Fluctuations in a Network of DC/AC inverters in a Large PV Plant: relationship between correlation, distance and time scale, Solar Energy, Volume 88, February 2013, [[http://dx.doi.org/10.1016/j.solener.2012.12.004][10.1016/j.solener.2012.004]]. \\ (Índice de impacto: 3.541, Tercil T1 en categoría /Energy & Fuels/)
+9. F. Antoñanzas, F. Cañizares, *O. Perpiñán*, Comparative assessment of global irradiation from a satellite estimate model (CM SAF) and on-ground measurements (SIAR): a Spanish case study, Renewable and Sustainable Energy Reviews, Volume 21, May 2013, Pages 248-261, [[http://dx.doi.org/10.1016/j.rser.2012.12.033][10.1016/j.rser.2012.12.033]]. (Índice de impacto: 5.51, Tercil T1 en categoría /Energy & Fuels/)
 
-10. *O. Perpiñán*, M.A. Sánchez-Urán, F. Álvarez, J. Ortego, F. Garnacho, Signal analysis and feature generation for pattern identification of partial discharges in high-voltage equipment, Electric Power Systems Research, 2013, 95:C (56-65), [[http://dx.doi.org/10.1016/j.epsr.2012.08.016][10.1016/j.epsr.2012.08.016]].\\ (Índice de impacto: 1.69, Tercil T1 en categoría /Engineering, Electrical & Electronic/)
+10. *O. Perpiñán*, J. Marcos, E. Lorenzo, Electrical Power Fluctuations in a Network of DC/AC inverters in a Large PV Plant: relationship between correlation, distance and time scale, Solar Energy, Volume 88, February 2013, [[http://dx.doi.org/10.1016/j.solener.2012.12.004][10.1016/j.solener.2012.004]]. (Índice de impacto: 3.541, Tercil T1 en categoría /Energy & Fuels/)
 
-11. *O. Perpiñán*, solaR: Solar Radiation and Photovoltaic Systems with R, Journal of Statistical Software, 2012. 50(9), (1-32). \\ (Índice de impacto: 4.91, Tercil T1 en categoría /Statistics & Probability/)
+11. *O. Perpiñán*, M.A. Sánchez-Urán, F. Álvarez, J. Ortego, F. Garnacho, Signal analysis and feature generation for pattern identification of partial discharges in high-voltage equipment, Electric Power Systems Research, 2013, 95:C (56-65), [[http://dx.doi.org/10.1016/j.epsr.2012.08.016][10.1016/j.epsr.2012.08.016]]. (Índice de impacto: 1.69, Tercil T1 en categoría /Engineering, Electrical & Electronic/)
 
-12. *O. Perpiñán*, Cost of energy and mutual shadows in a two-axis tracking PV system, Renewable Energy, 2012, [[http://dx.doi.org/10.1016/j.renene.2011.12.001][10.1016/j.renene.2011.12.001]]. \\ (Índice de impacto: 2.98, Tercil T1 en categoría /Energy & Fuels/)
+12. *O. Perpiñán*, solaR: Solar Radiation and Photovoltaic Systems with R, Journal of Statistical Software, 2012. 50(9), (1-32). (Índice de impacto: 4.91, Tercil T1 en categoría /Statistics & Probability/)
 
-13. *O. Perpiñán* y E. Lorenzo, Analysis and synthesis of the variability of irradiance and PV power time series with the wavelet transform, Solar Energy, 85:1 (188-197), 2011, [[http://dx.doi.org/10.1016/j.solener.2010.08.013][10.1016/j.solener.2010.08.013]]).\\ (Índice de impacto: 2.48, Tercil T1 en categoría /Energy & Fuels/)
+13. *O. Perpiñán*, Cost of energy and mutual shadows in a two-axis tracking PV system, Renewable Energy, 2012, [[http://dx.doi.org/10.1016/j.renene.2011.12.001][10.1016/j.renene.2011.12.001]]. (Índice de impacto: 2.98, Tercil T1 en categoría /Energy & Fuels/)
 
-14. *O. Perpiñán*, Statistical analysis of the performance and simulation of a two-axis tracking PV system, Solar Energy, 83:11(2074–2085), 2009, [[http://dx.doi.org/10.1016/j.solener.2009.08.008][10.1016/j.solener.2009.08.008]]. \\ (Índice de impacto: 2.01, Tercil T2 en categoría /Energy & Fuels/)
+14. *O. Perpiñán* y E. Lorenzo, Analysis and synthesis of the variability of irradiance and PV power time series with the wavelet transform, Solar Energy, 85:1 (188-197), 2011, [[http://dx.doi.org/10.1016/j.solener.2010.08.013][10.1016/j.solener.2010.08.013]]).(Índice de impacto: 2.48, Tercil T1 en categoría /Energy & Fuels/)
 
-15. *O. Perpiñán*, E. Lorenzo, M. A. Castro, y R. Eyras. Energy payback time of grid connected PV systems: comparison between tracking and fixed systems. Progress in Photovoltaics: Research and Applications, 17:137-147, 2009.\\ (Índice de impacto: 4.7; Tercil T1 en categoría /Energy & Fuels/)
+15. *O. Perpiñán*, Statistical analysis of the performance and simulation of a two-axis tracking PV system, Solar Energy, 83:11(2074–2085), 2009, [[http://dx.doi.org/10.1016/j.solener.2009.08.008][10.1016/j.solener.2009.08.008]]. (Índice de impacto: 2.01, Tercil T2 en categoría /Energy & Fuels/)
 
-16. *O. Perpiñán*, E. Lorenzo, M. A. Castro, y R. Eyras. On the complexity of radiation models for PV energy production calculation. Solar Energy, 82:2 (125-131), 2008\\ (Índice de impacto: 1.61, Tercil T2 en categoría /Energy & Fuels/)
+16. *O. Perpiñán*, E. Lorenzo, M. A. Castro, y R. Eyras. Energy payback time of grid connected PV systems: comparison between tracking and fixed systems. Progress in Photovoltaics: Research and Applications, 17:137-147, 2009. (Índice de impacto: 4.7; Tercil T1 en categoría /Energy & Fuels/)
 
-17. *O. Perpiñán*, E. Lorenzo, y M. A. Castro. On the calculation of energy produced by a PV grid-connected system. Progress in Photovoltaics: Research and Applications, 15(3):265–274, 2007.\\ (Índice de impacto: 2.18; Tercil T1 en categoría /Energy & Fuels/)
+17. *O. Perpiñán*, E. Lorenzo, M. A. Castro, y R. Eyras. On the complexity of radiation models for PV energy production calculation. Solar Energy, 82:2 (125-131), 2008 (Índice de impacto: 1.61, Tercil T2 en categoría /Energy & Fuels/)
+
+18. *O. Perpiñán*, E. Lorenzo, y M. A. Castro. On the calculation of energy produced by a PV grid-connected system. Progress in Photovoltaics: Research and Applications, 15(3):265–274, 2007. (Índice de impacto: 2.18; Tercil T1 en categoría /Energy & Fuels/)
 
 ** Publicaciones Nacionales
 
@@ -612,6 +621,12 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
   :PROPERTIES:
   :CUSTOM_ID: congresos
   :END:
+
+** 20th EGU General Assembly, EGU2018, 	
+Congreso Internacional celebrado en 2018, Austria.
+
+ Impacts of aerosols on photovoltaic energy production in the Euro-Mediterranean area, Gutiérrez, Claudia; Somot, Samuel; Nabat, Pierre; Mallet, Marc; Ángel Gaertner, Miguel; *Perpiñán, Oscar*
+
 ** 31st European Photovoltaic Solar Energy Conference and Exhibition
 Congreso Internacional organizado por WIP. Septiembre 2015.
 
@@ -782,11 +797,11 @@ partial discharges in high-voltage equipment, Electric Power Systems Research, 2
   :PROPERTIES:
   :CUSTOM_ID: cursos_impartidos
   :END:
-- Curso "Introducción a R" (8 horas) para profesores de la UPM (Instituto de Ciencias de la Educación, UPM):  Noviembre 2017, Enero 2017, Enero 2016, Diciembre 2014.
+- Curso "Introducción a R" (8 horas) para profesores de la UPM (Instituto de Ciencias de la Educación, UPM):  Enero 2019, Noviembre 2017, Enero 2017, Enero 2016, Diciembre 2014.
 
 - Curso "R avanzado" (8 horas) para profesores de la UPM (Instituto de Ciencias de la Educación, UPM): Junio 2018, Julio 2017, Febrero 2016.
 
-- Curso "Introducción a R" (10 horas) para alumnos del CEIGRAM-UPM: Septiembre 2015, Noviembre 2014.
+- Curso "Introducción a R" (10 horas) para alumnos del CEIGRAM-UPM: Septiembre 2018, Octubre 2017, Septiembre 2016, Septiembre 2015, Noviembre 2014.
 
 - Taller "Visualización de Series Temporales" en las VI Jornadas de Usuarios de R (Santiago de Compostela, Octubre 2014)
 
@@ -845,6 +860,7 @@ partial discharges in high-voltage equipment, Electric Power Systems Research, 2
   :CUSTOM_ID: premios
   :END:
 
+- Premio al Mérito Docente (Delegación de Alumnos de la ETSIDI, 2017).
 - Premio Extraordinario de Doctorado.
 - Beca de Colaboración dentro del Grupo de Bioingeniería y Telemedicina de la ETSIT en el contexto del proyecto europeo "Worldwide Emergency Telemedicine Services" (WETS) (1998)
 
