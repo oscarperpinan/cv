@@ -700,10 +700,15 @@ Disponibles en [[http://oscarperpinan.github.io/#papers]]
   :CUSTOM_ID: congresos
   :END:
 
+** 21th EGU General Assembly, EGU2019
+Congreso Internacional celebrado en 2019, Austria.
+
+ Impact of aerosols on PV power projections over Europe: Gutiérrez, Claudia; Somot, Samuel; Nabat, Pierre; Mallet, Marc; Ángel Gaertner, Miguel; *Perpiñán, Oscar*
+
 ** 20th EGU General Assembly, EGU2018, 	
 Congreso Internacional celebrado en 2018, Austria.
 
- Impacts of aerosols on photovoltaic energy production in the Euro-Mediterranean area, Gutiérrez, Claudia; Somot, Samuel; Nabat, Pierre; Mallet, Marc; Ángel Gaertner, Miguel; *Perpiñán, Oscar*
+ Impacts of aerosols on photovoltaic energy production in the Euro-Mediterranean area: Gutiérrez, Claudia; Somot, Samuel; Nabat, Pierre; Mallet, Marc; Ángel Gaertner, Miguel; *Perpiñán, Oscar*
 
 ** 31st European Photovoltaic Solar Energy Conference and Exhibition
 Congreso Internacional organizado por WIP. Septiembre 2015.
